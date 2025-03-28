@@ -1,0 +1,4 @@
+baseURL = 'https://nithwith.github.io/blog/'
+languageCode = 'en-US'
+title = 'Mon blog'
+theme = "PaperMod"
