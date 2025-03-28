@@ -1,14 +1,10 @@
 baseURL = 'https://nithwith.github.io/blog/'
 title = 'Mon blog'
-theme = "hugo-blog-awesome"
+theme = "PaperMod"
+description = "CYCLING / TRAVEL / DIY"
 
 languageCode = 'fr-fr'
 defaultContentLanguage = "fr-fr"
-
-avatar = "avatar.jpg"
-intro = "Mon blog"
-name = "TEST"
-description = "CYCLING / TRAVEL / DIY"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
@@ -26,11 +22,6 @@ enableEmoji = true
   url = '/tags/aventure/'
   weight = 30
 [[menu.main]]
-  name = 'Ma carte'
+  name = 'Ma heatmap'
   url = '/carte-de-mes-voyages'
-  weight = 40
-
-[[menu.main]]
-  name = 'Mentions légales'
-  url = '/mentions-legales'
   weight = 30

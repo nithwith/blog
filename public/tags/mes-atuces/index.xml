@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mes Atuces on Mon blog</title>
     <link>http://localhost:1313/blog/tags/mes-atuces/</link>
     <description>Recent content in Mes Atuces on Mon blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 31 Oct 2020 09:38:47 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/mes-atuces/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2020 09:38:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/mes-atuces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quel matériel choisir pour partir à vélo ?</title>
       <link>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</link>
       <pubDate>Sat, 31 Oct 2020 09:38:47 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</guid>
-      
       <description>&lt;p&gt;Le voyage en vélo c&amp;rsquo;est un saut dans le vide ! Partir plusieurs jours à bicyclette, ça laisse rêveur mais milles questions se posent pour les néophytes. Essayons d’éclaircir tout ça ensemble.&lt;/p&gt;
 &lt;p&gt;Je vais essayer dans ce billet de partager ma petite expérience de voyageur à vélo sur la question : Quel matériel choisir pour partir à vélo ? Un point au combien important car il conditionnera une partie de votre aventure et vous permettra de grappiller un confort bienvenu ;)&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Choisir son itinéraire en voyage à vélo</title>
       <link>http://localhost:1313/blog/post/conseils-voyage-a-velo/</link>
       <pubDate>Fri, 23 Dec 2016 21:28:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/conseils-voyage-a-velo/</guid>
-      
       <description>&lt;h2 id=&#34;itinéraires-cyclable&#34;&gt;Itinéraires cyclable&lt;/h2&gt;
 &lt;p&gt;En Europe :&lt;/p&gt;
 &lt;ul&gt;
@@ -57,21 +52,15 @@
 &lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=net.osmand&amp;amp;hl=en_US&#34;&gt;Osmand&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=menion.android.locus&amp;amp;hl=en_US&#34;&gt;Locusmap&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      
     </item>
-    
     <item>
       <title>WarmShowers : Eldorado des cyclotouristes !</title>
       <link>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</link>
       <pubDate>Wed, 20 Jan 2016 21:30:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</guid>
-      
       <description>&lt;p&gt;Je profite d&amp;rsquo;un article sur mon site pour vous faire partager un site internet indispensable à tout cyclotouriste : &lt;a href=&#34;https://fr.warmshowers.org/&#34;&gt;WarmShowers&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;le-concept&#34;&gt;Le concept&lt;/h3&gt;
 &lt;p&gt;Le site propose un moyen de communication entre les cyclos s’aventurant sur les routes et les propriétaires disposant de chambres d’amis ou de location saisonnière vide, le WarmShowers s’appuie sur le principe du couch surfing, mais s’adresse uniquement aux &lt;strong&gt;cyclotouristes&lt;/strong&gt;. C’est l’un des premiers systèmes d’échange et de prêt de ce type (le service est gratuit) et il repose entièrement sur le bénévolat.&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>

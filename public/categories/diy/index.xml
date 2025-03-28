@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DIY on Mon blog</title>
     <link>http://localhost:1313/blog/categories/diy/</link>
     <description>Recent content in DIY on Mon blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 13 Dec 2020 23:31:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/diy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 23:31:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fabriquer une sacoche de vélo</title>
       <link>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</link>
       <pubDate>Sun, 13 Dec 2020 23:31:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</guid>
-      
       <description>&lt;iframe width=&#34;356&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/41yh3Glstrk?feature=oembed&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;le-matériel&#34;&gt;Le matériel&lt;/h3&gt;
 &lt;ul&gt;
@@ -27,28 +26,20 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;découpe&#34;&gt;Découpe&lt;/h3&gt;
 &lt;p&gt;Découper votre sangle de 1m80 en deux longueurs de 40cm une longueur de 1m.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Construction d&#39;un vélo cargo &#34;Long tail&#34;</title>
       <link>http://localhost:1313/blog/post/construction-dun-velo-cargo/</link>
       <pubDate>Thu, 16 Apr 2020 19:34:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/construction-dun-velo-cargo/</guid>
-      
       <description>&lt;p&gt;Je roule un vélo cargo Omnium depuis bientôt deux ans et je l&amp;rsquo;adore. C&amp;rsquo;est un vélo qui roule très bien. Il n&amp;rsquo;est pas trop tape l’œil mais j&amp;rsquo;hésite toujours à laisser la nuit dans le rue&amp;hellip;..&lt;/p&gt;
 &lt;p&gt;En septembre 2019, je me suis mis dans la tête de créer mon propre vélo cargo pour palier a ce problème. L&amp;rsquo;idée était de créer un vélo solide, qui peut emporter beaucoup et pour un budjet limité (&amp;lt;400euros). Je propose de suivre sa fabrication dans cet article.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Mes projets coutures</title>
       <link>http://localhost:1313/blog/post/mes-projets-coutures/</link>
       <pubDate>Tue, 09 Apr 2019 20:09:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/mes-projets-coutures/</guid>
-      
       <description>&lt;p&gt;Petit post pour présenter quelques une de mes production de couture (Sacoches de vélo, trousses, etc&amp;hellip;)&lt;/p&gt;
 &lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
   &lt;div class=&#34;kg-gallery-container&#34;&gt;
@@ -89,16 +80,12 @@
   &lt;/div&gt;
   
 &lt;/figure&gt;</description>
-      
     </item>
-    
     <item>
       <title>Mes premiers projets menuiserie</title>
       <link>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</link>
       <pubDate>Wed, 13 Mar 2019 22:23:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</guid>
-      
       <description>&lt;p&gt;Au mois de janvier, j&amp;rsquo;ai eu l&amp;rsquo;occasion de faire un peu de menuiserie pour produire plusieurs objets en bois, je vous présente la réalisation de ces objets ci dessous.&lt;/p&gt;
 &lt;h3 id=&#34;station-de-ponçage&#34;&gt;Station de ponçage&lt;/h3&gt;
 &lt;p&gt;Dans un premier temps, j&amp;rsquo;ai acheté une ponceuse a bande au début de l&amp;rsquo;année. Pour pouvoir travailler plus finement avec la ponceuse, je lui fabriquer un support en bois.&lt;/p&gt;
@@ -128,8 +115,6 @@
 &lt;/figure&gt;
 &lt;h3 id=&#34;support-ordinateur-portable&#34;&gt;Support ordinateur portable&lt;/h3&gt;
 &lt;p&gt;J&amp;rsquo;ai continué avec le construction d&amp;rsquo;un support pour mon ordinateur portable. Le besoin était simple, depuis peu je fais du télétravail et mon bureau a été vite surchargé. Pour organiser clavier, souris, laptop, fournitures de bureau, archives papier et lampe, j&amp;rsquo;ai construit ce meuble en bois.&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>
