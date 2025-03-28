@@ -3,7 +3,7 @@ categories = ["Vélo", "Aventure"]
 date = 2018-09-05T22:04:00Z
 description = ""
 draft = false
-image = "www.theomarty.fr/content/images/2020/01/20180901_070436-min-1.jpg"
+image = "nithwith.github.io/blog/content/images/2020/01/20180901_070436-min-1.jpg"
 slug = "strasbourg-grenoble-a-velo"
 tags = ["Vélo", "Aventure"]
 title = "Strasbourg - Grenoble à vélo"
@@ -25,7 +25,7 @@ Pour ce voyage de fin d'été 2018, vous sommes partis de Strasbourg. Tout d'abo
 
 Nous avons attaqué la journée par une visite de la ville, puis nous avons pris la direction du sud sur le canal du rhône au Rhin que nous avons suivi une bonne partie de la journée. Nous avons visité la forteresse vauban de Neuf Brisach puis nous sommes arrété en camping sauvage non loin de la centrale nucléaire de Fessenheim. Une première journée a 100km qui nous  mis en confiance tout les deux.
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/20180901_070436-min.jpg" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180901_070436-min.jpg" >}}
 
 Jour 2 : Fessenheim – Soleure (100km)
 
@@ -36,13 +36,13 @@ Après Bale, nous avons passé la fin des Alpes. Sur 60km nous avons grimpé un 
 Nous avons campé dans les champs avant d'arriver dans la ville. Encore une grosse journée, les jambes commencent à être fatiguées.
 
 {{< gallery >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/01/20180901_104728-min-1.jpg" width="4032" height="3024" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/01/20180902_100939-min.jpg" width="2592" height="1936" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/01/20180902_123354-min.jpg" width="4032" height="3024" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/01/20180901_104728-min-1.jpg" width="4032" height="3024" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/01/20180902_100939-min.jpg" width="2592" height="1936" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/01/20180902_123354-min.jpg" width="4032" height="3024" >}}{{< /gallery >}}
 
 Jour 3 : Soleure – Neuchâtel (60km)
 
 Après ce début de voyage très sportif, nous avons décidé de ralentir la cadence avec une journée calme jusqu'à Neuchâtel. Nous avons visité Soleure le matin, puis nous avons longé le lac de Bienne pour arriver chez un warmshower que nous avions contacté plus tôt.
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/20180904_115637-min.jpg" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180904_115637-min.jpg" >}}
 
 Jour 4 : Neuchâtel – Nyon (120km)
 
@@ -50,7 +50,7 @@ Après une journée de tranquille et une nuit dans un bon lit, nous sommes repar
 
 Nous sommes ensuite repartis vers Nyon, notre hébergement de la journée, pour y arriver en début de soirée.
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/20180905_105904-min.jpg" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180905_105904-min.jpg" >}}
 
 Jour 5 : Nyon – Seyssel (120km)
 
@@ -62,7 +62,7 @@ Pour finir cette belle journée, nous rejoignons la vallée du Rhône et planton
 
 lien vers notre parcours du jour 5 : [https://www.strava.com/activities/1821809140](https://www.strava.com/activities/1821809140)
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/20180905_142609-min.jpg" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180905_142609-min.jpg" >}}
 
 Jour 6 : Seyssel - Chambery (60km)
 
@@ -70,7 +70,7 @@ L'orage a toné toute la nuit et il tonera toute la journée suivante, nous repa
 
 Heureusement, à l'arrivée à Chambery nous mettons le cap sur un restaurant savoyard dans lesquel nous mangeons une bonne raclette. Après ce repas excellent, nous rejoingons notre hôte (ami de juliette) dans l'après midi.
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/20180906_102544-min.jpg" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180906_102544-min.jpg" >}}
 
 Jour 7 : Chambery - Grenoble (60km)
 

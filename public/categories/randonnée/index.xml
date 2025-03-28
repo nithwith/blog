@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Randonnée on Blog de Théo</title>
+    <title>Randonnée on Mon blog</title>
     <link>http://localhost:1313/blog/categories/randonn%C3%A9e/</link>
-    <description>Recent content in Randonnée on Blog de Théo</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 20 May 2021 08:11:39 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/randonn%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Randonnée on Mon blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 20 May 2021 08:11:39 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/randonn%C3%A9e/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Escapade sur le GR10 en fraterie</title>
       <link>http://localhost:1313/blog/post/escapade-sur-le-gr10-en-fraterie/</link>
       <pubDate>Thu, 20 May 2021 08:11:39 +0000</pubDate>
+      
       <guid>http://localhost:1313/blog/post/escapade-sur-le-gr10-en-fraterie/</guid>
+      
       <description>&lt;p&gt;See full screen&lt;/p&gt;
 &lt;p&gt;12/05/21 : 8km&lt;/p&gt;
 &lt;p&gt;Le réveil sonne à 4h30 et nous prenons notre train en gare de La rochelle à 5h42. C&amp;rsquo;est parti pour une longue journée de voyage vers les Pyrénées. Escale à Bordeaux puis Toulouse et déjeuné à Narbonne. Le voyage se complique un peu avec un train supprimé. Nous en profitons pour faire des provisions chez biocoop et la boucherie Halal du quartier dans laquelle nous trouvons des dattes excellentes qui nous suivront tout le voyage. Nous prenons finalement un bus affrété spécialement pour l&amp;rsquo;occasion mais le conducteur ne connait pas la route et à mis 2h pour faire le trajet jusqu&amp;rsquo;à Perpignan.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

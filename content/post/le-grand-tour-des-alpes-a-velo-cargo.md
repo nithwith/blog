@@ -3,7 +3,7 @@ categories = ["Aventure", "Vélo cargo", "Vélo"]
 date = 2020-10-31T13:20:00Z
 description = ""
 draft = false
-image = "www.theomarty.fr/content/images/2020/10/DSC00563.JPG"
+image = "nithwith.github.io/blog/content/images/2020/10/DSC00563.JPG"
 slug = "le-grand-tour-des-alpes-a-velo-cargo"
 tags = ["Aventure", "Vélo cargo", "Vélo"]
 title = "Le grand tour des Alpes à vélo cargo"
@@ -32,7 +32,7 @@ Après cette belle rencontre, nous avons quittés la velodycée pour s'enfoncer 
 Nous avons ensuite traversés les hautes Landes pour arriver à Mont de Marsan. Ce sont les plus grandes lignes droites que j'ai jamais vu ! 27km entre 2 hameau pou la plus grande ! C'est un vrai désert, il n'y a rien à pars du sables, des pins et des routes effondrées (suite aux inondations du mois de mai).Le bivouac à été dressé en bordure de la base militaire de mont de Marsan, c'était sans compter le décollage des rafales à la tombée de la nuit et à 8h ce matin ;)
 
 {{< gallery caption="Transport de sac de pèlerin vers Lacanau / Vestiges des inondations dans les Landes / Arrivée à Cauteret dans les Pyrénées" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00137.JPG" width="1616" height="1080" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200804_170654.jpg" width="4032" height="2268" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00137.JPG" width="1616" height="1080" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200804_170654.jpg" width="4032" height="2268" >}}{{< /gallery >}}
 
 Après un petite visite de Mont de Marssant, nous avons continuer vers le sud jusqu'à Arzacq-Arraziguet où nous nous sommes arrêtés dans un gîte de pèlerin (chemin de Saint Jacques de Compostelle) ou nous avons pu prendre une bonne douche.
 
@@ -49,7 +49,7 @@ Deux jours après, je suis reparti direction la frontière Italienne. J'ai empru
 Je suis redescendu du côté italien vers Cuneo puis j'ai traversé les plaine du Piémont très fertiles pleine de verger (photo ci dessous). Dans les longues lignes droite sans dénivelé de la plaine du Pô, le cargo était vraiment à son aise, on sent bien qu'il a été conçu pour rouler sur le plat.
 
 {{< gallery caption="Roquesteron (Parc des Préalpes au dessus de Nice) / Isola 2000 - Col de la lombarde - Passage obligé pour l'Italie / Les vergés du Piemont / Le lac de Guarde" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00251.JPG" width="1616" height="1080" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00286.JPG" width="1616" height="1080" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200822_190640.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00355.JPG" width="1616" height="1080" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00251.JPG" width="1616" height="1080" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00286.JPG" width="1616" height="1080" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200822_190640.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00355.JPG" width="1616" height="1080" >}}{{< /gallery >}}
 
 Je suis passé ensuite à Turin que j'ai pris de temps de visiter, son architecture est sobre et détaillée, elle est calme et fraîche, et j'ai même rencontré des vélo cargo ! Seul regret, je n'ai pas pu faire le musée égyptien à cause des restriction covid.
 
@@ -64,7 +64,7 @@ Ensuite je suis remonté sur lac de Garde par la rive Ouest, plus dangereuse que
 Arrivé à Riva del guarda, je me suis posé quelques jours pour visiter les environ avec des amis habitat la bas. J'ai ensuite passé une semaine dans un ferme à Rovereto pour aider à la récolte de sarriette (herbe pour les infusion) et à la fabrication de sauce tomates pour de délicieuse pizza maison ;) 
 
 {{< gallery caption="Ramassage de la Sarriette / Fabrication de sauce tomate à Rovereto" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200825_154320.jpg" width="4032" height="2268" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200825_154320.jpg" width="4032" height="2268" >}}{{< /gallery >}}
 
 ### Lac de Garde - Vienne
 
@@ -75,7 +75,7 @@ J'ai ensuite emprunté l'eurovelo 8 le long de la côte vénitienne  à la déco
 La ville de Trieste, elle même est plutôt jolie. Accrochée entre l'adriatique et les montagnes, elle est remplie d'histoire grâce a position au carrefour de la Croatie, de l'Italie et de la Slovénie.
 
 {{< gallery caption="Les Alpes italiennes / Porto Piquolo (bivouac au dessus de la crique) / Les routes slovène avec Peter" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200904_165511.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200906_193751.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200909_114716.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/IMG-20200909-WA0002.jpg" width="1600" height="1200" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200904_165511.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200906_193751.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200909_114716.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/IMG-20200909-WA0002.jpg" width="1600" height="1200" >}}{{< /gallery >}}
 
 En sortant de Trieste, on passe directement en Slovénie. Après 80km, je suis arrivé à la capitale Ljubljana qui est une belle ville à taille humaine, il y a pleins de choses à visiter, j'y ai aussi rencontré  Peter, un warmshower très sympa ! Nous nous sommes baladés dans la soirée pour aller voir un chouette concert dans un squat de la ville.
 
@@ -92,7 +92,7 @@ Vienne possède un très bon réseaux cyclable qui peut rivaliser sans pâlir à
 
 
 {{< gallery caption="Karin et Peter qui m'ont accueillis en Autriche / La cathédrale St Stephen de Vienne / Bivouac sur le Danube avant la frontière Allemande" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00528.JPG" width="1616" height="1080" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00584.JPG" width="1616" height="1080" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00528.JPG" width="1616" height="1080" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00584.JPG" width="1616" height="1080" >}}{{< /gallery >}}
 
 ### Vienne - Zürich
 
@@ -117,7 +117,7 @@ Après Munick, j'ai filé plein est à travers la Bavière. Les paysages sont tr
 Après d'ultimes côtes bavaroises, je suis arrivé sur les rives du lac Constance qui établit la frontière entre l'Autriche, l'Allemagne et la Suisse.
 
 {{< gallery caption="München / Piscine publique en Bavière / Paysage de Bavière" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00593-1.JPG" width="1616" height="1080" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200921_164411.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00618.JPG" width="1616" height="1080" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00593-1.JPG" width="1616" height="1080" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200921_164411.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00618.JPG" width="1616" height="1080" >}}{{< /gallery >}}
 
 J'ai pris le ferry à Meersburg pour traverser lac de Constance. Attention il a plusieurs compagnies qui proposent la traversée, il faut choisir l’embarcadère municipal ou la traversée est seulement à 4 euros ;). J'ai ensuite remonté le Rhin en retrouvant l'eurovelo 6 jusqu'à la frontière Suisse.
 
@@ -128,7 +128,7 @@ Ensuite je suis passé par Winterthur, belle ville industrielle Suisse, pour arr
 En arrivant à Zürich j'ai rencontré Jacques par warmshower, il m'a offert un repos nécessaire. J'ai pu visiter la ville, participé à une vélorution (photo ci dessous :) ) et surtout m'équipé de vêtements chaud pour faire fasse au changement de saison :)
 
 {{< gallery caption="Critical Mass à Zürich /Parking souterrain Suisse, idéal pour passer un nuit pluvieuse" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200925_204724.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00667.JPG" width="1616" height="1080" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200925_204724.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00667.JPG" width="1616" height="1080" >}}{{< /gallery >}}
 
 En partant de Zurich, je me suis fait surprendre par une averse qui a durée jusqu'à tard dans la nuit. Je ne suis mis à l'abris dans un parking souterrain dans lequel j'ai finalement passé la nuit pour partir à 5h le lendemain matin en direction de la France !
 
@@ -141,7 +141,7 @@ En passant la frontière Française j'étais heureux de retrouver des francophon
 J'ai visiter la petite ville de Montbéliard et son château des ducs de Wurtemberg. L'histoire de la ville longtemps rattachée à a la grande famille germanique et enclave protestante en France est très intéressante (le guide y es pour beaucoup). Je suis ensuite passé à Besançon ou j' ai visité la citadelle majestueuse et la ville en contrebas, encore une belle œuvre de Vauban.
 
 {{< gallery caption="Le canal du Rhône au Rhin / La Loire / Paysage Bourguignon" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20200930_130453.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/20201005_222242.jpg" width="1142" height="767" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/10/DSC00723.JPG" width="1616" height="1080" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20200930_130453.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/20201005_222242.jpg" width="1142" height="767" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/10/DSC00723.JPG" width="1616" height="1080" >}}{{< /gallery >}}
 
 En quittant Besançon, j'ai emprunté le canal du Rhône au Rhin jusqu'à Dôle . Je suis arrivé dans la petite ville dans l'après midi et j'ai été étonné de son patrimoine culturel remarquable. J'ai visité la cathédrale et le musée dans la maison natale de Pasteur, plutôt chouette.
 
@@ -161,7 +161,7 @@ J'arrive le lendemain à la Rochelle, heureux de retrouver toute la famille et u
 
 Merci à vous d'avoir lu ce petit récit de mon aventure ! 
 
-{{< figure src="www.theomarty.fr/content/images/2020/10/DSC00743.JPG" caption="Arrivée à La Rochelle" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/10/DSC00743.JPG" caption="Arrivée à La Rochelle" >}}
 
 
 

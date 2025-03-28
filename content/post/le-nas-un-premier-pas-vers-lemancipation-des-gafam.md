@@ -3,7 +3,7 @@ categories = ["Numérique"]
 date = 2019-09-19T22:10:00Z
 description = ""
 draft = false
-image = "www.theomarty.fr/content/images/2020/01/DSC_0595-min.jpg"
+image = "nithwith.github.io/blog/content/images/2020/01/DSC_0595-min.jpg"
 slug = "le-nas-un-premier-pas-vers-lemancipation-des-gafam"
 tags = ["Numérique"]
 title = "Le NAS :  un premier pas vers l'émancipation des Gafam"
@@ -31,7 +31,7 @@ Face à la montée en puissance exponentielle de ces acteurs, quelques organisat
 
 C'est le cas notamment de Framasoft qui propose des services analogues à ceux de Google mais sans intervenir dans votre vie privée. On peut noter aussi le réseau social Mastodon qui veut se substituer à Facebook. Ces services sont proposés dans le cadre de l'open-source (c'est à dire des logiciels dont le code est disponible gratuitement sur internet).
 
- <a href="www.theomarty.fr/le-nas-un-premier-pas-vers-lemancipation-des-gafam/framasoft.org">framasoft.org</a>" >
+ <a href="nithwith.github.io/blog/le-nas-un-premier-pas-vers-lemancipation-des-gafam/framasoft.org">framasoft.org</a>" >
 
 ## Le choix
 
@@ -82,7 +82,7 @@ Bref, pour que la NAS soit vraiment exploité il faut le connecter avec de la fi
 
 La grande force de Google est de disposer d'énormes data center aux 4 coins du monde associés à des technologies avancées de sauvegarde de données. En effet, la data est son fond de commerce, donc Google y fait très attention. Il y a très peu de chance que vos données soient perdues. Coté NAS, la perte de données est gérée par une réplication des données sur deux disques durs.  En effet, j'ai indiqué  plus haut que j'ai équipé mon NAS de deux disques durs de 2To et je n'ai que 2To de stockage car le stockage est répliqué entre les deux disques  durs . Si un des disques lâche, Je l'enlève, en remets  un autre à la place et la réplication se refait automatiquement. Je ne risque pas de perte de données.
 
-{{< figure src="www.theomarty.fr/content/images/2020/01/S-lection_102.png" caption="Interface d'analyse de la santé des disques de stockage" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/01/S-lection_102.png" caption="Interface d'analyse de la santé des disques de stockage" >}}
 
 
 

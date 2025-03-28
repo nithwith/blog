@@ -1,123 +1,174 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="fr-fr"><head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<head><script src="/blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=blog/livereload" data-no-instant defer></script><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
-<title>Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Blog de Théo</title>
-<meta name="keywords" content="Numérique">
-<meta name="description" content="Salut, aujourd&rsquo;hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.
-Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.">
-<meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/">
-<link crossorigin="anonymous" href="/blog/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css" integrity="sha256-9J1myq6eoP1D8h8p5xqNPihFF&#43;13Dyqob6ASlTrTye8=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/blog/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/blog/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/blog/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/blog/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/blog/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
+<title itemprop="name">Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Mon blog</title>
+<meta property="og:title" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Mon blog" />
+<meta name="twitter:title" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Mon blog" />
+<meta itemprop="name" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Mon blog" />
+<meta name="application-name" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam | Mon blog" />
+<meta property="og:site_name" content="" />
 
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
+<meta name="description" content="">
+<meta itemprop="description" content="" />
+<meta property="og:description" content="" />
+<meta name="twitter:description" content="" />
 
-            .list {
-                background: var(--theme);
-            }
+<meta property="og:locale" content="fr-fr" />
+<meta name="language" content="fr-fr" />
 
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
+  <link rel="alternate" hreflang="fr-fr" href="http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/" title="" />
 
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
 
-    </style>
-</noscript>
-</head>
+<meta itemprop="image" content="http://localhost:1313/blog/nithwith.github.io/blog/content/images/2020/01/DSC_0595-min.jpg" />
+<meta property="og:image" content="http://localhost:1313/blog/nithwith.github.io/blog/content/images/2020/01/DSC_0595-min.jpg" />
+<meta name="twitter:image" content="http://localhost:1313/blog/nithwith.github.io/blog/content/images/2020/01/DSC_0595-min.jpg" />
+<meta name="twitter:image:src" content="http://localhost:1313/blog/nithwith.github.io/blog/content/images/2020/01/DSC_0595-min.jpg" />
 
-<body class="" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
 
-</script>
 
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="http://localhost:1313/blog/" accesskey="h" title="Blog de Théo (Alt + H)">Blog de Théo</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-        </ul>
-    </nav>
-</header>
-<main class="main">
+<meta name="generator" content="Hugo 0.145.0">
 
-<article class="post-single">
-  <header class="post-header">
     
-    <h1 class="post-title entry-hint-parent">
-      Le NAS :  un premier pas vers l&#39;émancipation des Gafam
-    </h1>
-    <div class="post-meta"><span title='2019-09-19 22:10:00 +0000 UTC'>September 19, 2019</span>
+    <meta property="og:url" content="http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/">
+  <meta property="og:site_name" content="Mon blog">
+  <meta property="og:title" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam">
+  <meta property="og:description" content="Salut, aujourd’hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.
+Pour bien commencer qu’est qu’un NAS ? Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.">
+  <meta property="og:locale" content="fr_fr">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2019-09-19T22:10:00+00:00">
+    <meta property="article:modified_time" content="2019-09-19T22:10:00+00:00">
+    <meta property="article:tag" content="Numérique">
 
+
+    
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Le NAS :  un premier pas vers l&#39;émancipation des Gafam">
+  <meta name="twitter:description" content="Salut, aujourd’hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.
+Pour bien commencer qu’est qu’un NAS ? Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.">
+
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/">
+    <link href="/blog/style.min.e390ba7da26222f4dc42a349955d76dbbe44e5ce2535a43de5a70633a0a9ec3c.css" rel="stylesheet">
+    <link href="/blog/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/blog/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/blog/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/blog/icons/favicon-16x16.png">
+    <link rel="mask-icon" href="/blog/icons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/blog/favicon.ico">
+
+
+
+
+<link rel="manifest" href="http://localhost:1313/blog/site.webmanifest">
+
+<meta name="msapplication-config" content="/blog/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#434648">
+
+    
+    <link rel="icon" type="image/svg+xml" href="/blog/icons/favicon.svg">
+
+    
+    
+</head>
+<body data-theme = "" class="notransition">
+
+<script src="/blog/js/theme.js"></script>
+
+<div class="navbar" role="navigation">
+    <nav class="menu" aria-label="Main Navigation">
+        <a href="http://localhost:1313/blog/" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+stroke-linejoin="round" class="feather feather-home">
+<title>Accueil</title>
+<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+<polyline points="9 22 9 12 15 12 15 22"></polyline>
+</svg>
+        </a>
+        <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+        <label for="menu-trigger">
+            <span class="menu-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+            </span>
+        </label>
+
+        <div class="trigger">
+            <ul class="trigger-container">
+                
+                
+                <li>
+                    <a class="menu-link " href="/blog/">
+                        Accueil
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/blog/tags/aventure/">
+                        Aventures
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/blog/carte-de-mes-voyages">
+                        Ma carte
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/blog/mentions-legales">
+                        Mentions légales
+                    </a>
+                    
+                </li>
+                
+                <li class="menu-separator">
+                    <span>|</span>
+                </li>
+                
+                
+            </ul>
+            <a id="mode" href="#">
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-moon" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>DARK</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+            </a>
+        </div>
+    </nav>
 </div>
-  </header> 
-  <div class="post-content"><p>Salut, aujourd&rsquo;hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.</p>
+
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">Le NAS :  un premier pas vers l&#39;émancipation des Gafam</h1>
+                
+                
+                
+                <div class="post-meta">
+                    <time datetime="2019-09-19T22:10:00&#43;00:00" itemprop="datePublished"> 19 sept. 2019 </time>
+                </div>
+                
+            </header>
+            
+            <div class="page-content">
+                <p>Salut, aujourd&rsquo;hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.</p>
 <p>Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.</p>
 <p>Ce qui m&rsquo;amène à la seconde question, pourquoi un NAS ? Pour répondre à  cette question, il faut placer le décor dans lequel il s&rsquo;intègre.</p>
-<h2 id="le-constat">Le constat<a hidden class="anchor" aria-hidden="true" href="#le-constat">#</a></h2>
+<h2 id="le-constat">Le constat</h2>
 <p>Depuis une dizaine années, les GAFAM, (Google, Amazon, Facebook, Apple, Microsoft) des entreprises à la croissance fulgurante ont accaparé les données que nous produisons en surfant sur internet afin de les revendre à des annonceurs.</p>
 <blockquote>
 <p>&ldquo;Si c&rsquo;est gratuit c&rsquo;est que c&rsquo;est vous le produit&rdquo;. Bruce Willis</p></blockquote>
@@ -125,8 +176,8 @@ Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barb
 <p><a href="https://www.google.fr/maps/timeline?pb">Voici l&rsquo;historique de vos positions &hellip; Merci Google !    ;)</a></p>
 <p>Face à la montée en puissance exponentielle de ces acteurs, quelques organisations militantes ont décidé de proposer des services alternatifs.</p>
 <p>C&rsquo;est le cas notamment de Framasoft qui propose des services analogues à ceux de Google mais sans intervenir dans votre vie privée. On peut noter aussi le réseau social Mastodon qui veut se substituer à Facebook. Ces services sont proposés dans le cadre de l&rsquo;open-source (c&rsquo;est à dire des logiciels dont le code est disponible gratuitement sur internet).</p>
-<p><!-- raw HTML omitted -->framasoft.org<!-- raw HTML omitted -->&quot; &gt;</p>
-<h2 id="le-choix">Le choix<a hidden class="anchor" aria-hidden="true" href="#le-choix">#</a></h2>
+<p><a href="nithwith.github.io/blog/le-nas-un-premier-pas-vers-lemancipation-des-gafam/framasoft.org">framasoft.org</a>&quot; &gt;</p>
+<h2 id="le-choix">Le choix</h2>
 <p>Alarmé par l’étendue  des données que stockent et revendent les GAFAM,  je me suis mis en tête depuis plusieurs années de me détacher de cet écosystème numérique toxique. Ceci dans l&rsquo;objectif de garder une &ldquo;souveraineté&rdquo; sur mes données .</p>
 <p>J&rsquo;ai décidé de commencer par le service que j&rsquo;utilise le plus : Google drive. Ce service propose un stockage de fichier en ligne (15Go en version gratuite) et une suite bureautique pour éditer ses documents. Durant mes études j&rsquo;ai beaucoup utilisé ce service car équipé de Linux (alternative open-source de Windows), je n&rsquo;avais pas de bonne suite bureautique à disposition.</p>
 <p>Pour remplacer Google drive, je suis allé voir dans un premier temps du coté de Framasoft qui ne propose pas de solution de stockage car trop coûteux à mettre en place de leur coté pour proposer le service gratuitement.</p>
@@ -135,7 +186,7 @@ Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barb
 <p>Mon NAS propose les services suivants  :</p>
 <p>• Stockage de fichier (remplace Google Drive)• Sauvegarde des photos de mon téléphone (remplace Google Photos)• Gestionnaire de notes (remplace Google Keep)• Media center (remplace Spotify)</p>
 <p>Tant de choses dans une si petite boite &hellip;.</p>
-<h2 id="google-drive-vs-nas">Google Drive vs NAS<a hidden class="anchor" aria-hidden="true" href="#google-drive-vs-nas">#</a></h2>
+<h2 id="google-drive-vs-nas">Google Drive vs NAS</h2>
 <p><strong>Le coût</strong></p>
 <p>A coté de la protection de mes données personnelles, il y a aussi un argument économique au choix du NAS.</p>
 <p>Les données dont je disposai sur Google drive étaient à la limite de l&rsquo;offre gratuite (15Go) et je voulais y centraliser mes films (+900Go)  et mes photos (+300Go). Après une rapide recherche, je me suis aperçu que si je voulais stocker ces données sur Google drive, il me faudrait souscrire un abonnement de  9,99euros/mois pour disposer de 2To de stockage.</p>
@@ -165,14 +216,13 @@ Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barb
 <p>Bref, pour que la NAS soit vraiment exploité il faut le connecter avec de la fibre (même s’il il reste utilisable en ADSL).</p>
 <p><strong>La perte de données</strong></p>
 <p>La grande force de Google est de disposer d&rsquo;énormes data center aux 4 coins du monde associés à des technologies avancées de sauvegarde de données. En effet, la data est son fond de commerce, donc Google y fait très attention. Il y a très peu de chance que vos données soient perdues. Coté NAS, la perte de données est gérée par une réplication des données sur deux disques durs.  En effet, j&rsquo;ai indiqué  plus haut que j&rsquo;ai équipé mon NAS de deux disques durs de 2To et je n&rsquo;ai que 2To de stockage car le stockage est répliqué entre les deux disques  durs . Si un des disques lâche, Je l&rsquo;enlève, en remets  un autre à la place et la réplication se refait automatiquement. Je ne risque pas de perte de données.</p>
-<figure>
-    <img loading="lazy" src="www.theomarty.fr/content/images/2020/01/S-lection_102.png"
-         alt="Interface d&rsquo;analyse de la santé des disques de stockage"/> <figcaption>
-            <p>Interface d&rsquo;analyse de la santé des disques de stockage</p>
-        </figcaption>
+<figure><img src="nithwith.github.io/blog/content/images/2020/01/S-lection_102.png"
+    alt="Interface d&rsquo;analyse de la santé des disques de stockage"><figcaption>
+      <p>Interface d&rsquo;analyse de la santé des disques de stockage</p>
+    </figcaption>
 </figure>
 
-<h2 id="retour-dexpérience-après-6-mois-dutilisation">Retour d&rsquo;expérience après 6 mois d&rsquo;utilisation<a hidden class="anchor" aria-hidden="true" href="#retour-dexpérience-après-6-mois-dutilisation">#</a></h2>
+<h2 id="retour-dexpérience-après-6-mois-dutilisation">Retour d&rsquo;expérience après 6 mois d&rsquo;utilisation</h2>
 <p><strong>Avantages</strong></p>
 <ul>
 <li>Facilité de mise en place</li>
@@ -193,86 +243,31 @@ Pour bien commencer qu&rsquo;est qu&rsquo;un NAS ?  Derrière ce nom un peu barb
 <p>J&rsquo;ai été surpris par la qualité de l&rsquo;écosystème mis en place par Synology. Par exemple le service de synchronisation photo NAS &lt;&gt; smartphone (Copie conforme de Google Photo) qui marche très bien.</p>
 <p>Malgré  tout, l&rsquo;accès aux données hors du réseaux domestique reste très limité avec mon accès ADSL. Relier son NAS à la fibre est obligatoire pour l&rsquo;exploiter a son maximum.</p>
 
-
-  </div>
-
-  <footer class="post-footer">
-    <ul class="post-tags">
-      <li><a href="http://localhost:1313/blog/tags/num%C3%A9rique/">Numérique</a></li>
-    </ul>
-  </footer>
-</article>
-    </main>
-    
+            </div>
+        </article></main>
+</div>
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/blog/">Blog de Théo</a></span> · 
+    <span class="footer_item"> </span>
+    &nbsp;
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+    <div class="footer_social-icons">
+</div>
+    <small class="footer_copyright">
+        © 2025 .
+        Propulsé par <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+    </small>
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
 
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
 
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
 
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
-</script>
+
+
+    
+    <script async src="http://localhost:1313/blog/js/main.js" ></script>
+
+    
+
 </body>
-
 </html>

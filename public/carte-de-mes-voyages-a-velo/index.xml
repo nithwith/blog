@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carte-De-Mes-Voyages-a-Velos on Blog de Théo</title>
+    <link>http://localhost:1313/blog/carte-de-mes-voyages-a-velo/</link>
+    <description>Recent content in Carte-De-Mes-Voyages-a-Velos on Blog de Théo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 04 Jan 2020 21:58:51 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/carte-de-mes-voyages-a-velo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carte de mon voyages</title>
+      <link>http://localhost:1313/blog/carte-de-mes-voyages-a-velo/carte-de-mes-voyages/</link>
+      <pubDate>Sat, 04 Jan 2020 21:58:51 +0000</pubDate>
+      <guid>http://localhost:1313/blog/carte-de-mes-voyages-a-velo/carte-de-mes-voyages/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;300px&#34; frameborder=&#34;0&#34; allowfullscreen allow=&#34;geolocation&#34; src=&#34;//umap.openstreetmap.fr/fr/map/mes-voyages_426130?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;editMode=disabled&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=none&amp;captionBar=false&amp;captionMenus=true&#34;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;//umap.openstreetmap.fr/fr/map/mes-voyages_426130?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=true&amp;zoomControl=true&amp;editMode=disabled&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=none&amp;captionBar=false&amp;captionMenus=true&#34;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

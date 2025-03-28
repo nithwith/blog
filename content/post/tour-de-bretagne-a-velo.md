@@ -3,7 +3,7 @@ categories = ["Aventure"]
 date = 2020-01-05T11:43:00Z
 description = ""
 draft = false
-image = "www.theomarty.fr/content/images/2020/03/20190822_155318-min.jpg"
+image = "nithwith.github.io/blog/content/images/2020/03/20190822_155318-min.jpg"
 slug = "tour-de-bretagne-a-velo"
 tags = ["Aventure"]
 title = "Tour de Bretagne à vélo"
@@ -27,7 +27,7 @@ Théo : Giant Anyroad 2014 + Sacoches avant Ortlieb et sacoche de bikepackaging 
 
 Tristan : Riverside 700 1997 + Sacoches arrières Ortlieb
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190821_092836.jpg" caption="Les montures à vide" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190821_092836.jpg" caption="Les montures à vide" >}}
 
 ## Le voyage
 
@@ -47,7 +47,7 @@ _17 août_
 
 Abrités par les arbres en bordure du canal, notre première nuit c'est bien passée mais la pluie a continuée toute la journée du lendemain ! Le deuxième jour à midi nous sommes arrivés à Redon tout mouillés, et avec 4 crevaisons au compteur car un malheur n'arrive jamais seul :)
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190817_120039.jpg" caption="Arrivée à Redon trempé" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190817_120039.jpg" caption="Arrivée à Redon trempé" >}}
 
 Prévoyant avec cette météo compliqué, j'avais contacté un hôte Warmshower sur notre route qui nous a accueilli en début de soirée pour nous éviter une deuxième nuit sous l'eau. Merci encore à [Daniel et sa famille](https://fr.warmshowers.org/user/146039) 
 
@@ -57,7 +57,7 @@ Revigorés par cette nuit au chaud, nous sommes repartis sous le soleil breton !
 
 Dans l'après midi, nous avons quittés le canal après Saint Samson pour nous enfoncer dans la Bretagne. L'objectif était de couper le détour que fait le canal en passant par Pontivy. Après 10km nous nous sommes retrouvés sur l'itinéraire d'une course de vélo semi pro, c'était très drôle d'arriver là avec nos vélos chargés à 20kg ! Nous avons finalement récupérés le canal en fin d'après midi à Mur de Bretagne.
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190819_082202.jpg" caption="Bivouac à coté de Bon repôt" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190819_082202.jpg" caption="Bivouac à coté de Bon repôt" >}}
 
 _19 août_
 
@@ -74,7 +74,7 @@ Le lendemain, nous avons repris notre trajet toujours escortés par les cycliste
 A midi, nous avons quittés la route du PBP pour partir vers le Nord de la Bretagne et laisser les cyclistes finir leur course vers Paris (encore 800km pfiou ..)
 
 {{< gallery caption="Paris - Brest - Paris" >}}
-{{< galleryImg  src="www.theomarty.fr/content/images/2020/03/20190820_111129-0-.jpg" width="4032" height="2268" >}}{{< galleryImg  src="www.theomarty.fr/content/images/2020/03/20190820_121234.jpg" width="2592" height="1944" >}}{{< /gallery >}}
+{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/03/20190820_111129-0-.jpg" width="4032" height="2268" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/03/20190820_121234.jpg" width="2592" height="1944" >}}{{< /gallery >}}
 
 Nous avons ensuite pris la route de Lannion ou nous avons posés notre tente dans la soirée avec au programme une salade de pâte sous un couché de soleil bien mérité.
 
@@ -84,7 +84,7 @@ Durant cette deuxième partie du périple, nous avons essayé de suivre la [Vél
 
 Nous sommes redescendu tranquillement sur Binic et Pordic avant d'arriver à Saint Brieuc, l'arrivée c'est d'ailleurs faite via une voie rapide dans laquelle une voie était réservée aux vélos.
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190822_155318.jpg" caption="Arrivée à Saint Brieuc sur la Rocade" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190822_155318.jpg" caption="Arrivée à Saint Brieuc sur la Rocade" >}}
 
 A la fin de journée, nous sommes arrêtés dans un camping de la ville balnéaire de Erquy. L'ambiance était différente mais nous en avons profiter pour manger au restaurant !
 
@@ -100,7 +100,7 @@ _22 août_
 
 A partir de Saint Malo jusqu'au mont Saint Michel, l’itinéraire cyclable est bien balisé, nous sommes arrivés au Mont rapidement dans la matinée.
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190824_115348.jpg" caption="La belle piste vers le Mont Saint Michel" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190824_115348.jpg" caption="La belle piste vers le Mont Saint Michel" >}}
 
 A noter : Les vélos ne sont pas acceptés dans le mont, il faudra les laisser en amont l'accès au mont et finir à pied.
 
@@ -108,7 +108,7 @@ Après un bon repas et une balade sur les murailles nous avons décidés de repa
 
 Nous sommes arrivés pile à l'heure pour prendre le dernier TER vers Nantes !
 
-{{< figure src="www.theomarty.fr/content/images/2020/03/20190824_180819.jpg" caption="Arrivée à Rennes" >}}
+{{< figure src="nithwith.github.io/blog/content/images/2020/03/20190824_180819.jpg" caption="Arrivée à Rennes" >}}
 
 
 

@@ -1,4 +1,36 @@
 baseURL = 'https://nithwith.github.io/blog/'
-languageCode = 'en-US'
-title = 'Blog de Théo'
-theme = "PaperMod"
+title = 'Mon blog'
+theme = "hugo-blog-awesome"
+
+languageCode = 'fr-fr'
+defaultContentLanguage = "fr-fr"
+
+avatar = "avatar.jpg"
+intro = "Mon blog"
+name = "TEST"
+description = "CYCLING / TRAVEL / DIY"
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[markup.goldmark.renderer]
+unsafe = true
+enableEmoji = true
+
+[menu]
+[[menu.main]]
+  name = 'Accueil'
+  url = '/'
+  weight = 30
+[[menu.main]]
+  name = 'Aventures'
+  url = '/tags/aventure/'
+  weight = 30
+[[menu.main]]
+  name = 'Ma carte'
+  url = '/carte-de-mes-voyages'
+  weight = 40
+
+[[menu.main]]
+  name = 'Mentions légales'
+  url = '/mentions-legales'
+  weight = 30
