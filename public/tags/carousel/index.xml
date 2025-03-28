@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carousel on Blog de Théo</title>
+    <link>http://localhost:1313/blog/tags/carousel/</link>
+    <description>Recent content in Carousel on Blog de Théo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Oct 2018 22:06:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/carousel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monter un vélo cargo omnium</title>
+      <link>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</link>
+      <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</guid>
+      <description>&lt;p&gt;En terminant mon voyage à vélo en europe en 2017, j&amp;rsquo;étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu&amp;rsquo;il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.&lt;/p&gt;
+&lt;p&gt;Les vélos cargo qui m’attiraient le plus étaient les biporteurs (2 roues et le chargement placé à l&amp;rsquo;avant). Au vu du prix des biporteurs neufs (&amp;gt;2500 euros) et des biporteurs d&amp;rsquo;occasion (&amp;gt;1500 euros) j&amp;rsquo;ai décidé de faire de la veille sur le marché de l&amp;rsquo;occasion dans l&amp;rsquo;attente de trouver une bonne affaire.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

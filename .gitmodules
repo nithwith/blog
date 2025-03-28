@@ -1,6 +1,9 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/dream"]
-	path = themes/dream
-	url = https://github.com/g1eny0ung/hugo-theme-dream.git
+[submodule "themes/lightbi-hugo"]
+	path = themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "themes/quint"]
+	path = themes/quint
+	url = https://github.com/victoriadrake/hugo-theme-quint.git

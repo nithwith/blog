@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Recette on Blog de Théo</title>
+    <link>http://localhost:1313/blog/tags/recette/</link>
+    <description>Recent content in Recette on Blog de Théo</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Dec 2018 22:07:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/recette/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recette : La Fouasse Aveyronnaise</title>
+      <link>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</link>
+      <pubDate>Sat, 29 Dec 2018 22:07:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ingrédients :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;•  250gr de beurre doux• 1kg de farine• 4 œufs• 300gr de sucre• 50gr de levure du boulanger• 1 verre de lait• 1 pincée de sel• 2 cuillères à soupe de fleur d&amp;rsquo;oranger&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recette :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;• Faire chauffer le lait pour qu&amp;rsquo;il devienne tiède• Mélanger le lait et la levure et y ajouter 200gr de farine. Laisser reposer 15min.• Mélanger le reste de la farine, le sucre, le beurre (liquide), le sel, le fleur d&amp;rsquo;oranger et les oeufs.• Mélanger le levain et la pâte. Mouler la pâte (creuser le centre) puis laisser reposer 1h. (de préférence au chaud dans un four à 40 °C).• Quand la pâte est bien gonflée, faire cuire 25min à 175 °C&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
