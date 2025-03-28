@@ -1,7 +1,7 @@
 baseURL = 'https://nithwith.github.io/blog/'
 languageCode = 'en-US'
 title = 'Blog de Théo'
-theme = "PaperMod"
+theme = "dream"
 
 [caches]
   [caches.images]
