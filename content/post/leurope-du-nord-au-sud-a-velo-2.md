@@ -3,7 +3,7 @@ categories = ["Aventure", "Vélo"]
 date = 2017-09-13T22:17:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/IMG_20170627_133023631.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20170627_133023631.jpg"
 slug = "leurope-du-nord-au-sud-a-velo-2"
 tags = ["Aventure", "Vélo"]
 title = "L'europe du nord au sud à vélo"
@@ -27,7 +27,7 @@ J'ai parcouru cet été 2800km à partir d'Oslo en vélo en suivant l'Eurovélo 
 
 • Oslo - Copenhague• Copenhague - Berlin• Berlin - Prague• Prague - Salzburg• Salzburg - FlorencePays traversés : FR - NO - DA - AL - RT - AUT - IT
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170627_133023631-1.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170627_133023631-1.jpg" >}}
 
 ## Eurovelo 7 Oslo - Copenhague
 
@@ -47,7 +47,7 @@ _30 juin_
 
 Passage de la première frontière du voyage ! Je suis en Suède pour quelques temps. J'ai roulé toute l'après-midi sous un beau soleil avec le vent dans le dos mais il n'y a plus de piste cyclable alors je roule plein sud . Ce soir je dors dans mon premier camping (première douche) à Tanum ! En face du camping se trouve un site archéologique très intéressent dans lesquel je me balade à la nuit.je rencontre des norvégien très sympa avec qui je passe la soirée.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170701_094850404.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170701_094850404.jpg" >}}
 
 _1 juillet_
 
@@ -81,7 +81,7 @@ Dixième jour déjà ! Je ne vois passer le temps ! Aujourd'hui c'était Copenha
 
 8 juilletNous sommes parti plein sud encore aujourd'hui. Sur une nationale toute droite (la R66 du Danemark) avec un vent à 20km/h de 3/4 face... On a fait 70km et on s'est posé dans un petit camping sur la côte. Demain Julius part vers Hambourg et moi vers Berlin (sûrement passage de frontière)
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170709_100304352_HDR-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170709_100304352_HDR-min.jpg" >}}
 
 _9 juillet_
 
@@ -95,7 +95,7 @@ _11 juillet_
 
 Petite journée à travers la réserve naturelle de Müritz. Ce soir j'ai réussi a trouver un camping où personne ne parle anglais (grand moment de solitude) mais j'ai réussi à planter la tente avant l'orage ouf
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170707_135248222-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170707_135248222-min.jpg" >}}
 
 _12 juillet_
 
@@ -107,7 +107,7 @@ Visite de Berlin sous un soleil timide mais présent. je me suis baladé et c'é
 
 ## Berlin - Prague
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170713_141123276-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170713_141123276-min.jpg" >}}
 
 _14 juillet_
 
@@ -121,7 +121,7 @@ _16 juillet_
 
 Ce matin réveil, pliage de bivouac et boom 70km 😁 je suis arrivé en début d'après-midi à Dresde (ville magnifique) que j'ai pu visiter tranquillement ! Son Opera, ce bâtiment gothique et ses églises.je suis hébergé par un warmshower qui a réparé une attache de ma sacoche ortlieb qui s'était décrochée !
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170716_150632888_HDR-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170716_150632888_HDR-min.jpg" >}}
 
 Cap sur la Tchéquie !
 
@@ -133,7 +133,7 @@ _18 juillet_
 
 J'ai quitté l'EV7 pour rejoindre Prague au plus court et j'ai été victime d'une crevaison (la seule du voyage) en fin de matinée. Mes freins sont aussi capricieux mais j'ai finalement réussi à rejoindre mon hôte Martin (rencontré en France) dans le sud de la capitale tchèque.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170717_141508965-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170717_141508965-min.jpg" >}}
 
 _19 juillet_
 
@@ -161,27 +161,27 @@ J'en profite pour chercher des plaquettes de frein. Après la visite des 6 magas
 
 J'ai rencontré une famille Italienne en voyage elle aussi avec qui j'ai roulé toute la journée jusqu'à Bad Gastein. Bonne route à eux !Je reste à l'auberge pour finir les Alpes en pleine forme.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170725_161514686_HDR-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170725_161514686_HDR-min.jpg" >}}
 
 26 juilletJournée très tranquille entre planification de la suite du voyage et visite de Bad Gastein sous la pluie.27 juilletJe roule depuis un mois 😃, c'est fou et ça va continuer. Aujourd'hui, grosse journée dans les Alpes. J'arrive à 110km + 10 de train obligatoire pour passer sous les pics autrichiens. Un petit peu d'eau mais pas mouillé le soir !28 juilletIl m'aura fallu un mois et un jour pour arriver dans le dernier pays de l'EV7 ! J'ai passé la frontière italienne. Les Alpes sont toujours bien la, je n'ai pas fini avec elles. Beau temps, j'arrive dans le sud29 juilletDescente dans l'Italie. Ce matin j'ai parcouru une des plus belles pistes cyclables de ma vie, il y avait tout : Paysages, aménagements continus, dénivelé négatif et cyclistes sympa ! J'ai testé la cuisine italienne à Bolzano ce midi, c'était pas mal mais il faudra recommencer... :D . Cette après-midi, je suis battu contre un petit vent de face sous le soleil (32°) jusqu'à ce que je prenne la roue d'un papi en vélo electrique ... 25 de moyenne sans forcer30 juilletAprès une nuit orageuse et venteuse, journée détente pour arriver au lac de garde. Une cinquantaine de kilomètres au compteur, de belles pistes cyclable et un petit coin de paradis entre deux montagnes à l'arrivée !
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170730_162631244-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170730_162631244-min.jpg" >}}
 
 31 juilletAujourd'hui j'ai descendu le lac de garde pour sortir des Alpes. Merci a mon ami Léon pour l'hébergement sur les rives du lac ! J'ai roulé avec de vrai cyclistes une bonne partie de l'après-midi (merci pour le vent ^^) et ce soir j'ai planté mon bivouac sur le bord d'un canal qui me mène vers Bologne. Le lac de garde me manque déjà, j'aurai bien piqué une petite tête après la journée à pédaler sous le soleil (34°)1 août
 
 115km. Je voulais gratter le maximum de bornes jusqu'à Bologne pour être en avance sur mon planning. Bien fatigué ce soir à cause de la chaleur (40° a 14h), repos mérité2 aoûtCe matin, Bologne, passage obligé par la case restau. Cette aprem j'ai attaqué les Alpenin que je dois traverser pour arriver à Florence, 900m de dénivelé + sur 20km.... Ce soir bivouac a la belle étoile, demain levé à l'aube pour échapper à la chaleur.3 aoûtCe matin passage de deux cols dans les Alpenins. Cette après-midi, plus de jambe mais je suis descendu jusqu'à Florence. Ce soir bivouac à l'arrache dans une venelle avec des moustiques.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170803_180023124-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170803_180023124-min.jpg" >}}
 
 Dernier jour de voyage en solo, ça se fini en apothéose avec ces cols et cette fatigue !
 
 ## Eurovelo 3 Bordeaux - Pampelune
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170815_193547519-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170815_193547519-min.jpg" >}}
 
 16 août 2017On attaque le chemin de saint jacques à velo avec 100 kilomètres jusqu'à Arcachon! On a retrouvé la velodysee (vélo route) qu'on suivra jusqu'à la frontière. Ce soir bivouac à la belle étoile sur la plage de Pyla sur mer !17 août 2017Depart de la dune du Pyla. Nous avons roulé 90km avec Romain vers le sud en passant par biscarrosse. Ce soir baignade dans l'océan et bivouac entre les pins.18 août 2017On prends les même et on recommence. 100km plein sud ! Nous avons visité Bayonne dans la soirée. Nous sommes au Pays basque ! Ça commence à sentir l'Espagne19 août 2017Petite journée jusqu'à la frontière. Nous avons survécu à Biarritz et ces surfeurs et nous avons passé la frontière espagnole à Hendaye ! Nous sommes en Espagne ! Ce soir nous avons planté la tente à Irun de l'autre côté de la frontière. Demain on attaque les Pyrénées pour aller vers Pamplune.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170819_193745513_HDR-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170819_193745513_HDR-min.jpg" >}}
 
 20 août 2017Nous avons traversé la pointe des Pyrénées aujourd'hui au départ de Hendaye. Nous sommes passés par les petites route de montage ce qui nous a permis de voir une dizaine d'aigles 👌. Ce soir bivouac avant Pamplune.21 août 2017Arrivé a Pampelune le midi et achat de nos credential dans une auberge de pélerin.
 
@@ -189,15 +189,15 @@ Dernier jour de voyage en solo, ça se fini en apothéose avec ces cols et cette
 
 21 août 2017Premier jour sur le Camino francès. Nous avons commencé à rouler vers l'ouest et ça valone sous le soleil (35C). Ce soir bivouac dans une église abandonnée
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170821_172637665-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170821_172637665-min.jpg" >}}
 
 22 août 2017Ce matin nous avons roulé dans la fraîcheur jusqu'à Logrono ou nous avons mangé. Cette après-midi nous avons roulé avec un petit vent de 3/4 jusqu'à Santo Domingo pour un total de 100km. Ce soir bivouac à la belle étoile !23 août 2017Nous sommes à Burgos. Nous avons roulé 85km pour arriver dans cette belle cité ! Nous avons eu le vent dans le dos dieu est avec nous ! Et nous avons pris une auberge muiciaple de pèlerin pour se reposer avant le sprint Léon - Saint Jacques de Compostelle24 août 2017Ce matin nous sommes parti de Burgos et avons roulé une cinquantaine de kilomètres. L'après midi à été plus dur avec des rafales de vent à 30km/h et des chemins poussiéreux mais nous avons fait nos 100 bornes et nous nous approchons de Léon !
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20170823_190152426_HDR-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20170823_190152426_HDR-min.jpg" >}}
 
 25 août 2017Petite journée, nous avons tout fait ce matin avec 65km au compteur à midi puis nous sommes arrivés dans la ville de Léon où nous sommes arrêté dans un couvent benedictin qui héberge des pèlerins. Bonne nuit de repos avant d'attaquer les quelques jours de montagnes qui nous séparent de Saint Jacques26 août 2017Ce matin départ à l'aube de Léon. Nous avons roulé vers les montagnes. Journée 100km avec 1100m de dénivelé positif et 1500 de négatif. Une bonne journée !27 août 2017Parti de Pontferadat. Nous avons gravi des montagnes (1000m de dénivelé +) . Ce soir nous nous sommes pris un bon orage après en avoir esquivé un in extremis à l'abri d'une eglise. Ce soir repos dans une auberge et séchage !28 août 2017Apres l'orage d'hier nous sommes répartis tôt ce matin ! Nous sommes sorti des montagnes et nous avons monté du dénivelé dans des colines (1300m de dénivelé positif ). Nous arrivons en vue de Saint Jacques de compostelle. Ce soir bivouac dans un magasin de meuble abandonné29 août 2017Arrivé à Saint Jacques de Compostelle ! Nous avons fini en apothéose avec une sprint de 65km et 800m de D+ sous la pluie ce matin ! Cette après-midi récupération et demain visite de la ville avant de repartir en train vers la France.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20170830_194539.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20170830_194539.jpg" >}}
 
 ## 
 

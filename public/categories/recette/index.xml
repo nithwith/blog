@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Recette on Mon blog</title>
-    <link>http://localhost:1313/blog/categories/recette/</link>
-    <description>Recent content in Recette on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 29 Dec 2018 22:07:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/recette/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Recette : La Fouasse Aveyronnaise</title>
-      <link>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</link>
-      <pubDate>Sat, 29 Dec 2018 22:07:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Ingrédients :&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Recette on Mon blog</title>
+        <link>http://localhost:1313/blog/categories/recette/</link>
+        <description>Recent content in Recette on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sat, 29 Dec 2018 22:07:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/recette/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Recette : La Fouasse Aveyronnaise</title>
+        <link>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</link>
+        <pubDate>Sat, 29 Dec 2018 22:07:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/recette-la-fouasse-aveyronnaise/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/01/20181230_112022.jpg" alt="Featured image of post Recette : La Fouasse Aveyronnaise" /&gt;&lt;p&gt;&lt;strong&gt;Ingrédients :&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;•  250gr de beurre doux• 1kg de farine• 4 œufs• 300gr de sucre• 50gr de levure du boulanger• 1 verre de lait• 1 pincée de sel• 2 cuillères à soupe de fleur d&amp;rsquo;oranger&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Recette :&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;• Faire chauffer le lait pour qu&amp;rsquo;il devienne tiède• Mélanger le lait et la levure et y ajouter 200gr de farine. Laisser reposer 15min.• Mélanger le reste de la farine, le sucre, le beurre (liquide), le sel, le fleur d&amp;rsquo;oranger et les oeufs.• Mélanger le levain et la pâte. Mouler la pâte (creuser le centre) puis laisser reposer 1h. (de préférence au chaud dans un four à 40 °C).• Quand la pâte est bien gonflée, faire cuire 25min à 175 °C&lt;/p&gt;</description>
-    </item>
-  </channel>
+&lt;p&gt;• Faire chauffer le lait pour qu&amp;rsquo;il devienne tiède• Mélanger le lait et la levure et y ajouter 200gr de farine. Laisser reposer 15min.• Mélanger le reste de la farine, le sucre, le beurre (liquide), le sel, le fleur d&amp;rsquo;oranger et les oeufs.• Mélanger le levain et la pâte. Mouler la pâte (creuser le centre) puis laisser reposer 1h. (de préférence au chaud dans un four à 40 °C).• Quand la pâte est bien gonflée, faire cuire 25min à 175 °C&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/received_2409124342495271_1.gif&#34;&gt;
+&lt;/figure&gt;
+
+</description>
+        </item>
+        
+    </channel>
 </rss>

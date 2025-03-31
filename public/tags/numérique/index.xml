@@ -1,20 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Numérique on Mon blog</title>
-    <link>http://localhost:1313/blog/tags/num%C3%A9rique/</link>
-    <description>Recent content in Numérique on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 19 Sep 2019 22:10:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/num%C3%A9rique/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Le NAS :  un premier pas vers l&#39;émancipation des Gafam</title>
-      <link>http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/</link>
-      <pubDate>Thu, 19 Sep 2019 22:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/</guid>
-      <description>&lt;p&gt;Salut, aujourd&amp;rsquo;hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.&lt;/p&gt;
-&lt;p&gt;Pour bien commencer qu&amp;rsquo;est qu&amp;rsquo;un NAS ?  Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Numérique on Mon blog</title>
+        <link>http://localhost:1313/blog/tags/num%C3%A9rique/</link>
+        <description>Recent content in Numérique on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Thu, 19 Sep 2019 22:10:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/num%C3%A9rique/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Le NAS :  un premier pas vers l&#39;émancipation des Gafam</title>
+        <link>http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/</link>
+        <pubDate>Thu, 19 Sep 2019 22:10:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/le-nas-un-premier-pas-vers-lemancipation-des-gafam/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/01/DSC_0595-min.jpg" alt="Featured image of post Le NAS :  un premier pas vers l&#39;émancipation des Gafam" /&gt;&lt;p&gt;Salut, aujourd&amp;rsquo;hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.&lt;/p&gt;
+&lt;p&gt;Pour bien commencer qu&amp;rsquo;est qu&amp;rsquo;un NAS ?  Derrière ce nom un peu barbare se cache un petit ordinateur tout mignon. Un NAS (Network Attached Storage) est un serveur de fichiers autonomes. Il est relié au réseau qui permet de stocker des données en un volume centralisé pour des clients hétérogènes.&lt;/p&gt;
+&lt;p&gt;Ce qui m&amp;rsquo;amène à la seconde question, pourquoi un NAS ? Pour répondre à  cette question, il faut placer le décor dans lequel il s&amp;rsquo;intègre.&lt;/p&gt;
+&lt;h2 id=&#34;le-constat&#34;&gt;&lt;a href=&#34;#le-constat&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le constat
+&lt;/h2&gt;&lt;p&gt;Depuis une dizaine années, les GAFAM, (Google, Amazon, Facebook, Apple, Microsoft) des entreprises à la croissance fulgurante ont accaparé les données que nous produisons en surfant sur internet afin de les revendre à des annonceurs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Si c&amp;rsquo;est gratuit c&amp;rsquo;est que c&amp;rsquo;est vous le produit&amp;rdquo;. Bruce Willis&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Aujourd&amp;rsquo;hui, ces entreprises disposent d&amp;rsquo;énormes quantités de données personnelles (en particulier Google et Facebook). Ces données sont vos habitudes d&amp;rsquo;achat, les photos de vos dernières vacances ou la position GPS de  votre smartphone Android.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.google.fr/maps/timeline?pb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Voici l&amp;rsquo;historique de vos positions &amp;hellip; Merci Google !    ;)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Face à la montée en puissance exponentielle de ces acteurs, quelques organisations militantes ont décidé de proposer des services alternatifs.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est le cas notamment de Framasoft qui propose des services analogues à ceux de Google mais sans intervenir dans votre vie privée. On peut noter aussi le réseau social Mastodon qui veut se substituer à Facebook. Ces services sont proposés dans le cadre de l&amp;rsquo;open-source (c&amp;rsquo;est à dire des logiciels dont le code est disponible gratuitement sur internet).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.theomarty.fr/le-nas-un-premier-pas-vers-lemancipation-des-gafam/framasoft.org&#34;&gt;framasoft.org&lt;/a&gt;&amp;quot; &amp;gt;&lt;/p&gt;
+&lt;h2 id=&#34;le-choix&#34;&gt;&lt;a href=&#34;#le-choix&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le choix
+&lt;/h2&gt;&lt;p&gt;Alarmé par l’étendue  des données que stockent et revendent les GAFAM,  je me suis mis en tête depuis plusieurs années de me détacher de cet écosystème numérique toxique. Ceci dans l&amp;rsquo;objectif de garder une &amp;ldquo;souveraineté&amp;rdquo; sur mes données .&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai décidé de commencer par le service que j&amp;rsquo;utilise le plus : Google drive. Ce service propose un stockage de fichier en ligne (15Go en version gratuite) et une suite bureautique pour éditer ses documents. Durant mes études j&amp;rsquo;ai beaucoup utilisé ce service car équipé de Linux (alternative open-source de Windows), je n&amp;rsquo;avais pas de bonne suite bureautique à disposition.&lt;/p&gt;
+&lt;p&gt;Pour remplacer Google drive, je suis allé voir dans un premier temps du coté de Framasoft qui ne propose pas de solution de stockage car trop coûteux à mettre en place de leur coté pour proposer le service gratuitement.&lt;/p&gt;
+&lt;p&gt;Si personne ne veux me donner un serveur, alors je vais créer le mien ! :) C&amp;rsquo;est ce que j&amp;rsquo;ai fait  avec mon NAS.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai acheté un NAS (petite boite, contenant des disques durs ) qui me permet de me créer un espace de numérique en ligne. Plus exactement le NAS DS218J de Synology équipé de deux disques durs  de 2To.&lt;/p&gt;
+&lt;p&gt;Mon NAS propose les services suivants  :&lt;/p&gt;
+&lt;p&gt;• Stockage de fichier (remplace Google Drive)• Sauvegarde des photos de mon téléphone (remplace Google Photos)• Gestionnaire de notes (remplace Google Keep)• Media center (remplace Spotify)&lt;/p&gt;
+&lt;p&gt;Tant de choses dans une si petite boite &amp;hellip;.&lt;/p&gt;
+&lt;h2 id=&#34;google-drive-vs-nas&#34;&gt;&lt;a href=&#34;#google-drive-vs-nas&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Google Drive vs NAS
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Le coût&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A coté de la protection de mes données personnelles, il y a aussi un argument économique au choix du NAS.&lt;/p&gt;
+&lt;p&gt;Les données dont je disposai sur Google drive étaient à la limite de l&amp;rsquo;offre gratuite (15Go) et je voulais y centraliser mes films (+900Go)  et mes photos (+300Go). Après une rapide recherche, je me suis aperçu que si je voulais stocker ces données sur Google drive, il me faudrait souscrire un abonnement de  9,99euros/mois pour disposer de 2To de stockage.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai comparé le coût de cet abonnement au coût de l&amp;rsquo;amortissement d&amp;rsquo;un NAS sur 4 ans&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Google Drive&lt;/th&gt;
+          &lt;th&gt;NAS&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Abonnement : 9.99e/mois&lt;/td&gt;
+          &lt;td&gt;Achat NAS : 100e + Achat 2 To Stockage : 150e + 4 ans d&amp;rsquo;électricité (4W) : 15e = 5 euros/mois&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;9.99e/mois&lt;/td&gt;
+          &lt;td&gt;5 euros/mois&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Au niveau financier, le NAS est gagnant sur le long terme  ! Youhou !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le débit&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Maintenant qu&amp;rsquo;en est-il de la qualité de service ? C&amp;rsquo;est là que ça pêche malheureusement pour le NAS.&lt;/p&gt;
+&lt;p&gt;Son principal défaut est que contrairement aux serveurs de Google, il est relié à internet par ma box ce qu&amp;rsquo;il limite son débit. Comme je dispose d&amp;rsquo;un accès ADSL, la vitesse de lecture sur mon NAS est vraiment moyenne à distance (très gênant pour consulter des photos hors de son réseau domestique). Ce problème serait en partie  réglé si j&amp;rsquo;avais la fibre à mon domicile ce qui augmenterait le débit du NAS de manière significative.&lt;/p&gt;
+&lt;p&gt;Bref, pour que la NAS soit vraiment exploité il faut le connecter avec de la fibre (même s’il il reste utilisable en ADSL).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La perte de données&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La grande force de Google est de disposer d&amp;rsquo;énormes data center aux 4 coins du monde associés à des technologies avancées de sauvegarde de données. En effet, la data est son fond de commerce, donc Google y fait très attention. Il y a très peu de chance que vos données soient perdues. Coté NAS, la perte de données est gérée par une réplication des données sur deux disques durs.  En effet, j&amp;rsquo;ai indiqué  plus haut que j&amp;rsquo;ai équipé mon NAS de deux disques durs de 2To et je n&amp;rsquo;ai que 2To de stockage car le stockage est répliqué entre les deux disques  durs . Si un des disques lâche, Je l&amp;rsquo;enlève, en remets  un autre à la place et la réplication se refait automatiquement. Je ne risque pas de perte de données.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/S-lection_102.png&#34;
+    alt=&#34;Interface d&amp;rsquo;analyse de la santé des disques de stockage&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Interface d&amp;rsquo;analyse de la santé des disques de stockage&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;retour-dexpérience-après-6-mois-dutilisation&#34;&gt;&lt;a href=&#34;#retour-dexp%c3%a9rience-apr%c3%a8s-6-mois-dutilisation&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Retour d&amp;rsquo;expérience après 6 mois d&amp;rsquo;utilisation
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Avantages&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Facilité de mise en place&lt;/li&gt;
+&lt;li&gt;Sécurité des données&lt;/li&gt;
+&lt;li&gt;Synology Moment (synchronisation photos)&lt;/li&gt;
+&lt;li&gt;Écosystème d&amp;rsquo;application mobile complet et performante&lt;/li&gt;
+&lt;li&gt;Service Client au top&lt;/li&gt;
+&lt;li&gt;Coût&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Inconvénients&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accès aux données long (NAS connecté en ADSL)&lt;/li&gt;
+&lt;li&gt;Certaines applications mobiles mal pensées  (media center)&lt;/li&gt;
+&lt;li&gt;Système dépendant d&amp;rsquo;une entreprise privée (Synology)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le retour après 4 mois d&amp;rsquo;utilisation est positif. Dans un premier temps, l&amp;rsquo;objectif premier est atteint : je me suis débarrassé de plusieurs services Google (Drive, Keep, Photo).&lt;/p&gt;
+&lt;p&gt;De plus, j&amp;rsquo;ai pu centraliser et sécuriser toutes les données qui traînaient sur les disques durs de la famille (films, photos sur une dizaine d&amp;rsquo;années, documents importants, etc).&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai été surpris par la qualité de l&amp;rsquo;écosystème mis en place par Synology. Par exemple le service de synchronisation photo NAS &amp;lt;&amp;gt; smartphone (Copie conforme de Google Photo) qui marche très bien.&lt;/p&gt;
+&lt;p&gt;Malgré  tout, l&amp;rsquo;accès aux données hors du réseaux domestique reste très limité avec mon accès ADSL. Relier son NAS à la fibre est obligatoire pour l&amp;rsquo;exploiter a son maximum.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

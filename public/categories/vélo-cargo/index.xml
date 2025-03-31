@@ -1,41 +1,454 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Vélo Cargo on Mon blog</title>
-    <link>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</link>
-    <description>Recent content in Vélo Cargo on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 31 Oct 2020 13:20:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/v%C3%A9lo-cargo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Le grand tour des Alpes à vélo cargo</title>
-      <link>http://localhost:1313/blog/post/le-grand-tour-des-alpes-a-velo-cargo/</link>
-      <pubDate>Sat, 31 Oct 2020 13:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/le-grand-tour-des-alpes-a-velo-cargo/</guid>
-      <description>&lt;p&gt;2 mois et demi de voyage en Europe, j&amp;rsquo;en ai rêvé, je l&amp;rsquo;ai fait ! Je vous raconte mon aventure dans ce billet, c&amp;rsquo;est parti !&lt;/p&gt;
-&lt;h3 id=&#34;litinéraire&#34;&gt;L&amp;rsquo;itinéraire&lt;/h3&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;400px&#34; frameborder=&#34;0&#34; allowfullscreen src=&#34;//umap.openstreetmap.fr/fr/map/ete-2020_509741?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&#34;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;//umap.openstreetmap.fr/fr/map/ete-2020_509741&#34;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Vélo Cargo on Mon blog</title>
+        <link>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</link>
+        <description>Recent content in Vélo Cargo on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sat, 31 Oct 2020 13:20:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/v%C3%A9lo-cargo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Le grand tour des Alpes à vélo cargo</title>
+        <link>http://localhost:1313/blog/post/le-grand-tour-des-alpes-a-velo-cargo/</link>
+        <pubDate>Sat, 31 Oct 2020 13:20:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/le-grand-tour-des-alpes-a-velo-cargo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/10/DSC00563.JPG" alt="Featured image of post Le grand tour des Alpes à vélo cargo" /&gt;&lt;p&gt;2 mois et demi de voyage en Europe, j&amp;rsquo;en ai rêvé, je l&amp;rsquo;ai fait ! Je vous raconte mon aventure dans ce billet, c&amp;rsquo;est parti !&lt;/p&gt;
+&lt;h3 id=&#34;litinéraire&#34;&gt;&lt;a href=&#34;#litin%c3%a9raire&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;L&amp;rsquo;itinéraire
+&lt;/h3&gt;&lt;iframe width=&#34;100%&#34; height=&#34;400px&#34; frameborder=&#34;0&#34; allowfullscreen src=&#34;//umap.openstreetmap.fr/fr/map/ete-2020_509741?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;searchControl=null&amp;tilelayersControl=null&amp;embedControl=null&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false&#34;&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;//umap.openstreetmap.fr/fr/map/ete-2020_509741&#34;&gt;Voir en plein écran&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;oléron---les-pyrénées&#34;&gt;Oléron - Les Pyrénées&lt;/h3&gt;
-&lt;p&gt;Pour cette première partie de voyage, je suis parti de l&amp;rsquo;île d&amp;rsquo;Oléron avec mon frère Tristan le 1er août 2020.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;itinéraire est simple dans un premier temps, nous avons suivi la velodycée (eurovelo 1) le long de la façade Atlantique, les grandes lignes droite des Landes, Tristan les connais, nous avons fais le chemin en sens inverse en 2018 pour notre premier voyage ensemble !&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Construction d&#39;un vélo cargo &#34;Long tail&#34;</title>
-      <link>http://localhost:1313/blog/post/construction-dun-velo-cargo/</link>
-      <pubDate>Thu, 16 Apr 2020 19:34:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/construction-dun-velo-cargo/</guid>
-      <description>&lt;p&gt;Je roule un vélo cargo Omnium depuis bientôt deux ans et je l&amp;rsquo;adore. C&amp;rsquo;est un vélo qui roule très bien. Il n&amp;rsquo;est pas trop tape l’œil mais j&amp;rsquo;hésite toujours à laisser la nuit dans le rue&amp;hellip;..&lt;/p&gt;
-&lt;p&gt;En septembre 2019, je me suis mis dans la tête de créer mon propre vélo cargo pour palier a ce problème. L&amp;rsquo;idée était de créer un vélo solide, qui peut emporter beaucoup et pour un budjet limité (&amp;lt;400euros). Je propose de suivre sa fabrication dans cet article.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monter un vélo cargo omnium</title>
-      <link>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</link>
-      <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</guid>
-      <description>&lt;p&gt;En terminant mon voyage à vélo en europe en 2017, j&amp;rsquo;étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu&amp;rsquo;il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.&lt;/p&gt;
-&lt;p&gt;Les vélos cargo qui m’attiraient le plus étaient les biporteurs (2 roues et le chargement placé à l&amp;rsquo;avant). Au vu du prix des biporteurs neufs (&amp;gt;2500 euros) et des biporteurs d&amp;rsquo;occasion (&amp;gt;1500 euros) j&amp;rsquo;ai décidé de faire de la veille sur le marché de l&amp;rsquo;occasion dans l&amp;rsquo;attente de trouver une bonne affaire.&lt;/p&gt;</description>
-    </item>
-  </channel>
+&lt;h3 id=&#34;oléron---les-pyrénées&#34;&gt;&lt;a href=&#34;#ol%c3%a9ron---les-pyr%c3%a9n%c3%a9es&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Oléron - Les Pyrénées
+&lt;/h3&gt;&lt;p&gt;Pour cette première partie de voyage, je suis parti de l&amp;rsquo;île d&amp;rsquo;Oléron avec mon frère Tristan le 1er août 2020.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;itinéraire est simple dans un premier temps, nous avons suivi la velodycée (eurovelo 1) le long de la façade Atlantique, les grandes lignes droite des Landes, Tristan les connais, nous avons fais le chemin en sens inverse en 2018 pour notre premier voyage ensemble !&lt;/p&gt;
+&lt;p&gt;A Audenge, sur la bassin d&amp;rsquo;Arcachon, nous nous sommes arrêtés chez &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/roulymary/?__cft__[0]=AZVlZRYElMjJPZTyOgKamF7blX-j8hgAeIrnkolUDCwAiXatcUg0JPp8PW2l1Mqm4BkbEgzHMfDbtKpnzDqhIXrarFLzoPucFm4KbSIwrLXiqt1zpI7Xrqj5NpnbGiEfSzMLqJusn7ioEQdhogeaw7E7pZPpVRmXYtxSOINnWLa4gN9gtnV6WpGYS3-aKUgn2Cg&amp;amp;__tn__=kK-R&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Roul en vélos&lt;/a&gt; qui à dépanné les pièces d&amp;rsquo;usure dont le vélo de Tristan avait bien besoin ! Si vous passer dans le bassin d&amp;rsquo;Arcachon n&amp;rsquo;hésitez pas à y faire un tour !&lt;/p&gt;
+&lt;p&gt;Après cette belle rencontre, nous avons quittés la velodycée pour s&amp;rsquo;enfoncer dans les landes. A 20km du bassin d&amp;rsquo;Arcachon, nous nous sommes posés à Belin-beliet qui propose un camping gratuit avec douche et une petite rivière qui coule en bas du terrain avec une base de canoë, spot sympa pour camper.&lt;/p&gt;
+&lt;p&gt;Nous avons ensuite traversés les hautes Landes pour arriver à Mont de Marsan. Ce sont les plus grandes lignes droites que j&amp;rsquo;ai jamais vu ! 27km entre 2 hameau pou la plus grande ! C&amp;rsquo;est un vrai désert, il n&amp;rsquo;y a rien à pars du sables, des pins et des routes effondrées (suite aux inondations du mois de mai).Le bivouac à été dressé en bordure de la base militaire de mont de Marsan, c&amp;rsquo;était sans compter le décollage des rafales à la tombée de la nuit et à 8h ce matin ;)&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00137.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200804_170654.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Transport de sac de pèlerin vers Lacanau / Vestiges des inondations dans les Landes / Arrivée à Cauteret dans les Pyrénées&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;Après un petite visite de Mont de Marssant, nous avons continuer vers le sud jusqu&amp;rsquo;à Arzacq-Arraziguet où nous nous sommes arrêtés dans un gîte de pèlerin (chemin de Saint Jacques de Compostelle) ou nous avons pu prendre une bonne douche.&lt;/p&gt;
+&lt;p&gt;Nous avons continuer le lendemain en descendant sur Pau sous la canicule, les nombreuses rivières qui viennent des Alpes nous ont permis de faire quelques pauses fraîcheur :) Après un passage à Lourdes et la visite obligée du Sanctuaire, nous avons grimpés jusqu&amp;rsquo;à Cauterets petite station de montagne ou nous avons retrouvés la famille pour quelques jours de repos.&lt;/p&gt;
+&lt;p&gt;Ensuite petit passage en TER Lourdes - Toulouse - Nîmes (Dodo) - Marseille - Nice&lt;/p&gt;
+&lt;h3 id=&#34;nice---lac-de-garde&#34;&gt;&lt;a href=&#34;#nice---lac-de-garde&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Nice - Lac de Garde
+&lt;/h3&gt;&lt;p&gt;Le 14 août 2020,  je pars de la gare de Nice pour la seconde partie de mon voyage. Je fais un petit arrêt de quelques jours  à Sallagriffon, petit village perché dans les montagne chez des amis.&lt;/p&gt;
+&lt;p&gt;Deux jours après, je suis reparti direction la frontière Italienne. J&amp;rsquo;ai emprunté la vallée de la Tinée dans un premier temps puis je suis monté à Isola 2000 pour passer le col de la lombarde (2350m) qui marque la limite entre les deux pays. L&amp;rsquo;ascension à été longue mais conclue avec succès.&lt;/p&gt;
+&lt;p&gt;Je suis redescendu du côté italien vers Cuneo puis j&amp;rsquo;ai traversé les plaine du Piémont très fertiles pleine de verger (photo ci dessous). Dans les longues lignes droite sans dénivelé de la plaine du Pô, le cargo était vraiment à son aise, on sent bien qu&amp;rsquo;il a été conçu pour rouler sur le plat.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00251.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00286.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200822_190640.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00355.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Roquesteron (Parc des Préalpes au dessus de Nice) / Isola 2000 - Col de la lombarde - Passage obligé pour l&amp;#39;Italie / Les vergés du Piemont / Le lac de Guarde&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;Je suis passé ensuite à Turin que j&amp;rsquo;ai pris de temps de visiter, son architecture est sobre et détaillée, elle est calme et fraîche, et j&amp;rsquo;ai même rencontré des vélo cargo ! Seul regret, je n&amp;rsquo;ai pas pu faire le musée égyptien à cause des restriction covid.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai quitté la ville dans l&amp;rsquo;après midi pour aller me posé chez Cinzia rencontré via Warmshower à Arborio. J&amp;rsquo;ai ensuite grimpé vers le lac majeur puis vers Brescia en traversant la Lombardie. Les centres commerciaux remplacent les champs de céréales, les axes de transport sont partout, on se croirait en Île de France !&lt;/p&gt;
+&lt;p&gt;La comparaison est pas si éloignée car Milan (chef lieu de la Lombardie) est la capitale économique du pays.&lt;/p&gt;
+&lt;p&gt;Je suis ensuite arrivé dans la grande ville de Brescia que j&amp;rsquo;ai visitée (surtout son château) et dans laquelle j&amp;rsquo;ai trouvé un chouette magasin de vélo &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/brecycling.ciclofficina/?__cft__[0]=AZU9meWoK-nOvNmE12WocYixctCz1TuY5q0feysH4hCHtr0P3AAcW0cKJiqQ2IAcpCLDgAsyp3CNZcvvkz8fZK0PucZePPCv61yaYpTSq4gN9_Vp8RlkwD9AznKWG-E5cdTrY7Ufol4_PGAuSY5Bbmn6fEl3UJ-XDYbpLTDUk_vsbax7UAz3Vg-SDHTK2UQzdz0&amp;amp;__tn__=kK-R&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Brecycling ciclofficina&lt;/a&gt;, un endroit rassemblant un artiste dessinant des vêtements pour cycliste et un espace de réparation de vélo ayant pour but de former les jeunes pour les réinsérer sur la marché du travail. Coup de chance, le responsable David a fait un erasmus à Lyon, nous avons donc pu discuter vélo en Français pendant une partie de l&amp;rsquo;après midi&lt;/p&gt;
+&lt;p&gt;Ensuite je suis remonté sur lac de Garde par la rive Ouest, plus dangereuse que la rive est que j&amp;rsquo;avais pris en 2017 car beaucoup de tunnels étroits (10km) et de trafic. Mais dans l&amp;rsquo;objectif de passer sur la nouvelle piste cyclable suspendue ! Finalement, elle est jolie mais toute petite (2km) et remplie de touristes à cette période &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Arrivé à Riva del guarda, je me suis posé quelques jours pour visiter les environ avec des amis habitat la bas. J&amp;rsquo;ai ensuite passé une semaine dans un ferme à Rovereto pour aider à la récolte de sarriette (herbe pour les infusion) et à la fabrication de sauce tomates pour de délicieuse pizza maison ;)&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200825_154320.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Ramassage de la Sarriette / Fabrication de sauce tomate à Rovereto&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;lac-de-garde---vienne&#34;&gt;&lt;a href=&#34;#lac-de-garde---vienne&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Lac de Garde - Vienne
+&lt;/h3&gt;&lt;p&gt;Après cette pause à la ferme, je suis sorti des Alpes avec une majorité de belles piste cyclables. Je suis passé à Trévise où j&amp;rsquo;ai fais une belle balade dans la ville. Il y a pleins de petits canaux et de monuments historique, très cool pour flâner.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite emprunté l&amp;rsquo;eurovelo 8 le long de la côte vénitienne  à la découverte des petits villages de pêcheurs, très calme. Ça à bien changé en arrivant dans la région de Trieste proche de la frontière, j&amp;rsquo;ai bivouaqué au dessus d&amp;rsquo;une ville &amp;ldquo;privée&amp;rdquo; fabriquée de toute pièces face à la mer. J&amp;rsquo;ai pu profiter de la vue gratuitement (et de la douche dans la marina du port). Très drôle d&amp;rsquo;arriver dans cette ville d’ultra riche après trois semaines de voyage.&lt;/p&gt;
+&lt;p&gt;La ville de Trieste, elle même est plutôt jolie. Accrochée entre l&amp;rsquo;adriatique et les montagnes, elle est remplie d&amp;rsquo;histoire grâce a position au carrefour de la Croatie, de l&amp;rsquo;Italie et de la Slovénie.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200904_165511.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200906_193751.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200909_114716.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/IMG-20200909-WA0002.jpg&#34; width=&#34;1600&#34; height=&#34;1200&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Les Alpes italiennes / Porto Piquolo (bivouac au dessus de la crique) / Les routes slovène avec Peter&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;En sortant de Trieste, on passe directement en Slovénie. Après 80km, je suis arrivé à la capitale Ljubljana qui est une belle ville à taille humaine, il y a pleins de choses à visiter, j&amp;rsquo;y ai aussi rencontré  Peter, un warmshower très sympa ! Nous nous sommes baladés dans la soirée pour aller voir un chouette concert dans un squat de la ville.&lt;/p&gt;
+&lt;p&gt;Il m&amp;rsquo;a accompagné, le lendemain, sur la route jusqu&amp;rsquo;à la frontière, nous avons grimpé ensemble le col à 1200m qui sépare la Slovénie de l&amp;rsquo;Autriche puis il est répartis vers Ljubljana.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite attaqué seul la traversée de la haute Autriche jusqu’à Vienne, dès le premier soir en Autriche, j&amp;rsquo;ai rencontré Karin et son fils Peter qui m&amp;rsquo;ont proposés de m&amp;rsquo;héberger pour la nuit. Leur maison est un paradis pour animaux, ils hébergent une dizaine de chiens et de chats issus de chenils. J&amp;rsquo;ai passé un super bonne soirée à discuter via Google Traduction (Français-Allemand). Le jours suivant elle m&amp;rsquo;a invité à allé mangé chez sa fille Michaela , j&amp;rsquo;ai passé un très bon moment avec eux.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai continuer ma traversée des Alpes pour arriver à Semmering, dernier col avant la plaine de basse Autriche. J&amp;rsquo;ai enfin retrouvé du plat, le cargo aime bien :)&lt;/p&gt;
+&lt;p&gt;Arrivé à Vienne, j&amp;rsquo;ai rencontré Charles, professeur au Lycée Français qui m&amp;rsquo;a fait visiter la ville de nuit et m&amp;rsquo;a prêté sa chambre dans sa chouette coloc. J&amp;rsquo;ai ensuite fais le tour des associations / cafés vélo de la ville, et j&amp;rsquo;ai rencontré pleins de personnes sympa&lt;/p&gt;
+&lt;p&gt;Vienne possède un très bon réseaux cyclable qui peut rivaliser sans pâlir à celui d&amp;rsquo; Amsterdam, c&amp;rsquo;est une belle ville pour le vélo.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00528.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00584.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Karin et Peter qui m&amp;#39;ont accueillis en Autriche / La cathédrale St Stephen de Vienne / Bivouac sur le Danube avant la frontière Allemande&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;vienne---zürich&#34;&gt;&lt;a href=&#34;#vienne---z%c3%bcrich&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Vienne - Zürich
+&lt;/h3&gt;&lt;p&gt;Après deux jours de pause dans la capitale autrichienne, durant lesquels j&amp;rsquo;ai flané dans les rues, visiter les magasins de vélos locaux, je suis reparti vers l&amp;rsquo;ouest direction la france :). La route que j&amp;rsquo;ai tracé jusqu&amp;rsquo;en Allemagne suit une grande partie de l&amp;rsquo;eurovelo 6 qui relie l&amp;rsquo;atlantique à la mer noire.&lt;/p&gt;
+&lt;p&gt;La sortie de Vienne c&amp;rsquo;est faite par les rives du fleuve qui m&amp;rsquo;ont menées quelques dizaines de km plus loin à la centrale nucléaire de Epersdorf, jamais mise en fonction à cause d&amp;rsquo;un référendum autrichien contre le nucléaire 🙂&lt;/p&gt;
+&lt;p&gt;Le long du danube, j&amp;rsquo;ai rencontré Bath et Chloé, deux français sur la route des Balkans, on a mangé ensemble en partageant nos anecdotes de voyage et en s&amp;rsquo;échangent quelques bouquins déjà lu par chacun 😉&lt;/p&gt;
+&lt;p&gt;En suivant le Danuble, je suis arrivé à Linz, 3ème ville de l&amp;rsquo;Autriche. Elle est très industrielle mais à gardé un beau centre ville qui possède la plus grande cathédrale d&amp;rsquo;Autriche, rien que ça ! J&amp;rsquo;ai rencontré des chouettes cyclistes au hasard des rues dans le magasin de vélo cargo &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/ZumRostigenEsel/?__cft__[0]=AZVGXeezDFvaVvpL1QzVoCfsmmokmauWr9ZQkWyMTozdLt2kbG72u_aDSr4GiEPkW6y-ZYrL5yJz-w1nhK6VRGCLiMT9GeWphOKy4HesTkkeofjL8I5fVL6r4vCIV4L40znwPSel4t7MjafCprGNE9ZAjGPO6DSp1TaDNBUAI7AyjSy-4-Y_h4PkjRsKrFyGRdQ&amp;amp;__tn__=kK-R&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Zum rostigen Esel&lt;/a&gt; et à la Bike kitchen de Linz (atelier d&amp;rsquo;autoreparation velo), ou j&amp;rsquo;ai pu dévoiler quelque peu mes roues.&lt;/p&gt;
+&lt;p&gt;Le soir venu, je suis arrivé chez Greti et Peter rencontrés via warmshower qui m&amp;rsquo;ont accueillit extrêmement gentillement dans leur grande maison partagée. Merci encore.&lt;/p&gt;
+&lt;p&gt;Une fois Linz passée, la frontière allemande se rapproche, je la franchie le long de la rivière  Inn.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai suivi la rivière Inn durant une journée pour arriver en Bavière, dans la région de München. N&amp;rsquo;ayant pas trouvé d&amp;rsquo;hote dans Munick, j&amp;rsquo;ai passé la journée à visiter la ville. Elle est bien plus grande que je ne l&amp;rsquo;imaginai (2 000 000 d&amp;rsquo;habitants) le centre ville est très majestueux. Ente les parcs et les monuments, j&amp;rsquo;ai fait un détour par le château de Nympheburg, considéré comme le Versailles Allemand (je préfère Versailles quand même ;) )&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai remarqué qu&amp;rsquo;une grande partie des locaux portent des tenues traditionnelles bavaroise, ça met bien dans l&amp;rsquo;ambiance !&lt;/p&gt;
+&lt;p&gt;Après Munick, j&amp;rsquo;ai filé plein est à travers la Bavière. Les paysages sont très vert et très vallonnés. 2000m de D+ sur 2 jours&amp;hellip; J&amp;rsquo;ai du repasser le petit plateau.&lt;/p&gt;
+&lt;p&gt;Après d&amp;rsquo;ultimes côtes bavaroises, je suis arrivé sur les rives du lac Constance qui établit la frontière entre l&amp;rsquo;Autriche, l&amp;rsquo;Allemagne et la Suisse.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00593-1.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200921_164411.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00618.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;München / Piscine publique en Bavière / Paysage de Bavière&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;J&amp;rsquo;ai pris le ferry à Meersburg pour traverser lac de Constance. Attention il a plusieurs compagnies qui proposent la traversée, il faut choisir l’embarcadère municipal ou la traversée est seulement à 4 euros ;). J&amp;rsquo;ai ensuite remonté le Rhin en retrouvant l&amp;rsquo;eurovelo 6 jusqu&amp;rsquo;à la frontière Suisse.&lt;/p&gt;
+&lt;p&gt;Ensuite je suis passé par Winterthur, belle ville industrielle Suisse, pour arriver à Zurich avec une pause bien méritée car la pluie et le froid arrivait à grand pas !&lt;/p&gt;
+&lt;h3 id=&#34;zürich---la-rochelle&#34;&gt;&lt;a href=&#34;#z%c3%bcrich---la-rochelle&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Zürich - La Rochelle
+&lt;/h3&gt;&lt;p&gt;En arrivant à Zürich j&amp;rsquo;ai rencontré Jacques par warmshower, il m&amp;rsquo;a offert un repos nécessaire. J&amp;rsquo;ai pu visiter la ville, participé à une vélorution (photo ci dessous :) ) et surtout m&amp;rsquo;équipé de vêtements chaud pour faire fasse au changement de saison :)&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200925_204724.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00667.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Critical Mass à Zürich /Parking souterrain Suisse, idéal pour passer un nuit pluvieuse&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;En partant de Zurich, je me suis fait surprendre par une averse qui a durée jusqu&amp;rsquo;à tard dans la nuit. Je ne suis mis à l&amp;rsquo;abris dans un parking souterrain dans lequel j&amp;rsquo;ai finalement passé la nuit pour partir à 5h le lendemain matin en direction de la France !&lt;/p&gt;
+&lt;p&gt;Entre la fatigue de la nuit, l’atmosphère froide et humide et le magnifique levé de soleil sur les montagnes Suisse (photo sur demande), ces 70km qui séparent Zurich de la frontière française m&amp;rsquo;ont parus irréels et se sont encrés profondément dans ma mémoire :)&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://static.xx.fbcdn.net/images/emoji.php/v9/t74/1/16/1f1eb_1f1f7.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;En passant la frontière Française j&amp;rsquo;étais heureux de retrouver des francophone et mon pays. Après un rapide passage en Alsace, je me suis enfoncé dans la France à travers la Franche comté.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai visiter la petite ville de Montbéliard et son château des ducs de Wurtemberg. L&amp;rsquo;histoire de la ville longtemps rattachée à a la grande famille germanique et enclave protestante en France est très intéressante (le guide y es pour beaucoup). Je suis ensuite passé à Besançon ou j&amp;rsquo; ai visité la citadelle majestueuse et la ville en contrebas, encore une belle œuvre de Vauban.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20200930_130453.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/20201005_222242.jpg&#34; width=&#34;1142&#34; height=&#34;767&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00723.JPG&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Le canal du Rhône au Rhin / La Loire / Paysage Bourguignon&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;En quittant Besançon, j&amp;rsquo;ai emprunté le canal du Rhône au Rhin jusqu&amp;rsquo;à Dôle . Je suis arrivé dans la petite ville dans l&amp;rsquo;après midi et j&amp;rsquo;ai été étonné de son patrimoine culturel remarquable. J&amp;rsquo;ai visité la cathédrale et le musée dans la maison natale de Pasteur, plutôt chouette.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite rejoins sous la pluie la ville de Beaune, dans laquelle j&amp;rsquo;ai visité les fameux hospices et fais une belle visite de ce haut lieux de la Bourgogne. Je vous conseille au passage l&amp;rsquo;application &lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=com.voxinzebox.baladesenbourgogne&amp;amp;hl=fr&amp;amp;gl=US&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Balades en bourgogne&lt;/a&gt; qui m&amp;rsquo;a permis de faire une superbe visite gratuite de la ville.&lt;/p&gt;
+&lt;p&gt;Après quelques km sur la vélo route des cotaux de Bougogne, je suis  arrivé à Chagny ou je me suis posé dans la coloc d&amp;rsquo;Audrey rencontrée via Warmshower, très bel endroit plein d&amp;rsquo;agréables jeunes gens qui m&amp;rsquo;a permis d&amp;rsquo;éviter la tempête &amp;ldquo;Alex&amp;rdquo; qui a déferlée sur la France (25mm d&amp;rsquo;eau sur la journée) !&lt;/p&gt;
+&lt;p&gt;Après cette petite pause, je me suis lancé sur la dernière section d&amp;rsquo;eurovelo 6 pour rejoindre la Loire. Arrivé sur le fleuve, j&amp;rsquo;ai quitté l&amp;rsquo;ev6  en direction de l&amp;rsquo;Allier via Moulin. Je me suis posé chez Daniel à Bourbon l&amp;rsquo;Archambeau avec qui j&amp;rsquo;ai parlé de ses voyages à vélo en Israël et de géométrie sacrée !&lt;/p&gt;
+&lt;p&gt;La traversée de l&amp;rsquo;Allier c&amp;rsquo;est faite en partie sous la pluie, j&amp;rsquo;ai pu quand même profiter d&amp;rsquo;une accalmie nocturne pour traverser &amp;rsquo;&amp;rsquo; plus grande cheneraie d&amp;rsquo;Europe &amp;rsquo;&amp;rsquo; (la forêt de Tronçais) planté par Mazarin, sensations assurée ;)&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite traversé les départements du Cher, de l&amp;rsquo;Indre et de la Vienne. Je pensai traverser un désert mais je rencontre plein de villes de taille moyenne jolies (la Châtre, Argenton sur creuse, Montmorillion).&lt;/p&gt;
+&lt;p&gt;Une fois passé la Vienne, je me sent presque chez moi, je traverse ces derniers kilomètres en direction de l&amp;rsquo;océan avec avidité.  La veille de mon arrivée, je dors chez Stéphane et Fanny rencontrés sur un étang de pêche des deux Sèvres, chouette rencontre pour ponctuer cette belle aventure.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;arrive le lendemain à la Rochelle, heureux de retrouver toute la famille et un lit sec et confortable. Un peu fatigué mais très heureux de ces deux mois à vélo.&lt;/p&gt;
+&lt;p&gt;Merci à vous d&amp;rsquo;avoir lu ce petit récit de mon aventure !&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/DSC00743.JPG&#34;
+    alt=&#34;Arrivée à La Rochelle&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Arrivée à La Rochelle&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Construction d&#39;un vélo cargo &#34;Long tail&#34;</title>
+        <link>http://localhost:1313/blog/post/construction-dun-velo-cargo/</link>
+        <pubDate>Thu, 16 Apr 2020 19:34:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/construction-dun-velo-cargo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min-1.jpg" alt="Featured image of post Construction d&#39;un vélo cargo &#34;Long tail&#34;" /&gt;&lt;p&gt;Je roule un vélo cargo Omnium depuis bientôt deux ans et je l&amp;rsquo;adore. C&amp;rsquo;est un vélo qui roule très bien. Il n&amp;rsquo;est pas trop tape l’œil mais j&amp;rsquo;hésite toujours à laisser la nuit dans le rue&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;En septembre 2019, je me suis mis dans la tête de créer mon propre vélo cargo pour palier a ce problème. L&amp;rsquo;idée était de créer un vélo solide, qui peut emporter beaucoup et pour un budjet limité (&amp;lt;400euros). Je propose de suivre sa fabrication dans cet article.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai été inspiré des créations de la chaîne Youtube de &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCchU2gYo5UunA6uh6JVOd9A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Phil Vandelay&lt;/a&gt;. Il a notamment partagé un tutoriel pour réaliser un biporteur de type bullitt en acier très détaillée ici.&lt;/p&gt;
+&lt;iframe width=&#34;480&#34; height=&#34;270&#34; src=&#34;https://www.youtube.com/embed/SDlnDEXlfm8?feature=oembed&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;phase-1--conception&#34;&gt;&lt;a href=&#34;#phase-1--conception&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 1 : Conception
+&lt;/h3&gt;&lt;p&gt;Pour commencer j&amp;rsquo;ai cherché le modèle de vélo cargo que je pourrai produire. J&amp;rsquo;étais inspiré par biporteur de type &amp;ldquo;Bullitt&amp;rdquo; comme celui cité plus haut mais le nombre de soudures et les différents usinages à réaliser m&amp;rsquo;ont paru risqués pour un premier projet de travail du métal.&lt;/p&gt;
+&lt;p&gt;En fouillant un peu, j&amp;rsquo;ai trouvé un modèle de cargo moins compliqué à produire type &amp;ldquo;Fat tail&amp;rdquo; comme le &lt;a class=&#34;link&#34; href=&#34;https://www.konaworld.com/ute.cfm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hona Ute&lt;/a&gt; traduisez &amp;ldquo;Grand porte bagage&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Ce type de cargo est proche d&amp;rsquo;un vélo standard, cela diminue la complexité de construction du mécanisme de direction. De plus en utilisant deux cadres, les points critiques (patte arrières du cadre, boîtiers de pédalier, emplacements des freins) sont déjà en place.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est à partir de cette idée que mon colocataire m&amp;rsquo;a dessiné la maquette ci dessous. Merci Samy ! Les deux cadres y sont représentés  de couleurs différentes, on supprime les haubans du premier (bleu) et on réutilise pour les renforts du porte bagage et des marche pied. Le cadre rouge quand à lui couvre le triangle arrière du cargo.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/received_504484943755319-min.jpeg&#34;
+    alt=&#34;Marquette CAO du cargo&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Marquette CAO du cargo&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cette conception a permis de lister les matières premières a utiliser et les outils, utile sachant que je ne suis pas très équipé pour travailler le métal &amp;hellip;)&lt;/p&gt;
+&lt;h3 id=&#34;phase-2--récupération-des-matières-premières&#34;&gt;&lt;a href=&#34;#phase-2--r%c3%a9cup%c3%a9ration-des-mati%c3%a8res-premi%c3%a8res&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 2 : Récupération des matières premières
+&lt;/h3&gt;&lt;p&gt;La conception m&amp;rsquo;a permis de lister le matériel a rassembler pour le projet. Pour les matières première la liste est la suivante&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recup&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 cadres de vélo (même taille de roue 😁, freins v brake)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Metal&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2m de profilé carré 30x30mm en acier&lt;/li&gt;
+&lt;li&gt;4m de profilé carré 15x15mm en acier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fournitures&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plateau en pin 1m30x45cm (assise et marches pieds)&lt;/li&gt;
+&lt;li&gt;Vis M8 et boulon&lt;/li&gt;
+&lt;li&gt;Peinture et vernis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200115_204607-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200117_155749-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;figcaption&gt;Les cadres et les profilés&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;Pour les cadres de vélos j&amp;rsquo;ai récupéré et désossé deux cadres acier.&lt;/p&gt;
+&lt;p&gt;Les profilés acier on été achetés chez un revendeur de métal local &lt;a class=&#34;link&#34; href=&#34;https://www.google.com/maps/place/Blanchard&amp;#43;Mat%C3%A9riels&amp;#43;Industriels&amp;#43;SARL/@47.178885,-1.499998,15z/data=!4m2!3m1!1s0x0:0xf0b74fef3fa6077a?sa=X&amp;amp;ved=2ahUKEwjjvIDSyO3oAhWizIUKHdPXAWsQ_BIwCnoECBwQCA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BMI&lt;/a&gt; , mais ils peuvent être aussi trouvés en grande surface bricolage. (bricoman / leroy merlin etc)&lt;/p&gt;
+&lt;h3 id=&#34;phase-3--soudage&#34;&gt;&lt;a href=&#34;#phase-3--soudage&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 3 : Soudage
+&lt;/h3&gt;&lt;p&gt;La première phase de production, après plusieurs semaine de réflexion et de conception, mon cargo allait enfin pouvoir prendre forme :)&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai commencé avec Sam à créer un JIG (gabari) pour immobiliser les deux cadres dans leurs positions finale avec équerres, tiges filtés et boulons pour immobiliser le tout.&lt;/p&gt;
+&lt;p&gt;Ensuite, nous avons commencés les découpes des cadres à la meuleuse. Les sections critique on été coupés à la scie à métaux pour plus de précision. Certaines découpes des profilés en lien avec les cadres ont été fait avec des scies cloches métaux (diam 30 et 40mm).&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;avais commencé le projet car depuis septemble 2019,  je suis l&amp;rsquo;heureux pocésseur d&amp;rsquo;un poste à souder à l&amp;rsquo;arc qui permet de souder des tubes d&amp;rsquo;acier de 1mm à 4mm.&lt;/p&gt;
+&lt;p&gt;Je pensai que ça serai suffisant pour ce projet mais après plusieurs tests, les soudures sur les cadres de vélos n&amp;rsquo;étaient pas fesable avec ce poste (épaisseur des tubes entre 0.6 et 0.8mm).&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai donc fais appel à une connaissance qui a réalisé les soudures au poste TIG (procédé de soudure sous gaz) qui permet de souder rapidement des tubes de faible épaisseur.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200207_141111-min.jpg&#34;
+    alt=&#34;Soudure du cadre au TIG&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Soudure du cadre au TIG&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Une fois les soudures en lien avec cadres faites, j&amp;rsquo;ai terminé les soudure au poste à l&amp;rsquo;arc. Puis j&amp;rsquo;ai meuler les soudures les plus visible.&lt;/p&gt;
+&lt;p&gt;Avant de passer à la peinture, j&amp;rsquo;ai fait attention à souder des boulons sur l’extension du cargo pour guider le câble de frein arrière.&lt;/p&gt;
+&lt;h3 id=&#34;phase-4--finitions&#34;&gt;&lt;a href=&#34;#phase-4--finitions&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 4 : Finitions
+&lt;/h3&gt;&lt;p&gt;Nous avons décidés de décaper les peintures des cadres pour une meilleure accroche de la nouvelle peinture.&lt;/p&gt;
+&lt;p&gt;La peinture a été réalisée à la bombe, deux couches de sous couche, trois de peinture et une de vernis.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200221_163707-min.jpg&#34;
+    alt=&#34;Le cadre décapé, prêt pour la peinture&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Le cadre décapé, prêt pour la peinture&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;En parallèle à la peinture, j&amp;rsquo;ai travaillé sur les trois plateformes en bois du porte bagage. Les découpes ont été réalisé avec scie circulaire et scie sauteuse pour les angles arrondis et une finition à la défonceuse en quart de rond a été appliquée pour adoucir les angles des planches 😌.&lt;/p&gt;
+&lt;p&gt;Après trois couches de vernis incolore/haute resistances les planches ont été assemplées au cadre avec de la visserie inox.&lt;/p&gt;
+&lt;p&gt;Nous avons choisi les composants à garder à issu du démontage des deux vélos, pour la transmission, j&amp;rsquo;ai récupéré un vieux dérailleur 8 vitesses.&lt;/p&gt;
+&lt;p&gt;En remontant les roues, je me suis aperçu que les freins des pattes arrières étaient dimensionnés pour des roues de 28&amp;quot; (26&amp;quot; prévu initialement) nous avons donc cherché une solution, la plus simple a été de chercher une fourche de remplacement pour une roue de 28&amp;quot; (en bleu foncé sur la photo) et une paire de roues adapté (28&amp;quot;).&lt;/p&gt;
+&lt;p&gt;Le deuxième problème au remontage a été la tension de la chaîne. Nous avons assemblés les chaînes des deux vélos démontés et le dérailleur 8 vitesses n&amp;rsquo;arrivait pas a garder une tension de chaîne correcte, nous avons donc bricolés un tendeur de chaîne maison.&lt;/p&gt;
+&lt;p&gt;Par la suite, j&amp;rsquo;ai cousu une sacoche sur mesure pour stocker quelques babioles à l&amp;rsquo;arrière du cadre. Cette sacoche ajoute aussi une fixation pour l&amp;rsquo;antivol U du vélo.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min.jpg&#34;
+    alt=&#34;Le cargo finalisé&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Le cargo finalisé&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;En conclusion, je suis content du vélo, sur les premiers kilomètres il est très agréable à rouler même si un peu lourd.&lt;/p&gt;
+&lt;p&gt;Maintenant il va falloir l&amp;rsquo;éprouver sur plusieurs centaines de kilomètre, je vous ferai un retour approfondit dans les prochains mois.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Monter un vélo cargo omnium</title>
+        <link>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</link>
+        <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min-1.jpg" alt="Featured image of post Monter un vélo cargo omnium" /&gt;&lt;p&gt;En terminant mon voyage à vélo en europe en 2017, j&amp;rsquo;étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu&amp;rsquo;il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.&lt;/p&gt;
+&lt;p&gt;Les vélos cargo qui m’attiraient le plus étaient les biporteurs (2 roues et le chargement placé à l&amp;rsquo;avant). Au vu du prix des biporteurs neufs (&amp;gt;2500 euros) et des biporteurs d&amp;rsquo;occasion (&amp;gt;1500 euros) j&amp;rsquo;ai décidé de faire de la veille sur le marché de l&amp;rsquo;occasion dans l&amp;rsquo;attente de trouver une bonne affaire.&lt;/p&gt;
+&lt;p&gt;Je prévoyais au démarrage un budget de 1200 euros.  A ce prix là, on peut trouver les premiers cargo neufs comme le Kona Ute mais pas de biporteur, j&amp;rsquo;ai donc décidé d&amp;rsquo;acheter mon cargo en kit pour le monter moi-même, choisir les composants et ainsi réduit le coût total.&lt;/p&gt;
+&lt;p&gt;Durant mes recherches, je me concentrai principalement sur deux marques de biporteur :&lt;/p&gt;
+&lt;p&gt;• Bullit (kit cadre neuf pour 1400 euros) Plus lourd mais plus robuste• Omnium (kit cadre neuf pour 1100 euros)  Plus léger mais plus sensible aux chargements lourds&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le cargo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Au mois de juin, j&amp;rsquo;ai finalement trouvé un cadre Omnium cargo occasion (mais jamais monté). Le prix avantageux auquel il était proposé m&amp;rsquo;a permis de me décider rapidement en faveur de l&amp;rsquo;omnium.&lt;/p&gt;
+&lt;p&gt;Je suis allé le chercher à Paris (trajet en bus) et j&amp;rsquo;ai commencé à réfléchir au montage à réaliser. Une grande partie de mon budget étant parti dans le cadre, j&amp;rsquo;allais devoir être malin pour faire un montage à moindre prix.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase de préparation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après l&amp;rsquo;acquisition du kit cadre, j&amp;rsquo;ai fait une liste des composants à commander. Pour la constituer je me suis basé sur les composants montés par défaut sur les cargo omnium et sur les listes d&amp;rsquo;amis qui avaient montés leurs cargo auparavant.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai pu suivre les sources et l&amp;rsquo;avancée des commandes de matériel avec ce tableau.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTKzjMVAcYrdVTb2FzbgyD7aPIGuLkdct1a2pSVb27S0BKrr77MtktoifXTeyB0GMhKPSJLqXTeCwmK/pubhtml?widget=true&amp;amp;headers=false&#34; width=&#34;840&#34; height=&#34;780&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTKzjMVAcYrdVTb2FzbgyD7aPIGuLkdct1a2pSVb27S0BKrr77MtktoifXTeyB0GMhKPSJLqXTeCwmK/pubhtml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lien direct vers le tableau&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Montage de la transimission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai commencé le montage du cargo par le moins complexe : la transmission. J&amp;rsquo;avais commandé initialement une transmission neuve sram NX sur aliexpress mais le colis a été taxé à la frontière ce qui a doublé son coût, j&amp;rsquo;ai refusé le colis et je me suis rabattu sur une transmission shimano XT 11v d&amp;rsquo;occasion (jamais roulée). Lien de la transmission neuve.&lt;/p&gt;
+&lt;p&gt;Le montage de la transmission a été plutôt simple. J&amp;rsquo;ai du commander un boîtier de pédalier et une attache rapide 11v pour compléter la transmission.&lt;/p&gt;
+&lt;p&gt;Bon à savoir : pour le montage des cuvettes de boîtier de pédalier, il faut une entretoise côté manivelle et deux entretoises coté manivelle porte plateau.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180917_181535-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Montage des roues&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La partie avec le plus d&amp;rsquo;incertitude était le montage des roues. En effet, l&amp;rsquo;omnium a une roue avant de 20 pouces à disque (quasiment introuvable dans le commerce). Au vu du prix élevé de la paire de roue vendue sur le site officiel omnium et de leur qualité moyenne j&amp;rsquo;ai décidé de rayonner mes roues.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai dans un premier temps acheté les cercles et moyeu. J&amp;rsquo;ai d&amp;rsquo;ailleurs pris un moyeu dynamo shutter precision pour pouvoir alimenter les lumières du vélo.&lt;/p&gt;
+&lt;p&gt;Après la réception de touts les éléments, j&amp;rsquo;ai calculé la longueur des rayons de chaque roue. Pour cela il faut prendre plusieurs mesures sur les moyeux et les cercles  et les renseigner sur les sites suivants :&lt;/p&gt;
+&lt;p&gt;• Leonardo.io• Sapim calculator&lt;/p&gt;
+&lt;p&gt;Vous pouvez voir les informations concernant la longueur des rayons sur la deuxième page du tableur ci dessus : &amp;ldquo;Montage de roues&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite commandé les rayons chez mon vélociste et rayonné les roues avec un ami.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180920_111922-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180920_185228-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Montage du système de freinage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour finir, le montage du cargo j&amp;rsquo;ai monté le système de freinage. C&amp;rsquo;est un amis qui m&amp;rsquo;a donné la paire de freins hydraulique issu d&amp;rsquo;un tandem. Dans un premier temps j&amp;rsquo;ai utilisé le frein arrière du tandem comme frein avant puis j&amp;rsquo;ai acheté une durite aviteur magura pour remplacer la durite avant trop courte et j&amp;rsquo;ai effectué une purge avec un ami.&lt;/p&gt;
+&lt;p&gt;Nous avons recoupé la durite arrière du tandem pour qu&amp;rsquo;elle corresponde au cadre de l&amp;rsquo;omnium et nous avons recoupé la durite neuve pour qu&amp;rsquo;elle aille jusqu&amp;rsquo;à l&amp;rsquo;étrier avant.&lt;/p&gt;
+&lt;p&gt;Bon à savoir : Le raccourcissement des durites Magura peut se faire avec une pince coupe câble&lt;/p&gt;
+&lt;p&gt;Nous avons utiliser un kit comme celui ci pour la purge des freins&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20181018_212210-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Améliorations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai récemment changé le cintre du cargo pour un cintre plus confortable. J&amp;rsquo;ai choisi un Jones bar.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai utilisé le site &lt;a class=&#34;link&#34; href=&#34;http://whatbars.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://whatbars.com/&lt;/a&gt; pour comparer l&amp;rsquo;angle et la taille des différents cintres.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190408_184623-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour conclure cet article, je suis très content du montage de mon cargo. Dans un premier temps il m&amp;rsquo;a permis de monter un vélo cargo pour un somme convenable (j&amp;rsquo;ai quand même dépassé mon budget initial de plus de 250 euros) mais j&amp;rsquo;ai pu aussi découvrir des notions de mécanique cycle que je ne connaissais pas comme le rayonnage des roues ou la purge des disques hydrauliques.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai quand même fait face a de nombreux blocages durant le montage, c&amp;rsquo;est pour cela que j&amp;rsquo;ai fait cet article, pour  que d&amp;rsquo;autres ne fassent pas les mêmes erreurs.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

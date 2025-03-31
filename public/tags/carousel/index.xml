@@ -1,20 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Carousel on Mon blog</title>
-    <link>http://localhost:1313/blog/tags/carousel/</link>
-    <description>Recent content in Carousel on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Fri, 19 Oct 2018 22:06:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/carousel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monter un vélo cargo omnium</title>
-      <link>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</link>
-      <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</guid>
-      <description>&lt;p&gt;En terminant mon voyage à vélo en europe en 2017, j&amp;rsquo;étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu&amp;rsquo;il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.&lt;/p&gt;
-&lt;p&gt;Les vélos cargo qui m’attiraient le plus étaient les biporteurs (2 roues et le chargement placé à l&amp;rsquo;avant). Au vu du prix des biporteurs neufs (&amp;gt;2500 euros) et des biporteurs d&amp;rsquo;occasion (&amp;gt;1500 euros) j&amp;rsquo;ai décidé de faire de la veille sur le marché de l&amp;rsquo;occasion dans l&amp;rsquo;attente de trouver une bonne affaire.&lt;/p&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Carousel on Mon blog</title>
+        <link>http://localhost:1313/blog/tags/carousel/</link>
+        <description>Recent content in Carousel on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Fri, 19 Oct 2018 22:06:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/carousel/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Monter un vélo cargo omnium</title>
+        <link>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</link>
+        <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/monter-un-velo-cargo-omnium/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min-1.jpg" alt="Featured image of post Monter un vélo cargo omnium" /&gt;&lt;p&gt;En terminant mon voyage à vélo en europe en 2017, j&amp;rsquo;étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu&amp;rsquo;il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.&lt;/p&gt;
+&lt;p&gt;Les vélos cargo qui m’attiraient le plus étaient les biporteurs (2 roues et le chargement placé à l&amp;rsquo;avant). Au vu du prix des biporteurs neufs (&amp;gt;2500 euros) et des biporteurs d&amp;rsquo;occasion (&amp;gt;1500 euros) j&amp;rsquo;ai décidé de faire de la veille sur le marché de l&amp;rsquo;occasion dans l&amp;rsquo;attente de trouver une bonne affaire.&lt;/p&gt;
+&lt;p&gt;Je prévoyais au démarrage un budget de 1200 euros.  A ce prix là, on peut trouver les premiers cargo neufs comme le Kona Ute mais pas de biporteur, j&amp;rsquo;ai donc décidé d&amp;rsquo;acheter mon cargo en kit pour le monter moi-même, choisir les composants et ainsi réduit le coût total.&lt;/p&gt;
+&lt;p&gt;Durant mes recherches, je me concentrai principalement sur deux marques de biporteur :&lt;/p&gt;
+&lt;p&gt;• Bullit (kit cadre neuf pour 1400 euros) Plus lourd mais plus robuste• Omnium (kit cadre neuf pour 1100 euros)  Plus léger mais plus sensible aux chargements lourds&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le cargo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Au mois de juin, j&amp;rsquo;ai finalement trouvé un cadre Omnium cargo occasion (mais jamais monté). Le prix avantageux auquel il était proposé m&amp;rsquo;a permis de me décider rapidement en faveur de l&amp;rsquo;omnium.&lt;/p&gt;
+&lt;p&gt;Je suis allé le chercher à Paris (trajet en bus) et j&amp;rsquo;ai commencé à réfléchir au montage à réaliser. Une grande partie de mon budget étant parti dans le cadre, j&amp;rsquo;allais devoir être malin pour faire un montage à moindre prix.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase de préparation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après l&amp;rsquo;acquisition du kit cadre, j&amp;rsquo;ai fait une liste des composants à commander. Pour la constituer je me suis basé sur les composants montés par défaut sur les cargo omnium et sur les listes d&amp;rsquo;amis qui avaient montés leurs cargo auparavant.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai pu suivre les sources et l&amp;rsquo;avancée des commandes de matériel avec ce tableau.&lt;/p&gt;
+&lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTKzjMVAcYrdVTb2FzbgyD7aPIGuLkdct1a2pSVb27S0BKrr77MtktoifXTeyB0GMhKPSJLqXTeCwmK/pubhtml?widget=true&amp;amp;headers=false&#34; width=&#34;840&#34; height=&#34;780&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vTKzjMVAcYrdVTb2FzbgyD7aPIGuLkdct1a2pSVb27S0BKrr77MtktoifXTeyB0GMhKPSJLqXTeCwmK/pubhtml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lien direct vers le tableau&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Montage de la transimission&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai commencé le montage du cargo par le moins complexe : la transmission. J&amp;rsquo;avais commandé initialement une transmission neuve sram NX sur aliexpress mais le colis a été taxé à la frontière ce qui a doublé son coût, j&amp;rsquo;ai refusé le colis et je me suis rabattu sur une transmission shimano XT 11v d&amp;rsquo;occasion (jamais roulée). Lien de la transmission neuve.&lt;/p&gt;
+&lt;p&gt;Le montage de la transmission a été plutôt simple. J&amp;rsquo;ai du commander un boîtier de pédalier et une attache rapide 11v pour compléter la transmission.&lt;/p&gt;
+&lt;p&gt;Bon à savoir : pour le montage des cuvettes de boîtier de pédalier, il faut une entretoise côté manivelle et deux entretoises coté manivelle porte plateau.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180917_181535-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Montage des roues&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La partie avec le plus d&amp;rsquo;incertitude était le montage des roues. En effet, l&amp;rsquo;omnium a une roue avant de 20 pouces à disque (quasiment introuvable dans le commerce). Au vu du prix élevé de la paire de roue vendue sur le site officiel omnium et de leur qualité moyenne j&amp;rsquo;ai décidé de rayonner mes roues.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai dans un premier temps acheté les cercles et moyeu. J&amp;rsquo;ai d&amp;rsquo;ailleurs pris un moyeu dynamo shutter precision pour pouvoir alimenter les lumières du vélo.&lt;/p&gt;
+&lt;p&gt;Après la réception de touts les éléments, j&amp;rsquo;ai calculé la longueur des rayons de chaque roue. Pour cela il faut prendre plusieurs mesures sur les moyeux et les cercles  et les renseigner sur les sites suivants :&lt;/p&gt;
+&lt;p&gt;• Leonardo.io• Sapim calculator&lt;/p&gt;
+&lt;p&gt;Vous pouvez voir les informations concernant la longueur des rayons sur la deuxième page du tableur ci dessus : &amp;ldquo;Montage de roues&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite commandé les rayons chez mon vélociste et rayonné les roues avec un ami.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180920_111922-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20180920_185228-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Montage du système de freinage&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour finir, le montage du cargo j&amp;rsquo;ai monté le système de freinage. C&amp;rsquo;est un amis qui m&amp;rsquo;a donné la paire de freins hydraulique issu d&amp;rsquo;un tandem. Dans un premier temps j&amp;rsquo;ai utilisé le frein arrière du tandem comme frein avant puis j&amp;rsquo;ai acheté une durite aviteur magura pour remplacer la durite avant trop courte et j&amp;rsquo;ai effectué une purge avec un ami.&lt;/p&gt;
+&lt;p&gt;Nous avons recoupé la durite arrière du tandem pour qu&amp;rsquo;elle corresponde au cadre de l&amp;rsquo;omnium et nous avons recoupé la durite neuve pour qu&amp;rsquo;elle aille jusqu&amp;rsquo;à l&amp;rsquo;étrier avant.&lt;/p&gt;
+&lt;p&gt;Bon à savoir : Le raccourcissement des durites Magura peut se faire avec une pince coupe câble&lt;/p&gt;
+&lt;p&gt;Nous avons utiliser un kit comme celui ci pour la purge des freins&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20181018_212210-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Améliorations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai récemment changé le cintre du cargo pour un cintre plus confortable. J&amp;rsquo;ai choisi un Jones bar.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai utilisé le site &lt;a class=&#34;link&#34; href=&#34;http://whatbars.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://whatbars.com/&lt;/a&gt; pour comparer l&amp;rsquo;angle et la taille des différents cintres.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190408_184623-min.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour conclure cet article, je suis très content du montage de mon cargo. Dans un premier temps il m&amp;rsquo;a permis de monter un vélo cargo pour un somme convenable (j&amp;rsquo;ai quand même dépassé mon budget initial de plus de 250 euros) mais j&amp;rsquo;ai pu aussi découvrir des notions de mécanique cycle que je ne connaissais pas comme le rayonnage des roues ou la purge des disques hydrauliques.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai quand même fait face a de nombreux blocages durant le montage, c&amp;rsquo;est pour cela que j&amp;rsquo;ai fait cet article, pour  que d&amp;rsquo;autres ne fassent pas les mêmes erreurs.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

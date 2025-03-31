@@ -1,75 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Categories on Mon blog</title>
-    <link>http://localhost:1313/blog/categories/</link>
-    <description>Recent content in Categories on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Thu, 31 Aug 2023 12:43:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aventure</title>
-      <link>http://localhost:1313/blog/categories/aventure/</link>
-      <pubDate>Thu, 31 Aug 2023 12:43:58 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/aventure/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vélo</title>
-      <link>http://localhost:1313/blog/categories/v%C3%A9lo/</link>
-      <pubDate>Thu, 31 Aug 2023 12:43:58 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/v%C3%A9lo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Randonnée</title>
-      <link>http://localhost:1313/blog/categories/randonn%C3%A9e/</link>
-      <pubDate>Thu, 20 May 2021 08:11:39 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/randonn%C3%A9e/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DIY</title>
-      <link>http://localhost:1313/blog/categories/diy/</link>
-      <pubDate>Sun, 13 Dec 2020 23:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/diy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vélo Cargo</title>
-      <link>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</link>
-      <pubDate>Sat, 31 Oct 2020 13:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mes Atuces</title>
-      <link>http://localhost:1313/blog/categories/mes-atuces/</link>
-      <pubDate>Sat, 31 Oct 2020 09:38:47 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/mes-atuces/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Numérique</title>
-      <link>http://localhost:1313/blog/categories/num%C3%A9rique/</link>
-      <pubDate>Thu, 19 Sep 2019 22:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/num%C3%A9rique/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recette</title>
-      <link>http://localhost:1313/blog/categories/recette/</link>
-      <pubDate>Sat, 29 Dec 2018 22:07:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/recette/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Carousel</title>
-      <link>http://localhost:1313/blog/categories/carousel/</link>
-      <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/categories/carousel/</guid>
-      <description></description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Mon blog</title>
+        <link>http://localhost:1313/blog/categories/</link>
+        <description>Recent content in Categories on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Thu, 31 Aug 2023 12:43:58 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Aventure</title>
+        <link>http://localhost:1313/blog/categories/aventure/</link>
+        <pubDate>Thu, 31 Aug 2023 12:43:58 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/aventure/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vélo</title>
+        <link>http://localhost:1313/blog/categories/v%C3%A9lo/</link>
+        <pubDate>Thu, 31 Aug 2023 12:43:58 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/v%C3%A9lo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Randonnée</title>
+        <link>http://localhost:1313/blog/categories/randonn%C3%A9e/</link>
+        <pubDate>Thu, 20 May 2021 08:11:39 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/randonn%C3%A9e/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>DIY</title>
+        <link>http://localhost:1313/blog/categories/diy/</link>
+        <pubDate>Sun, 13 Dec 2020 23:31:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/diy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Vélo Cargo</title>
+        <link>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</link>
+        <pubDate>Sat, 31 Oct 2020 13:20:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/v%C3%A9lo-cargo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mes Atuces</title>
+        <link>http://localhost:1313/blog/categories/mes-atuces/</link>
+        <pubDate>Sat, 31 Oct 2020 09:38:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/mes-atuces/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Numérique</title>
+        <link>http://localhost:1313/blog/categories/num%C3%A9rique/</link>
+        <pubDate>Thu, 19 Sep 2019 22:10:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/num%C3%A9rique/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Recette</title>
+        <link>http://localhost:1313/blog/categories/recette/</link>
+        <pubDate>Sat, 29 Dec 2018 22:07:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/recette/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Carousel</title>
+        <link>http://localhost:1313/blog/categories/carousel/</link>
+        <pubDate>Fri, 19 Oct 2018 22:06:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/categories/carousel/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

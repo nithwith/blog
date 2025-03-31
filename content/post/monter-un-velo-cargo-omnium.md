@@ -3,7 +3,7 @@ categories = ["Vélo cargo", "carousel"]
 date = 2018-10-19T22:06:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/20180921_194754-min-1.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min-1.jpg"
 slug = "monter-un-velo-cargo-omnium"
 tags = ["Vélo cargo", "carousel"]
 title = "Monter un vélo cargo omnium"
@@ -27,7 +27,7 @@ Au mois de juin, j'ai finalement trouvé un cadre Omnium cargo occasion (mais ja
 
 Je suis allé le chercher à Paris (trajet en bus) et j'ai commencé à réfléchir au montage à réaliser. Une grande partie de mon budget étant parti dans le cadre, j'allais devoir être malin pour faire un montage à moindre prix.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180921_194754-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min.jpg" >}}
 
 **Phase de préparation**
 
@@ -49,7 +49,7 @@ Le montage de la transmission a été plutôt simple. J'ai du commander un boît
 
 Bon à savoir : pour le montage des cuvettes de boîtier de pédalier, il faut une entretoise côté manivelle et deux entretoises coté manivelle porte plateau.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20180917_181535-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20180917_181535-min.jpg" >}}
 
 **Montage des roues**
 
@@ -66,7 +66,7 @@ Vous pouvez voir les informations concernant la longueur des rayons sur la deuxi
 J'ai ensuite commandé les rayons chez mon vélociste et rayonné les roues avec un ami.
 
 {{< gallery >}}
-{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/01/20180920_111922-min.jpg" width="4032" height="3024" >}}{{< galleryImg  src="nithwith.github.io/blog/content/images/2020/01/20180920_185228-min.jpg" width="4032" height="3024" >}}{{< /gallery >}}
+{{< galleryImg  src="https://blog.theomarty.fr/content/images/2020/01/20180920_111922-min.jpg" width="4032" height="3024" >}}{{< galleryImg  src="https://blog.theomarty.fr/content/images/2020/01/20180920_185228-min.jpg" width="4032" height="3024" >}}{{< /gallery >}}
 
 **Montage du système de freinage**
 
@@ -78,7 +78,7 @@ Bon à savoir : Le raccourcissement des durites Magura peut se faire avec une pi
 
 Nous avons utiliser un kit comme celui ci pour la purge des freins
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20181018_212210-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20181018_212210-min.jpg" >}}
 
 **Améliorations**
 
@@ -86,7 +86,7 @@ J'ai récemment changé le cintre du cargo pour un cintre plus confortable. J'ai
 
 J'ai utilisé le site [http://whatbars.com/](http://whatbars.com/) pour comparer l'angle et la taille des différents cintres.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20190408_184623-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190408_184623-min.jpg" >}}
 
 **Conclusion**
 

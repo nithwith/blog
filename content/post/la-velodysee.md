@@ -3,7 +3,7 @@ categories = ["Vélo", "Aventure"]
 date = 2015-08-18T21:21:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/DSC07038-768x576.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/DSC07038-768x576.jpg"
 slug = "la-velodysee"
 tags = ["Vélo", "Aventure"]
 title = "La Vélodysée"
@@ -35,13 +35,13 @@ Nous avons décidé de suivre la Vélodyssée alias Eurovélo 1 à partir de Lé
 
 Le 5 août : Départ de Dax, à trois.Nous sommes partis le 5 août pour approximativement 2-3 semaines de voyage à vélo. Nous nous sommes rejoints à la Gare de Bordeaux pour aller ensemble jusqu’à Dax où nous sommes arrivés sur les coups de 14h.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20140805_144251-nopm-.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20140805_144251-nopm-.jpg" >}}
 
 Dès le départ de la gare, dans le centre le ville de Dax, un mauvais placement des affaires dans la remorque provoque  une déchirure du tissu de la parois de la remorque causé par le frottement des roues sur celui-ci. Nous arrivons finalement à sortir du centre ville pour nous enfoncer dans les immenses forêts sablonneuses des Landes. A mi-parcours le GPS (téléphone portable avec Google Maps) nous propose un chemin qu'il nous annonce "propice  au vélo"... Au bout d'un kilomètre nous nous embourbons dans des chemins de sable semblables à des chemins de plage mais nous avons aussi droit à des chemins boueux coupés par des grosses flaques d'eau qu'il faut éviter tant bien que mal. Au bout de 3 kilomètres, l'attache liant la remorque à l'essieu arrière lâche ce qui nous oblige à rouler doucement et éviter toutes bosses, de peur d’abîmer la roue (nous bricolons tout cela avec du raphia pour éviter que la roue ne sorte de son encoche). Vers 20h, nous arrivons finalement à Léon où nous plantons notre tente pour la première fois, dégoûtés et fatigués par les galères de cette première journée. Nous recherchions l'aventure : ça y est, nous y sommes.**Le 6 août :**
 
 Très bonne nuit à l'aire naturelle du domaine du Cayre, à côté de Léon, propriétaires sympathiques qui nous ont invités le soir a partagé notre repas avec tout les campeurs dans la bonne humeur. Ce type de soirée était organisée le mercredi soir et était vraiment très agréable ! Le lendemain les propriétaires nous ont aussi dépannés en nous indiquant un loueur de vélo qui a réparé la roue, endommagée la veille, gratuitement et en nous fournissant de larges sacs poubelles pour mettre nos affaires à l'abri pendant que nous roulions. Nous conseillons cette aire naturelle à tous les cyclotouristes de passage dans la région pour son prix et à la fois pour son accueil chaleureux et sa tranquillité.Le 7 août :Nous nous décidons finalement à partir de Léon (en prenant le chemin passant près de la plage) pour entamer la première étape du voyage sur la Vélodyssée de Léon jusqu'à Saint Julien en Born. Étape de 35 km, marquée par quelques dénivelés, mais nous arrivons avant midi à destination. Malheureusement, une fois arrivés au camping, notre camarade Florian (en haut à gauche sur la photo ci-contre et à gauche sur les photos précédentes) doit rentrer chez lui à cause de problèmes familiaux. C'est un nouveau coup dur mais nous ne nous laissons pas abattre : nous continuerons le voyage à deux.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20140806_105713122.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20140806_105713122.jpg" >}}
 
 Le 8 août :Journée de repos au camping de Saint Julien en Born, nous planifions le voyage et nous redistribuons les affaires que Florian nous à laissées avant de s'en aller. Le soir, nous allons à la plage où nous rencontrons deux jeunes frères toulousains hyper sympas, tous deux en STAPS et amateurs de voyages avec lesquels nous faisons du beach volley jusqu'à tard dans la nuit après avoir pique-niqué sur la plage. Le moral revient et ces petites choses, aussi simples soient-elles, nous redonnent l'envie et la confiance nécessaires pour continuer.Le 10 août :Après ce repos bien mérité nous reprenons la route, toujours vers le Nord, vers Sainte Eulalie en Born. Nous passons dans Mimizan-Plage et nous mangeons au bord du joli étang d'Aureilhan, au bord de l'eau et à l'ombre des arbres. Le parcours est très sympathique : entre forêt de pin et océan, quelques dunes se font sentir mais ne gâchent en rien le paysage. Le soir nous nous arrêtons en catastrophe et nous réussissons à trouver un camping vers 20h.Le 11 août :Seconde étape d'affilée, nous filons vers Biscarosse-Plage où nous devons retrouver des amis pour quelques jours. A midi nous profitons du lac de Biscarosse (à Parentis en Born) pour nous installer et manger. Nous avons ensuite dû pousser nos vélos sur 10km pour franchir les 3 dunes qui séparent Biscarosse de Biscarosse-Plage. Les dunes nous ont achevés mais nous arrivons enfin chez nos amis.
 
@@ -55,7 +55,7 @@ Le 19 août:Nous reprennons la route pour partir vers Soulac sur Mer où nous ar
 
 Le 20 août:Nous repartons sur la Velodyssée, dépassant la Pointe de la Coubre et longeant la côte sauvage jusqu'à Arvert où nous plantons notre tente dans un camping. Le soir nous assistons a un feu d'artifice à Ronce les Bains.Le 21 août:Dernière journée de repos du voyage , nous en profitons pour visiter les secteurs ostréicoles d'Arvert et de la Tremblade ainsi que les alentours.Le 22 août:Etape d'Arvert à Rochefort en passant par  Marenne. Nous visitons en passant Brouage et les villages alentours tel que Tonnay-Charente. Le soir après un crochet par le décathlon nous retrouvons une amie qui nous héberge pour la nuit avec qui nous avons passé une très bonne soirée, ce qui nous redonne des forces pour l'ultime étape du lendemain.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/WP_20150819_009.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/WP_20150819_009.jpg" >}}
 
 Le 23 août:Dernière étape, la fatigue se fait sentir, malgré l'étape de 40km nous sommes épuisés en arrivant à Virson notre destination (chez Théo, proche de La Rochelle). Journée difficile mais nous sommes accueillis comme des champions à notre arrivée, et nous sommes enfin arrivés ! Ce qui nous réjouit mais nous attriste aussi... Il faudra repartir se dit-on !
 

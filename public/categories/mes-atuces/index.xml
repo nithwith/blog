@@ -1,66 +1,271 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Mes Atuces on Mon blog</title>
-    <link>http://localhost:1313/blog/categories/mes-atuces/</link>
-    <description>Recent content in Mes Atuces on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 31 Oct 2020 09:38:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/categories/mes-atuces/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Quel matériel choisir pour partir à vélo ?</title>
-      <link>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</link>
-      <pubDate>Sat, 31 Oct 2020 09:38:47 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</guid>
-      <description>&lt;p&gt;Le voyage en vélo c&amp;rsquo;est un saut dans le vide ! Partir plusieurs jours à bicyclette, ça laisse rêveur mais milles questions se posent pour les néophytes. Essayons d’éclaircir tout ça ensemble.&lt;/p&gt;
-&lt;p&gt;Je vais essayer dans ce billet de partager ma petite expérience de voyageur à vélo sur la question : Quel matériel choisir pour partir à vélo ? Un point au combien important car il conditionnera une partie de votre aventure et vous permettra de grappiller un confort bienvenu ;)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Choisir son itinéraire en voyage à vélo</title>
-      <link>http://localhost:1313/blog/post/conseils-voyage-a-velo/</link>
-      <pubDate>Fri, 23 Dec 2016 21:28:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/conseils-voyage-a-velo/</guid>
-      <description>&lt;h2 id=&#34;itinéraires-cyclable&#34;&gt;Itinéraires cyclable&lt;/h2&gt;
-&lt;p&gt;En Europe :&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Mes Atuces on Mon blog</title>
+        <link>http://localhost:1313/blog/categories/mes-atuces/</link>
+        <description>Recent content in Mes Atuces on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sat, 31 Oct 2020 09:38:47 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/categories/mes-atuces/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Quel matériel choisir pour partir à vélo ?</title>
+        <link>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</link>
+        <pubDate>Sat, 31 Oct 2020 09:38:47 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/quel-materiel-pour-un-voyage-a-velo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/10/dsc00232_1.jpg" alt="Featured image of post Quel matériel choisir pour partir à vélo ?" /&gt;&lt;p&gt;Le voyage en vélo c&amp;rsquo;est un saut dans le vide ! Partir plusieurs jours à bicyclette, ça laisse rêveur mais milles questions se posent pour les néophytes. Essayons d’éclaircir tout ça ensemble.&lt;/p&gt;
+&lt;p&gt;Je vais essayer dans ce billet de partager ma petite expérience de voyageur à vélo sur la question : Quel matériel choisir pour partir à vélo ? Un point au combien important car il conditionnera une partie de votre aventure et vous permettra de grappiller un confort bienvenu ;)&lt;/p&gt;
+&lt;h2 id=&#34;le-destrier&#34;&gt;&lt;a href=&#34;#le-destrier&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le destrier
+&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/destrier--1-.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;La première chose à laquelle on pense est le vélo ! Est-il assez léger ? Supportera-t-il des sacoches chargés ? SPOILER : Un vélo bien entretenu est toujours prêt à partir en voyage !&lt;/p&gt;
+&lt;p&gt;Néanmoins si vous êtes à la recherche du &amp;ldquo;vélo de voyage&amp;rdquo; de vos rêves, sachez qu&amp;rsquo;il doit coller au cahier des charges suivants (non exhaustif)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eurovelo.org/routes/&#34;&gt;Réseau Eurovélo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le cadre
+&lt;ul&gt;
+&lt;li&gt;L&amp;rsquo;acier est recommandé (plus souple que l&amp;rsquo;aluminium et le carbone, vous pourrez aussi compter sur sa longévité&lt;/li&gt;
+&lt;li&gt;La bonne taille ! partir avec un vélo trop petit / trop grand, c&amp;rsquo;est une sacré épine dans le pied &amp;hellip; Pour les grand voyage, faire une étude posturale peut être intéressant pour régler plus finement son destrier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La transmission
+&lt;ul&gt;
+&lt;li&gt;2 ou 3 plateaux&lt;/li&gt;
+&lt;li&gt;7/8/9 vitesses, au-delà les chaines sont plus fragiles et s&amp;rsquo;usent vite en vélo de voyage (3 chaines 11 vitesses sur &lt;a class=&#34;link&#34; href=&#34;https://blog.theomarty.fr/le-grand-tour-des-alpes-a-velo-cargo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;4000km en 2020&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Les roues
+&lt;ul&gt;
+&lt;li&gt;28&amp;quot; ou 26&amp;quot; au moins 32 rayons, c&amp;rsquo;est bien solide. Bien vérifier la tension des roues avant de partir, même pour un vélo neuf.&lt;/li&gt;
+&lt;li&gt;Une dynamo dans le moyeu de la roue avant permet d&amp;rsquo;alimenter vos lampes et de recharger vos batteries, &lt;a class=&#34;link&#34; href=&#34;https://www.sp-dynamo.com/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Shutter precision&lt;/a&gt; ou &lt;a class=&#34;link&#34; href=&#34;https://berthoudcycles.fr/fr/692-moyeu-dynamo-son-28-32trs-noir-ref303211303212.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SON&lt;/a&gt; sont des références&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Les freins
+&lt;ul&gt;
+&lt;li&gt;V brake (durabilité, simple à changer, freinage +)&lt;/li&gt;
+&lt;li&gt;A disque Mécanique (bonne durabilité, freinage ++) éviter les freins hydrolique en voyage car la maintenace du système peut être compliquée.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Le cintre
+&lt;ul&gt;
+&lt;li&gt;Guidon papillion / Guidon route à vous de choisir, l&amp;rsquo;essentiel est d&amp;rsquo;avoir plusieurs positions pour soulager les bras et le dos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La selle
+&lt;ul&gt;
+&lt;li&gt;Elle doit être confortable ce qui ne veut pas dire molle, Brooks/Idéale (cuir) SMP (plastique) sont des références&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;son-kit-dentretien&#34;&gt;&lt;a href=&#34;#son-kit-dentretien&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Son kit d’entretien
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Qui veut voyager loin, ménage sa monture - Racine&lt;/p&gt;&lt;/blockquote&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/kit.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Je pars toujours avec le petit kit d’entretien suivant&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Les outils&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi tool (je suis très content de celui &lt;a class=&#34;link&#34; href=&#34;https://www.bike24.com/p217140.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;là&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Pince (lezerman)&lt;/li&gt;
+&lt;li&gt;2 ou 3 démonte pneus&lt;/li&gt;
+&lt;li&gt;Une bonne pompe : &lt;a class=&#34;link&#34; href=&#34;https://www.topeak.com/global/en/products/mini-pumps/248-mini-morph-&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;la mienne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Les consommables&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Burette d&amp;rsquo;huile&lt;/li&gt;
+&lt;li&gt;Quelques maillons rapide (pas trop lourd)&lt;/li&gt;
+&lt;li&gt;Petit kit de visseries du vélo
+&lt;ul&gt;
+&lt;li&gt;Astuce : Avant de partir remplir tout les pas de vis dispo sur le cadre de ton vélo, ça le protège de la rouille et ces vis supplémentaires te seront utiles pour réparrer en cas de pépin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Un bon paquet de rustines et la colle associée&lt;/li&gt;
+&lt;li&gt;Une ou deux chambres à air (en cas de grosse crevaison)&lt;/li&gt;
+&lt;li&gt;Un peu de cordelette&lt;/li&gt;
+&lt;li&gt;Des coliers de serrage en plastique (Utile +++)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour mes voyages en Europe, je n&amp;rsquo;ai jamais eu de problème pour trouver des pièces d&amp;rsquo;usure (patin de frein, chaîne, pneus, etc). Si vous partez plus loin, il faudra sûrement les ajouter à votre kit pour être autonome ;)&lt;/p&gt;
+&lt;h2 id=&#34;le-bivouac&#34;&gt;&lt;a href=&#34;#le-bivouac&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le bivouac
+&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/bivi.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La tente
+&lt;ul&gt;
+&lt;li&gt;Pour moi, 4 critéres important (faible poids / faible volume / Absyde / autoportée)&lt;/li&gt;
+&lt;li&gt;En 2020 je suis parti avec la &lt;a class=&#34;link&#34; href=&#34;https://www.decathlon.fr/p/tente-de-trekking-autoportante-3-saisons-trek-900-grise-1-personne/_/R-p-305777?mc=8545744&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Trek 900 1 place de décathlon&lt;/a&gt;, satisfait à 100%&lt;/li&gt;
+&lt;li&gt;La &lt;a class=&#34;link&#34; href=&#34;https://www.msrgear.com/fr/tentes/backpacking-tents/tente-de-randonn%C3%A9e-ultral%C3%A9g%C3%A8re-hubba-hubba-nx-pour-deux-personnes/06204.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MSR hubba hubba&lt;/a&gt; et la &lt;a class=&#34;link&#34; href=&#34;https://www.nemoequipment.com/product/kunai/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Nemo Kunaï&lt;/a&gt;  sont des références&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Le matelas
+&lt;ul&gt;
+&lt;li&gt;Je pars avec le &lt;a class=&#34;link&#34; href=&#34;https://www.decathlon.fr/p/matelas-de-trekking-gonflable-trek-700-air-l-jaune/_/R-p-189392?mc=8493395&amp;amp;c=OCRE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Trek 700 de décathlon&lt;/a&gt;, satisfait à 100%&lt;/li&gt;
+&lt;li&gt;Un oreiller gonflable en supplément est un bonne idée&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Le duvet
+&lt;ul&gt;
+&lt;li&gt;Je suis toujours parti avec un Duvet lafuma très compact (confort 6°) suffisant pour l&amp;rsquo;été mais juste pour la montagne. Je prévois d&amp;rsquo;investir dans le &lt;a class=&#34;link&#34; href=&#34;https://www.rayonrando.com/sacs-de-couchage-10c-a-5c/1857-sac-de-couchage-down-ultralite-300.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wisla 300&lt;/a&gt; (bon ration volume/prix/qualité)&lt;/li&gt;
+&lt;li&gt;Si vous partez hors mois d&amp;rsquo;été, prévoir un duvet avec un température de confort autours de 0°, attention au volume !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Boule quies (car on ne choisi pas toujours ces voisins ;) )&lt;/li&gt;
+&lt;li&gt;Une frontale : &lt;a class=&#34;link&#34; href=&#34;https://www.manomano.fr/p/lampe-frontale-petzl-tactikka-noire-compacte-250-lumens-e093ha00-13758971#/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;la mienne &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;le-bureau&#34;&gt;&lt;a href=&#34;#le-bureau&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le bureau
+&lt;/h2&gt;&lt;p&gt;Pour s&amp;rsquo;orienter, donner des nouvelles au proches, garder un trace de l&amp;rsquo;aventure, j&amp;rsquo;embarque un peu d&amp;rsquo;électronique, le moins possible !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Génération d&amp;rsquo;électricité
+&lt;ul&gt;
+&lt;li&gt;En 2020 je suis parti avec un chargeur solaire 20W (c&amp;rsquo;est le minimum)&lt;/li&gt;
+&lt;li&gt;Pour avoir une alimentation pérenne un adpatateur dynamo / USB comme le &lt;a class=&#34;link&#34; href=&#34;https://www.cyclo-randonnee.fr/rechargement-200/chargeur-sinewave-revolution-2543.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sinwave Revolution&lt;/a&gt; est une bonne solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stockage d&amp;rsquo;électricité
+&lt;ul&gt;
+&lt;li&gt;Batterie externe 10 000mah (3/4 jours d&amp;rsquo;autonomie)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;la-cuisine&#34;&gt;&lt;a href=&#34;#la-cuisine&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;La cuisine
+&lt;/h2&gt;&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/10/bouffe.jpeg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Après une bonne journée de vélo, un repas chaud est la meilleure des récompenses. En 2020, je suis parti sans réchaud pour économiser sur le poids de mes bagages et puis j&amp;rsquo;ai craqué, j&amp;rsquo;en ai acheté un en Italie !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le réchaud
+&lt;ul&gt;
+&lt;li&gt;En 2020 j&amp;rsquo;ai acheté le &lt;a class=&#34;link&#34; href=&#34;https://www.decathlon.fr/p/rechaud-a-gaz-leger-avec-piezo-de-trek-trek-500-compact/_/R-p-310238?mc=8559534&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Trek 500 compact de décathlon&lt;/a&gt;, j&amp;rsquo;en suis très content&lt;/li&gt;
+&lt;li&gt;En europe, vous trouverez des cartouches de gaz si vous partez loin regardez du coté des réchaud à essence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La popote : &lt;a class=&#34;link&#34; href=&#34;https://www.decathlon.fr/p/popote-camp-du-randonneur-mh100-inox-1-personne-1-1l/_/R-p-174674?mc=8492724&amp;amp;c=GRIS&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;la mienne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;La cuitochette : &lt;a class=&#34;link&#34; href=&#34;https://www.planetx.co.uk/i/q/CPJOBTSK/jobsworth-titanium-spork-and-knife&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;la mienne&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Un bon couteau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;la-pharmacie&#34;&gt;&lt;a href=&#34;#la-pharmacie&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;La pharmacie
+&lt;/h2&gt;&lt;p&gt;On ne l&amp;rsquo;ouvre pas souvent, mais on ne s&amp;rsquo;en séparerai pour rien au monde. La mienne est un peu trop compact, je le sais. On y retrouve quand même :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Granules d&amp;rsquo;arnica / Quelques cachets de dolipranes&lt;/li&gt;
+&lt;li&gt;Panssements standard / Panssement ampoules / lingettes désinfectantes&lt;/li&gt;
+&lt;li&gt;Ciseaux pliants&lt;/li&gt;
+&lt;li&gt;Pince à épiler (sert aussi à extraire les épines en cas de crevaison)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;le-dressing&#34;&gt;&lt;a href=&#34;#le-dressing&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le dressing
+&lt;/h2&gt;&lt;p&gt;Petite liste des vêtements que j&amp;rsquo;emporte pour partir une semaine ou deux mois&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Une veste imperméable / pantalon de pluie (si voyage hors mois d&amp;rsquo;été)&lt;/li&gt;
+&lt;li&gt;Un short + un short évolutif en pantalon&lt;/li&gt;
+&lt;li&gt;Une polaire&lt;/li&gt;
+&lt;li&gt;2/3 teeshirt merinos (moins d&amp;rsquo;odeur)&lt;/li&gt;
+&lt;li&gt;3/4 paires calçon / chaussettes&lt;/li&gt;
+&lt;li&gt;Sandales / Chaussures fermé déperlantes&lt;/li&gt;
+&lt;li&gt;Paire de gant (hors mois d&amp;rsquo;été)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On a fait le tour du matériel que je vous conseille / que j&amp;rsquo;utilise, si vous avez des questions ou des précisions à apporter à ce billet, je suis disponible &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/TheoAVelo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ici&lt;/a&gt; pour en discuter !&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Choisir son itinéraire en voyage à vélo</title>
+        <link>http://localhost:1313/blog/post/conseils-voyage-a-velo/</link>
+        <pubDate>Fri, 23 Dec 2016 21:28:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/conseils-voyage-a-velo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/06/20190806_125112-min.jpg" alt="Featured image of post Choisir son itinéraire en voyage à vélo" /&gt;&lt;h2 id=&#34;itinéraires-cyclable&#34;&gt;&lt;a href=&#34;#itin%c3%a9raires-cyclable&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Itinéraires cyclable
+&lt;/h2&gt;&lt;p&gt;En Europe :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.eurovelo.org/routes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Réseau Eurovélo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;En France :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://af3v.org/CarteAF3V/-Carte-des-grands-itineraires-.html&#34;&gt;Carte des grands itinéraires de l&amp;rsquo;Association Françaises des Véloroutes et Voies Vertes (AF3V)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.francevelotourisme.com/contenus/decouvrir-la-france-a-velo/eurovelo&#34;&gt;France Vélo Tourisme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://af3v.org/CarteAF3V/-Carte-des-grands-itineraires-.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Carte des grands itinéraires de l&amp;rsquo;Association Françaises des Véloroutes et Voies Vertes (AF3V)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.francevelotourisme.com/contenus/decouvrir-la-france-a-velo/eurovelo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;France Vélo Tourisme&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;En Belgique :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fietsknoop.nl/planner&#34;&gt;Site du réseau cyclable Belge (fietsknoop)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=nl.vv.fietsknoop&amp;amp;hl=fr&#34;&gt;Application mobile fietsknoop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.fietsknoop.nl/planner&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Site du réseau cyclable Belge (fietsknoop)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=nl.vv.fietsknoop&amp;amp;hl=fr&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Application mobile fietsknoop&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sites des pistes cyclables nationales :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.lavelofrancette.com/&#34;&gt;la velofrancette&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.canaldes2mersavelo.com/&#34;&gt;canal des 2 mers a velo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lavelofrancette.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;la velofrancette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.canaldes2mersavelo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;canal des 2 mers a velo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;outils-de-cartographie&#34;&gt;Outils de cartographie&lt;/h2&gt;
-&lt;p&gt;Tracer un itinéraire GPX (stockage d&amp;rsquo;itinéraire hors ligne)&lt;/p&gt;
+&lt;h2 id=&#34;outils-de-cartographie&#34;&gt;&lt;a href=&#34;#outils-de-cartographie&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Outils de cartographie
+&lt;/h2&gt;&lt;p&gt;Tracer un itinéraire GPX (stockage d&amp;rsquo;itinéraire hors ligne)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://brouter.de/brouter-web&#34;&gt;Brouter.de&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://komoot.com&#34;&gt;Komoot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://brouter.de/brouter-web&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Brouter.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://komoot.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Komoot&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Naviguer sur un itinéraire GPX&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=net.osmand&amp;amp;hl=en_US&#34;&gt;Osmand&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=menion.android.locus&amp;amp;hl=en_US&#34;&gt;Locusmap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>WarmShowers : Eldorado des cyclotouristes !</title>
-      <link>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</link>
-      <pubDate>Wed, 20 Jan 2016 21:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</guid>
-      <description>&lt;p&gt;Je profite d&amp;rsquo;un article sur mon site pour vous faire partager un site internet indispensable à tout cyclotouriste : &lt;a href=&#34;https://fr.warmshowers.org/&#34;&gt;WarmShowers&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;le-concept&#34;&gt;Le concept&lt;/h3&gt;
-&lt;p&gt;Le site propose un moyen de communication entre les cyclos s’aventurant sur les routes et les propriétaires disposant de chambres d’amis ou de location saisonnière vide, le WarmShowers s’appuie sur le principe du couch surfing, mais s’adresse uniquement aux &lt;strong&gt;cyclotouristes&lt;/strong&gt;. C’est l’un des premiers systèmes d’échange et de prêt de ce type (le service est gratuit) et il repose entièrement sur le bénévolat.&lt;/p&gt;</description>
-    </item>
-  </channel>
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=net.osmand&amp;amp;hl=en_US&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Osmand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://play.google.com/store/apps/details?id=menion.android.locus&amp;amp;hl=en_US&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Locusmap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>WarmShowers : Eldorado des cyclotouristes !</title>
+        <link>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</link>
+        <pubDate>Wed, 20 Jan 2016 21:30:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/warmshowers-eldorado-des-cyclotouristes/</guid>
+        <description>&lt;p&gt;Je profite d&amp;rsquo;un article sur mon site pour vous faire partager un site internet indispensable à tout cyclotouriste : &lt;a class=&#34;link&#34; href=&#34;https://fr.warmshowers.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;WarmShowers&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;le-concept&#34;&gt;&lt;a href=&#34;#le-concept&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le concept
+&lt;/h3&gt;&lt;p&gt;Le site propose un moyen de communication entre les cyclos s’aventurant sur les routes et les propriétaires disposant de chambres d’amis ou de location saisonnière vide, le WarmShowers s’appuie sur le principe du couch surfing, mais s’adresse uniquement aux &lt;strong&gt;cyclotouristes&lt;/strong&gt;. C’est l’un des premiers systèmes d’échange et de prêt de ce type (le service est gratuit) et il repose entièrement sur le bénévolat.&lt;/p&gt;
+&lt;h3 id=&#34;quelques-chiffres&#34;&gt;&lt;a href=&#34;#quelques-chiffres&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Quelques chiffres
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;73 000 membres&lt;/li&gt;
+&lt;li&gt;46 000 hôtes bénévole à travers le monde&lt;/li&gt;
+&lt;li&gt;45% en Europe&lt;/li&gt;
+&lt;li&gt;37% en Amérique du Nord&lt;/li&gt;
+&lt;li&gt;9 000 membres en France&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_314&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;346&amp;rdquo;]&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://aventurecyclo.fr/wp-content/uploads/2016/01/carteWarmShower-300x290.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Carte des hôtes WarmShowers[/caption]&lt;/p&gt;
+&lt;p&gt;Etant moi même hôte bénévole pour le site, j&amp;rsquo;aimerais poster ici quelques portraits de cyclotouristes qui passent par chez moi, si cela vous intéresse n&amp;rsquo;hésitez pas à réagir ! Vous pouvez aussi profiter de mon hospitalité si vous passer sur La Rochelle ! (voir ci-dessous)&lt;/p&gt;
+&lt;p&gt;[flexiblemap address=&amp;ldquo;rue des augustin la rochelle france&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;Sources : &lt;a class=&#34;link&#34; href=&#34;https://fr.warmshowers.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://fr.warmshowers.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

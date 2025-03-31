@@ -3,7 +3,7 @@ categories = ["Aventure", "Vélo"]
 date = 2016-07-28T21:39:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/IMG_20160815_175854974_HDR.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20160815_175854974_HDR.jpg"
 slug = "la-viarhona-a-velo"
 tags = ["Aventure", "Vélo"]
 title = "La Viarhona à vélo"
@@ -19,7 +19,7 @@ Le Voyage  :Après nos deux précédents voyages, nous avions tous les deux envi
 
 Le 9 Août (79.2km) :Premier véritable jour d'étape, nous rejoignons la Viarhôna à Valleiry, une des premières villes française de la piste. La journée s'annonce musclée car nous attaquons les Alpes... Romain ne s'étant entraîné que rapidement sur les routes de Bretagne avant de partir et Théo reprenant à peine le vélo, le dénivelé est un peu difficile à avaler. Les départementales que nous suivons sur les trente premiers kilomètres de la Viarhôna nous frustrent un peu : pas de pistes cyclables, nous roulons à côté des voitures, bien qu'elles soient rares... Mais les paysages magnifiques nous font oublier les petites douleurs ainsi que la route peu sécurisante. A la fin de l'après-midi nous arrivons dans la vallée et découvrons des voies vertes qui vont devenir notre quotidien sur cette Eurovélo route. Après une première journée de reprise, Romain propose de camper sur le lac du Bourget et sur les conseils de randonneurs rencontrés plus tôt, nous plantons la tente sur la plage de Conjux, face au lac.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/DSC08627.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC08627.jpg" >}}
 
 Le 10 Août (81.3km) :[caption id="attachment_683" align="alignright" width="448"] Reste de notre campement sur la plage de Conjux au petit matin.[/caption]Le lendemain matin nous nous baignons à 8h dans le lac, contre toute attente l'eau est plutôt chaude et le soleil au rendez-vous ! Nous partons ensuite vers 10h en direction de Chanaz où nous avions quitté la piste la veille. Nous la retrouvons rapidement et roulons le long du Rhône en suivant les barrages de la CNR (Compagnie Nationale du Rhône) qui a la charge de tous les ouvrages le long du fleuve et qui a participé au développement de la Viarhôna. Le fleuve dans les montagnes a une couleur bleue turquoise qui nous a époustouflés, mais qui s'altérera (trop vite hélas) durant notre voyage vers le sud.
 
@@ -33,7 +33,7 @@ Le 12 Août (86.3km) :Nous partons tôt à l'assaut de Lyon, nous allons en prio
 
 Le 13 Août (105km) :Nous sommes réveillés par les cyclotouristes ce matin là car nous avons planté notre tente à cinq mètres de la Viarhôna. Nous partons plein sud en direction de Valence. Nous y arrivons en fin d'après-midi et découvrons un magnifique centre ville puis nous faisons une pause dans le grand parc Jouvet situé dans les bas de la ville. Cette ville nous plaît beaucoup ! A la sortie de la ville nous nous retrouvons face à deux panneaux indiquant tous deux la Viarhôna... Le dilemme est entier et après une réflexion intense et mûrie nous choisissons de suivre le panneau Viarhôna classique (vers la droite sur la photo), panneaux que nous suivons depuis le début du voyage. Nous ne paierons que le lendemain les conséquences de cette grave erreur !Dans le soirée, nous plantons notre tente dans le camping municipal de Charmes sur Rhône pour faire notre lessive.Le 14 Août (77.8km) :Après avoir attendu le séchage de notre lessive, nous partons du camping en prenant la direction de Montélimar. Nous déjeunons sur les berges du Rhône et faisons une petite sieste avant de reprendre la route. Dans le début de l'après-midi nous suivons la piste qui devient un itinéraire provisoire... Mauvais présage : nous commençons à gravir de plus en plus de dénivelé.Dans l'après-midi nous faisons plusieurs pauses car l'itinéraire suit des chemins qui nous font gravir des dénivelés entre 5% et 10%. La découverte de l'Ardèche profonde est fabuleuse pour les yeux mais cuisante pour les mollets ! Nous retrouvons le parcours officiel en fin d'après-midi. Nous découvrons qu'il fallait suivre le fameux itinéraire  "Viarhôna (direction Montélimar)" en sortant de Valence pour suivre le fleuve et ainsi éviter une après-midi de fort dénivelé dont nous nous serions bien passée !Nous visitons Montélimar avant le coucher du soleil, nous sommes déçus par la ville mais faisons une halte dans le jardin public proche du centre ville pour déguster un peu de nougat. ;)Dans la soirée nous rejoignons la Viarhôna qui passe à 5km de Montélimar et montons notre campement en bordure de la piste.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20160816_155910145-1.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20160816_155910145-1.jpg" >}}
 
 Le 15 Août (96.7km) :  Réveil aux aurores pour éviter de déranger les promeneurs sur la piste, nous rangeons rapidement nos affaires. Nous partons vers Avignon et nous arrêtons à Pont-Saint-Esprit pour déjeuner. Nous partons donc plein sud sur les départementales (l'itinéraire n'étant pas encore réalisé entre Pont-Saint-Esprit et Aigues-Mortes) pour rejoindre Avignon dans la soirée. Nous y retrouvons un couple d'amis cyclotouristes chez qui nous passerons une très bonne soirée. Merci Chris et Audrey ! :)
 
@@ -43,7 +43,7 @@ Le 16 Août (94.7km) :  Nous visitions Avignon dans la matinée et tombons tous 
 
 Le 17 Août (136.3km) : 
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/DSC08835-1.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC08835-1.jpg" >}}
 
 Après un réveil matinal, nous partons sur la Viarhôna pour une journée qui s'annonce un peu plus chargée que d'habitude... En effet, l'oncle de Théo nous proposé un superbe hébergement à Portiragnes Plage : le défi est lancé. Nous décidons ensemble de dormir à Portiragnes le soir même, et cela même si le GPS nous annonce un itinéraire voiture de 130 km "au plus court". Nous prenons tout de même le temps de visiter Aigues-Mortes dans la matinée où nous avons beaucoup aimé le fort même si le centre-ville était bondée. Nous partons ensuite en direction de la mer pour rejoindre le Grau du Roi et arrivons enfin jusqu'à la Méditerranée.
 

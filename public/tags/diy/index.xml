@@ -1,109 +1,206 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>DIY on Mon blog</title>
-    <link>http://localhost:1313/blog/tags/diy/</link>
-    <description>Recent content in DIY on Mon blog</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sun, 13 Dec 2020 23:31:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/diy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fabriquer une sacoche de vélo</title>
-      <link>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</link>
-      <pubDate>Sun, 13 Dec 2020 23:31:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</guid>
-      <description>&lt;iframe width=&#34;356&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/41yh3Glstrk?feature=oembed&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3 id=&#34;le-matériel&#34;&gt;Le matériel&lt;/h3&gt;
-&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>DIY on Mon blog</title>
+        <link>http://localhost:1313/blog/tags/diy/</link>
+        <description>Recent content in DIY on Mon blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr-fr</language>
+        <lastBuildDate>Sun, 13 Dec 2020 23:31:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/diy/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Fabriquer une sacoche de vélo</title>
+        <link>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</link>
+        <pubDate>Sun, 13 Dec 2020 23:31:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/fabriquer-une-sacoche-de-velo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2021/03/sacoche_banni-re.png" alt="Featured image of post Fabriquer une sacoche de vélo" /&gt;&lt;iframe width=&#34;356&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/41yh3Glstrk?feature=oembed&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;le-matériel&#34;&gt;&lt;a href=&#34;#le-mat%c3%a9riel&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Le matériel
+&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Un tissu principal / 110x52cm / Solide &amp;amp; déperlant&lt;/li&gt;
 &lt;li&gt;Sangle de 4cm de large / 1m80&lt;/li&gt;
 &lt;li&gt;Sangle de 2.5cm de large / 25cm&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.extremtextil.de/en/d-ring-40mm-with-eyelet-beastee-dee.html&#34;&gt;D-link&lt;/a&gt; pour sangle de 4cm / x2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.extremtextil.de/en/stainless-steel-mini-carabiner-40x4mm.html&#34;&gt;Mousqueton&lt;/a&gt; 40mm / x2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.extremtextil.de/en/ladderloc-thin-40mm.html&#34;&gt;Boucles de réglage&lt;/a&gt; pour bande de 4cm / x2&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.extremtextil.de/en/g-buckle-webbing-hook-aluminium-w-thumbtension-25mm.html?number=71726.SILB&#34;&gt;Pièce de fermeture&lt;/a&gt; pour sangle de 2.5cm&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.extremtextil.de/en/d-ring-40mm-with-eyelet-beastee-dee.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;D-link&lt;/a&gt; pour sangle de 4cm / x2&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.extremtextil.de/en/stainless-steel-mini-carabiner-40x4mm.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Mousqueton&lt;/a&gt; 40mm / x2&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.extremtextil.de/en/ladderloc-thin-40mm.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Boucles de réglage&lt;/a&gt; pour bande de 4cm / x2&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.extremtextil.de/en/g-buckle-webbing-hook-aluminium-w-thumbtension-25mm.html?number=71726.SILB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Pièce de fermeture&lt;/a&gt; pour sangle de 2.5cm&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;découpe&#34;&gt;Découpe&lt;/h3&gt;
-&lt;p&gt;Découper votre sangle de 1m80 en deux longueurs de 40cm une longueur de 1m.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Construction d&#39;un vélo cargo &#34;Long tail&#34;</title>
-      <link>http://localhost:1313/blog/post/construction-dun-velo-cargo/</link>
-      <pubDate>Thu, 16 Apr 2020 19:34:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/construction-dun-velo-cargo/</guid>
-      <description>&lt;p&gt;Je roule un vélo cargo Omnium depuis bientôt deux ans et je l&amp;rsquo;adore. C&amp;rsquo;est un vélo qui roule très bien. Il n&amp;rsquo;est pas trop tape l’œil mais j&amp;rsquo;hésite toujours à laisser la nuit dans le rue&amp;hellip;..&lt;/p&gt;
-&lt;p&gt;En septembre 2019, je me suis mis dans la tête de créer mon propre vélo cargo pour palier a ce problème. L&amp;rsquo;idée était de créer un vélo solide, qui peut emporter beaucoup et pour un budjet limité (&amp;lt;400euros). Je propose de suivre sa fabrication dans cet article.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mes projets coutures</title>
-      <link>http://localhost:1313/blog/post/mes-projets-coutures/</link>
-      <pubDate>Tue, 09 Apr 2019 20:09:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/mes-projets-coutures/</guid>
-      <description>&lt;p&gt;Petit post pour présenter quelques une de mes production de couture (Sacoches de vélo, trousses, etc&amp;hellip;)&lt;/p&gt;
+&lt;h3 id=&#34;découpe&#34;&gt;&lt;a href=&#34;#d%c3%a9coupe&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Découpe
+&lt;/h3&gt;&lt;p&gt;Découper votre sangle de 1m80 en deux longueurs de 40cm une longueur de 1m.&lt;/p&gt;
+&lt;p&gt;Découper votre tissu principal en un rectangle de 52 cm x 110 cm.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2021/01/plan_large-2.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;etape-1--couture-des-anses&#34;&gt;&lt;a href=&#34;#etape-1--couture-des-anses&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Etape 1 : Couture des anses
+&lt;/h3&gt;&lt;p&gt;Plier votre tissu principal pour obtenir un rectangle de 52 x 60 cm.&lt;/p&gt;
+&lt;p&gt;Prendre chaque sangles de 40 cm et aiguiller le bout de la sangle pour y fixer une boucle de réglage. Réaliser les coutures numéro 1 &amp;amp; 2.&lt;/p&gt;
+&lt;p&gt;Prendre les deux sangles et les aiguiller à 5 cm du bord droit et gauche. Réaliser les coutures numéro 3 &amp;amp; 4.&lt;/p&gt;
+&lt;p&gt;Prendre la sangle de 1 m, aiguiller les deux extrémités. Réaliser les coutures numéro 5 &amp;amp; 6.&lt;/p&gt;
+&lt;p&gt;Aiguiller la sangle de 1 m au tissu principal à 10cm du bord droit et gauche et a 40cm du pliage. Prendre les mousquetons dans la sangle. Réaliser les coutures numéro 7 &amp;amp; 8.&lt;/p&gt;
+&lt;p&gt;Passer la sangle de 1 m dans les boucles de réglages.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2021/03/DSC00022-1.JPG&#34;&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;etape-2--couture-des-sangles-de-fermetures&#34;&gt;&lt;a href=&#34;#etape-2--couture-des-sangles-de-fermetures&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Etape 2 : Couture des sangles de fermetures
+&lt;/h3&gt;&lt;p&gt;Aiguiller la sangle de fermeture (sangle 2.5cm) au tissu principal avec la pièce de fermeture métallique (crochet) coté sangles du sac a dos.  Réaliser la couture numéro 9.&lt;/p&gt;
+&lt;p&gt;Aiguiller la sangle de fermeture (sangle 2.5cm) au tissu principat coté opposé sangles du sac a dos en formant une boucle. Réaliser la couture.&lt;/p&gt;
+&lt;h3 id=&#34;etape-3--couture-du-tissu-principal&#34;&gt;&lt;a href=&#34;#etape-3--couture-du-tissu-principal&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Etape 3 : Couture du tissu principal
+&lt;/h3&gt;&lt;p&gt;Mettre la sacoche sur l&amp;rsquo;envers (sangles à l&amp;rsquo;intérieur de la sacoche) et coudre les deux extrémités du tissu principal à 1 cm du bord.&lt;/p&gt;
+&lt;h3 id=&#34;etape-4--couture-des-angles-inférieurs&#34;&gt;&lt;a href=&#34;#etape-4--couture-des-angles-inf%c3%a9rieurs&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Etape 4 : Couture des angles inférieurs
+&lt;/h3&gt;&lt;p&gt;Gonfler les angles (comme pour une trousse d&amp;rsquo;écolier) puis aiguiller à 5 cm de l&amp;rsquo;angle. Réaliser les coutures des angles. Cela a pour but de donner de la profondeur à la sacoche.&lt;/p&gt;
+&lt;h3 id=&#34;etape-5--couture-de-lourlet-supérieur&#34;&gt;&lt;a href=&#34;#etape-5--couture-de-lourlet-sup%c3%a9rieur&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Etape 5 : Couture de l&amp;rsquo;ourlet supérieur
+&lt;/h3&gt;&lt;p&gt;Coudre un ourlet sur le haut de votre sacoche. Retroussez votre tissu de 1cm, aiguiller puis coudre au point droit pour fermer l&amp;rsquo;ourlet.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est terminé !&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2021/03/sacoche.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tutoriel sous licence &lt;strong&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://creativecommons.org/licenses/?lang=fr-FR&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CC BY-NC-SA&lt;/a&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&#34;https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png&#34;/&gt;
+</description>
+        </item>
+        <item>
+        <title>Construction d&#39;un vélo cargo &#34;Long tail&#34;</title>
+        <link>http://localhost:1313/blog/post/construction-dun-velo-cargo/</link>
+        <pubDate>Thu, 16 Apr 2020 19:34:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/construction-dun-velo-cargo/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min-1.jpg" alt="Featured image of post Construction d&#39;un vélo cargo &#34;Long tail&#34;" /&gt;&lt;p&gt;Je roule un vélo cargo Omnium depuis bientôt deux ans et je l&amp;rsquo;adore. C&amp;rsquo;est un vélo qui roule très bien. Il n&amp;rsquo;est pas trop tape l’œil mais j&amp;rsquo;hésite toujours à laisser la nuit dans le rue&amp;hellip;..&lt;/p&gt;
+&lt;p&gt;En septembre 2019, je me suis mis dans la tête de créer mon propre vélo cargo pour palier a ce problème. L&amp;rsquo;idée était de créer un vélo solide, qui peut emporter beaucoup et pour un budjet limité (&amp;lt;400euros). Je propose de suivre sa fabrication dans cet article.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai été inspiré des créations de la chaîne Youtube de &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCchU2gYo5UunA6uh6JVOd9A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Phil Vandelay&lt;/a&gt;. Il a notamment partagé un tutoriel pour réaliser un biporteur de type bullitt en acier très détaillée ici.&lt;/p&gt;
+&lt;iframe width=&#34;480&#34; height=&#34;270&#34; src=&#34;https://www.youtube.com/embed/SDlnDEXlfm8?feature=oembed&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;phase-1--conception&#34;&gt;&lt;a href=&#34;#phase-1--conception&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 1 : Conception
+&lt;/h3&gt;&lt;p&gt;Pour commencer j&amp;rsquo;ai cherché le modèle de vélo cargo que je pourrai produire. J&amp;rsquo;étais inspiré par biporteur de type &amp;ldquo;Bullitt&amp;rdquo; comme celui cité plus haut mais le nombre de soudures et les différents usinages à réaliser m&amp;rsquo;ont paru risqués pour un premier projet de travail du métal.&lt;/p&gt;
+&lt;p&gt;En fouillant un peu, j&amp;rsquo;ai trouvé un modèle de cargo moins compliqué à produire type &amp;ldquo;Fat tail&amp;rdquo; comme le &lt;a class=&#34;link&#34; href=&#34;https://www.konaworld.com/ute.cfm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hona Ute&lt;/a&gt; traduisez &amp;ldquo;Grand porte bagage&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Ce type de cargo est proche d&amp;rsquo;un vélo standard, cela diminue la complexité de construction du mécanisme de direction. De plus en utilisant deux cadres, les points critiques (patte arrières du cadre, boîtiers de pédalier, emplacements des freins) sont déjà en place.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est à partir de cette idée que mon colocataire m&amp;rsquo;a dessiné la maquette ci dessous. Merci Samy ! Les deux cadres y sont représentés  de couleurs différentes, on supprime les haubans du premier (bleu) et on réutilise pour les renforts du porte bagage et des marche pied. Le cadre rouge quand à lui couvre le triangle arrière du cargo.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/received_504484943755319-min.jpeg&#34;
+    alt=&#34;Marquette CAO du cargo&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Marquette CAO du cargo&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cette conception a permis de lister les matières premières a utiliser et les outils, utile sachant que je ne suis pas très équipé pour travailler le métal &amp;hellip;)&lt;/p&gt;
+&lt;h3 id=&#34;phase-2--récupération-des-matières-premières&#34;&gt;&lt;a href=&#34;#phase-2--r%c3%a9cup%c3%a9ration-des-mati%c3%a8res-premi%c3%a8res&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 2 : Récupération des matières premières
+&lt;/h3&gt;&lt;p&gt;La conception m&amp;rsquo;a permis de lister le matériel a rassembler pour le projet. Pour les matières première la liste est la suivante&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recup&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 cadres de vélo (même taille de roue 😁, freins v brake)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Metal&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2m de profilé carré 30x30mm en acier&lt;/li&gt;
+&lt;li&gt;4m de profilé carré 15x15mm en acier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fournitures&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plateau en pin 1m30x45cm (assise et marches pieds)&lt;/li&gt;
+&lt;li&gt;Vis M8 et boulon&lt;/li&gt;
+&lt;li&gt;Peinture et vernis&lt;/li&gt;
+&lt;/ul&gt;
 &lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
   &lt;div class=&#34;kg-gallery-container&#34;&gt;
     &lt;div class=&#34;kg-gallery-row&#34;&gt;
     
 
   &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20191223_002052-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200115_204607-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20190501_155411-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200117_155749-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
   &lt;/div&gt;
-
-  &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20190228_075428-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-&lt;div class=&#34;kg-gallery-row&#34;&gt;
-
-  &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20200403_221553-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20190127_233346-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/04/20190127_141333-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-&lt;div class=&#34;kg-gallery-row&#34;&gt;
 
     &lt;/div&gt;
   &lt;/div&gt;
   
-&lt;/figure&gt;</description>
-    </item>
-    <item>
-      <title>Mes premiers projets menuiserie</title>
-      <link>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</link>
-      <pubDate>Wed, 13 Mar 2019 22:23:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</guid>
-      <description>&lt;p&gt;Au mois de janvier, j&amp;rsquo;ai eu l&amp;rsquo;occasion de faire un peu de menuiserie pour produire plusieurs objets en bois, je vous présente la réalisation de ces objets ci dessous.&lt;/p&gt;
-&lt;h3 id=&#34;station-de-ponçage&#34;&gt;Station de ponçage&lt;/h3&gt;
-&lt;p&gt;Dans un premier temps, j&amp;rsquo;ai acheté une ponceuse a bande au début de l&amp;rsquo;année. Pour pouvoir travailler plus finement avec la ponceuse, je lui fabriquer un support en bois.&lt;/p&gt;
+  &lt;figcaption&gt;Les cadres et les profilés&lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+&lt;p&gt;Pour les cadres de vélos j&amp;rsquo;ai récupéré et désossé deux cadres acier.&lt;/p&gt;
+&lt;p&gt;Les profilés acier on été achetés chez un revendeur de métal local &lt;a class=&#34;link&#34; href=&#34;https://www.google.com/maps/place/Blanchard&amp;#43;Mat%C3%A9riels&amp;#43;Industriels&amp;#43;SARL/@47.178885,-1.499998,15z/data=!4m2!3m1!1s0x0:0xf0b74fef3fa6077a?sa=X&amp;amp;ved=2ahUKEwjjvIDSyO3oAhWizIUKHdPXAWsQ_BIwCnoECBwQCA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BMI&lt;/a&gt; , mais ils peuvent être aussi trouvés en grande surface bricolage. (bricoman / leroy merlin etc)&lt;/p&gt;
+&lt;h3 id=&#34;phase-3--soudage&#34;&gt;&lt;a href=&#34;#phase-3--soudage&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 3 : Soudage
+&lt;/h3&gt;&lt;p&gt;La première phase de production, après plusieurs semaine de réflexion et de conception, mon cargo allait enfin pouvoir prendre forme :)&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai commencé avec Sam à créer un JIG (gabari) pour immobiliser les deux cadres dans leurs positions finale avec équerres, tiges filtés et boulons pour immobiliser le tout.&lt;/p&gt;
+&lt;p&gt;Ensuite, nous avons commencés les découpes des cadres à la meuleuse. Les sections critique on été coupés à la scie à métaux pour plus de précision. Certaines découpes des profilés en lien avec les cadres ont été fait avec des scies cloches métaux (diam 30 et 40mm).&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;avais commencé le projet car depuis septemble 2019,  je suis l&amp;rsquo;heureux pocésseur d&amp;rsquo;un poste à souder à l&amp;rsquo;arc qui permet de souder des tubes d&amp;rsquo;acier de 1mm à 4mm.&lt;/p&gt;
+&lt;p&gt;Je pensai que ça serai suffisant pour ce projet mais après plusieurs tests, les soudures sur les cadres de vélos n&amp;rsquo;étaient pas fesable avec ce poste (épaisseur des tubes entre 0.6 et 0.8mm).&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai donc fais appel à une connaissance qui a réalisé les soudures au poste TIG (procédé de soudure sous gaz) qui permet de souder rapidement des tubes de faible épaisseur.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200207_141111-min.jpg&#34;
+    alt=&#34;Soudure du cadre au TIG&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Soudure du cadre au TIG&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Une fois les soudures en lien avec cadres faites, j&amp;rsquo;ai terminé les soudure au poste à l&amp;rsquo;arc. Puis j&amp;rsquo;ai meuler les soudures les plus visible.&lt;/p&gt;
+&lt;p&gt;Avant de passer à la peinture, j&amp;rsquo;ai fait attention à souder des boulons sur l’extension du cargo pour guider le câble de frein arrière.&lt;/p&gt;
+&lt;h3 id=&#34;phase-4--finitions&#34;&gt;&lt;a href=&#34;#phase-4--finitions&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Phase 4 : Finitions
+&lt;/h3&gt;&lt;p&gt;Nous avons décidés de décaper les peintures des cadres pour une meilleure accroche de la nouvelle peinture.&lt;/p&gt;
+&lt;p&gt;La peinture a été réalisée à la bombe, deux couches de sous couche, trois de peinture et une de vernis.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/03/20200221_163707-min.jpg&#34;
+    alt=&#34;Le cadre décapé, prêt pour la peinture&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Le cadre décapé, prêt pour la peinture&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;En parallèle à la peinture, j&amp;rsquo;ai travaillé sur les trois plateformes en bois du porte bagage. Les découpes ont été réalisé avec scie circulaire et scie sauteuse pour les angles arrondis et une finition à la défonceuse en quart de rond a été appliquée pour adoucir les angles des planches 😌.&lt;/p&gt;
+&lt;p&gt;Après trois couches de vernis incolore/haute resistances les planches ont été assemplées au cadre avec de la visserie inox.&lt;/p&gt;
+&lt;p&gt;Nous avons choisi les composants à garder à issu du démontage des deux vélos, pour la transmission, j&amp;rsquo;ai récupéré un vieux dérailleur 8 vitesses.&lt;/p&gt;
+&lt;p&gt;En remontant les roues, je me suis aperçu que les freins des pattes arrières étaient dimensionnés pour des roues de 28&amp;quot; (26&amp;quot; prévu initialement) nous avons donc cherché une solution, la plus simple a été de chercher une fourche de remplacement pour une roue de 28&amp;quot; (en bleu foncé sur la photo) et une paire de roues adapté (28&amp;quot;).&lt;/p&gt;
+&lt;p&gt;Le deuxième problème au remontage a été la tension de la chaîne. Nous avons assemblés les chaînes des deux vélos démontés et le dérailleur 8 vitesses n&amp;rsquo;arrivait pas a garder une tension de chaîne correcte, nous avons donc bricolés un tendeur de chaîne maison.&lt;/p&gt;
+&lt;p&gt;Par la suite, j&amp;rsquo;ai cousu une sacoche sur mesure pour stocker quelques babioles à l&amp;rsquo;arrière du cadre. Cette sacoche ajoute aussi une fixation pour l&amp;rsquo;antivol U du vélo.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min.jpg&#34;
+    alt=&#34;Le cargo finalisé&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Le cargo finalisé&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;En conclusion, je suis content du vélo, sur les premiers kilomètres il est très agréable à rouler même si un peu lourd.&lt;/p&gt;
+&lt;p&gt;Maintenant il va falloir l&amp;rsquo;éprouver sur plusieurs centaines de kilomètre, je vous ferai un retour approfondit dans les prochains mois.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Mes projets coutures</title>
+        <link>http://localhost:1313/blog/post/mes-projets-coutures/</link>
+        <pubDate>Tue, 09 Apr 2019 20:09:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/mes-projets-coutures/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/04/20200403_221553-min-1.jpg" alt="Featured image of post Mes projets coutures" /&gt;&lt;p&gt;Petit post pour présenter quelques une de mes production de couture (Sacoches de vélo, trousses, etc&amp;hellip;)&lt;/p&gt;
 &lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
   &lt;div class=&#34;kg-gallery-container&#34;&gt;
     &lt;div class=&#34;kg-gallery-row&#34;&gt;
     
 
   &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/01/20190206_134309.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20191223_002052-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/01/20190206_153026.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20190501_155411-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
   &lt;/div&gt;
 
   &lt;div class=&#34;kg-gallery-image&#34;&gt;
-    &lt;img src=&#34;nithwith.github.io/blog/content/images/2020/01/20190206_164039.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20190228_075428-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20200403_221553-min.jpg&#34; width=&#34;4032&#34; height=&#34;3024&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20190127_233346-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/04/20190127_141333-min.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -113,8 +210,137 @@
   &lt;/div&gt;
   
 &lt;/figure&gt;
-&lt;h3 id=&#34;support-ordinateur-portable&#34;&gt;Support ordinateur portable&lt;/h3&gt;
-&lt;p&gt;J&amp;rsquo;ai continué avec le construction d&amp;rsquo;un support pour mon ordinateur portable. Le besoin était simple, depuis peu je fais du télétravail et mon bureau a été vite surchargé. Pour organiser clavier, souris, laptop, fournitures de bureau, archives papier et lampe, j&amp;rsquo;ai construit ce meuble en bois.&lt;/p&gt;</description>
-    </item>
-  </channel>
+</description>
+        </item>
+        <item>
+        <title>Mes premiers projets menuiserie</title>
+        <link>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</link>
+        <pubDate>Wed, 13 Mar 2019 22:23:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/blog/post/mes-premiers-projets-menuiserie/</guid>
+        <description>&lt;img src="https://blog.theomarty.fr/content/images/2020/01/20190216_171103-1.jpg" alt="Featured image of post Mes premiers projets menuiserie" /&gt;&lt;p&gt;Au mois de janvier, j&amp;rsquo;ai eu l&amp;rsquo;occasion de faire un peu de menuiserie pour produire plusieurs objets en bois, je vous présente la réalisation de ces objets ci dessous.&lt;/p&gt;
+&lt;h3 id=&#34;station-de-ponçage&#34;&gt;&lt;a href=&#34;#station-de-pon%c3%a7age&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Station de ponçage
+&lt;/h3&gt;&lt;p&gt;Dans un premier temps, j&amp;rsquo;ai acheté une ponceuse a bande au début de l&amp;rsquo;année. Pour pouvoir travailler plus finement avec la ponceuse, je lui fabriquer un support en bois.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190206_134309.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190206_153026.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190206_164039.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;support-ordinateur-portable&#34;&gt;&lt;a href=&#34;#support-ordinateur-portable&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Support ordinateur portable
+&lt;/h3&gt;&lt;p&gt;J&amp;rsquo;ai continué avec le construction d&amp;rsquo;un support pour mon ordinateur portable. Le besoin était simple, depuis peu je fais du télétravail et mon bureau a été vite surchargé. Pour organiser clavier, souris, laptop, fournitures de bureau, archives papier et lampe, j&amp;rsquo;ai construit ce meuble en bois.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190207_112609.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190207_130937.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190207_172845.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;boite-de-couture&#34;&gt;&lt;a href=&#34;#boite-de-couture&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Boite de couture
+&lt;/h3&gt;&lt;p&gt;J&amp;rsquo;ai profité des chutes de bois restant pour le me confectionner une boite de couture.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai récupéré une vielle chaise dans les encombrant pour créer la poignée (un barreau de la chaise m&amp;rsquo;a servi aussi pour faire le support PQ dispo en dessous).&lt;/p&gt;
+&lt;p&gt;La boite dispose d&amp;rsquo;un tiroir pour venir ranger les aiguilles et bobines.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190211_102211.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190211_130122.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;déroulleur-pq&#34;&gt;&lt;a href=&#34;#d%c3%a9roulleur-pq&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Déroulleur PQ
+&lt;/h3&gt;&lt;p&gt;Ce support a été réalisé avec le barreau d&amp;rsquo;une chaise récupérée.&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190207_114236.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190207_173601.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+&lt;h3 id=&#34;chassis-pour-semis&#34;&gt;&lt;a href=&#34;#chassis-pour-semis&#34; class=&#34;header-anchor&#34;&gt;&lt;/a&gt;Chassis pour semis
+&lt;/h3&gt;&lt;p&gt;Pour cette dernière création, j&amp;rsquo;ai commencé par rechercher une vitre que j&amp;rsquo;ai trouvé chez emmaus pour 10 euros. Puis j&amp;rsquo;ai construit en fonction le cadre (photo n°1).&lt;/p&gt;
+&lt;p&gt;Par la suite j&amp;rsquo;ai renforcé le cadre et fermer la structure avec des planches de recup (photo n°2) et le tour est joué !&lt;/p&gt;
+&lt;p&gt;Un châssis pour semis pour 10 euros et quelques vis :)&lt;/p&gt;
+&lt;figure class=&#34;kg-gallery-card kg-width-wide&#34;&gt;
+  &lt;div class=&#34;kg-gallery-container&#34;&gt;
+    &lt;div class=&#34;kg-gallery-row&#34;&gt;
+    
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190216_122354.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190216_134136.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;kg-gallery-image&#34;&gt;
+    &lt;img src=&#34;https://blog.theomarty.fr/content/images/2020/01/20190216_171103.jpg&#34; width=&#34;4032&#34; height=&#34;2268&#34;&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;kg-gallery-row&#34;&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/figure&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

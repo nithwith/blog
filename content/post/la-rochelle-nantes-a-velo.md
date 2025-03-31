@@ -2,7 +2,7 @@
 date = 2016-02-25T21:32:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/IMG_20160122_154313163.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20160122_154313163.jpg"
 slug = "la-rochelle-nantes-a-velo"
 title = "La Rochelle - Nantes à vélo"
 
@@ -21,7 +21,7 @@ Ensuite c'est reparti pour une balade sous la pluie , nous empruntons de très b
 
 Le 23 Janvier : 60kmDépart tôt car nous avons rendez vous à midi avec les bénévoles de l'atelier (les petits clous) à Nantes ! Et nous partons au levé du jour dans la brume matinale plein nord. Les kilomètres défilent , nous croisons beaucoup de chasseurs et nous arrivons vers Montaigüe pour reprendre notre souffle. Après une petite pause méritée pendant laquelle je réussi à casser la gourde ,  nous repartons et le vent en a profité pour forcir à 15-20 km/h . Nous prenons donc de l'assurance et filons vers Nantes à toutes allure , nous arrivons rapidement à la hauteur de la sèvre Nantaise que nous longeons sur ses berges très fréquentées (samedi matin normal !) sous le soleil . Nos rentrons dans Nantes par la pointe sud et roulons vers la gare ou nous fixons notre point d'arrivée , et cela avant midi ! (11h58)
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/IMG_20160123_151235089.jpg" caption="Locaux de l’association Place au vélo de Nantes" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/IMG_20160123_151235089.jpg" caption="Locaux de l’association Place au vélo de Nantes" >}}
 
 Conclusion
 

@@ -3,7 +3,7 @@ categories = ["Aventure"]
 date = 2019-04-21T22:02:00Z
 description = ""
 draft = false
-image = "nithwith.github.io/blog/content/images/2020/01/20190330_180204-min-1.jpg"
+image = "https://blog.theomarty.fr/content/images/2020/01/20190330_180204-min-1.jpg"
 slug = "week-end-kayak-bivouac-sur-lerdre"
 tags = ["Aventure"]
 title = "Week end Kayak bivouac sur l'erdre"
@@ -25,21 +25,21 @@ Un fois le kayak acheté, je me suis lancé ce week-end dans mon premier trip. J
 
 L'atout majeur du kayak gonflable est qu'il est facilement transportable sur mon vélo cargo. J'ai pu rejoindre l'Erdre (rivière qui coule au nord de Nantes) avec mon vélo et l'attacher à l’abri.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20190330_112753-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190330_112753-min.jpg" >}}
 
 Le gonflage du kayak a pris cinq minutes top chrono, j'ai pu ensuite le mettre à l'eau facilement (il ne pèse que 15kg contre 25 pour les kayaks rigides). Ensuite c'est parti pour 20km de kayak ! Durant l'après midi, j'ai rencontré d'autres kayakistes qui m'ont donnés des conseils.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20190330_123941-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190330_123941-min.jpg" >}}
 
 Après Sucé sur Erdre je me suis aventuré dans une bras de l'Erdre plus sauvage ou j'ai vu beaucoup de ragondins mais aussi des aigrettes et plusieurs hérons. L'avantage du kayak dans des environnements comme ceux ci  est sa capacité a avancer silencieusement pour ne pas déranger le faune locale.
 
 En fin d'après midi, je suis arrivé à Nort sur Erdre, j'ai repéré sur ma carte une aire de pique nique a proximité pour bivouaquer. Il s'agissait en effet de la première écluse du canal de Nantes à Brest. Après discussion avec l'éclusier, j'ai pu poser ma tente à proximité de écluse.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20190330_180204-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190330_180204-min.jpg" >}}
 
 Le bivouac c'est déroulé sans accro a pars un  ragondin venu fureter dans la poubelle vers 3h du matin qui a décapé dès que je me suis levé.
 
-{{< figure src="nithwith.github.io/blog/content/images/2020/01/20190330_185742-min.jpg" >}}
+{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190330_185742-min.jpg" >}}
 
 Le lendemain, je suis rentré sur le même itinéraire, j'ai croisé deux kayaks qui avaient comme moi bivouac un peu plus loin. J'ai croisé une régate au niveau du port de la chapelle sur Erdre, très sympa de voir tout ces bateaux !
 

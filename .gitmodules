@@ -10,3 +10,18 @@
 [submodule "themes/hugo-blog-awesome"]
 	path = themes/hugo-blog-awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+[submodule "themes/newsroom"]
+	path = themes/newsroom
+	url = https://github.com/onweru/newsroom.git
+[submodule "themes/bookworm"]
+	path = themes/bookworm
+	url = git@github.com:gethugothemes/bookworm-light-hugo.git
+[submodule "themes/iwriter"]
+	path = themes/iwriter
+	url = git@github.com:statichunt/iWriter-hugo.git
+[submodule "themes/blogge-hugo-theme"]
+	path = themes/blogge-hugo-theme
+	url = https://github.com/StaticMania/blogge-hugo-theme
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
