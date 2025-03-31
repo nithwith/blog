@@ -1,14 +1,17 @@
-+++
-categories = ["Vélo", "Aventure"]
-date = 2018-09-05T22:04:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20180901_070436-min-1.jpg"
-slug = "strasbourg-grenoble-a-velo"
-tags = ["Vélo", "Aventure"]
-title = "Strasbourg - Grenoble à vélo"
-
-+++
+---
+categories:
+- Vélo
+- Aventure
+date: "2018-09-05T22:04:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20180901_070436-min-1.jpg
+slug: strasbourg-grenoble-a-velo
+tags:
+- Vélo
+- Aventure
+title: Strasbourg - Grenoble à vélo
+---
 
 
 Itinéraires

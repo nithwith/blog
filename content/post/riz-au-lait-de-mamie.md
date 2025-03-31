@@ -1,14 +1,15 @@
-+++
-categories = ["Recette"]
-date = 2023-03-17T15:02:52Z
-description = ""
-draft = true
-image = "https://blog.theomarty.fr/content/images/2023/03/IMG-2941.jpg"
-slug = "riz-au-lait-de-mamie"
-tags = ["Recette"]
-title = "Riz au lait de mamie"
-
-+++
+---
+categories:
+- Recette
+date: "2023-03-17T15:02:52Z"
+description: ""
+draft: true
+image: https://blog.theomarty.fr/content/images/2023/03/IMG-2941.jpg
+slug: riz-au-lait-de-mamie
+tags:
+- Recette
+title: Riz au lait de mamie
+---
 
 
 Ingrédients :

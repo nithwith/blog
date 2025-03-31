@@ -1,14 +1,19 @@
-+++
-categories = ["DIY", "Vélo cargo", "Vélo"]
-date = 2020-04-16T19:34:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min-1.jpg"
-slug = "construction-dun-velo-cargo"
-tags = ["DIY", "Vélo cargo", "Vélo"]
-title = "Construction d'un vélo cargo \"Long tail\""
-
-+++
+---
+categories:
+- DIY
+- Vélo cargo
+- Vélo
+date: "2020-04-16T19:34:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/06/20200531_182722-min-1.jpg
+slug: construction-dun-velo-cargo
+tags:
+- DIY
+- Vélo cargo
+- Vélo
+title: Construction d'un vélo cargo "Long tail"
+---
 
 
 Je roule un vélo cargo Omnium depuis bientôt deux ans et je l'adore. C'est un vélo qui roule très bien. Il n'est pas trop tape l’œil mais j'hésite toujours à laisser la nuit dans le rue.....

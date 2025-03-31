@@ -1,14 +1,15 @@
-+++
-categories = ["Aventure"]
-date = 2019-04-21T22:02:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20190330_180204-min-1.jpg"
-slug = "week-end-kayak-bivouac-sur-lerdre"
-tags = ["Aventure"]
-title = "Week end Kayak bivouac sur l'erdre"
-
-+++
+---
+categories:
+- Aventure
+date: "2019-04-21T22:02:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20190330_180204-min-1.jpg
+slug: week-end-kayak-bivouac-sur-lerdre
+tags:
+- Aventure
+title: Week end Kayak bivouac sur l'erdre
+---
 
 
 Cela fait plusieurs mois que je salive sur les forums de voyage en kayak ! En lisant des récits de voyage en kayak, ce mode de transport m'a séduit, on peut le résumer avec la phrase suivante : La découverte de nouveaux environnements aquatiques sauvages avec un moyen de transport doux !

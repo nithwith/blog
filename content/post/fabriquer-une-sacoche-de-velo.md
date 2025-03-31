@@ -1,14 +1,17 @@
-+++
-categories = ["DIY", "Vélo"]
-date = 2020-12-13T23:31:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2021/03/sacoche_banni-re.png"
-slug = "fabriquer-une-sacoche-de-velo"
-tags = ["DIY", "Vélo"]
-title = "Fabriquer une sacoche de vélo"
-
-+++
+---
+categories:
+- DIY
+- Vélo
+date: "2020-12-13T23:31:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2021/03/sacoche_banni-re.png
+slug: fabriquer-une-sacoche-de-velo
+tags:
+- DIY
+- Vélo
+title: Fabriquer une sacoche de vélo
+---
 
 
 <iframe width="356" height="200" src="https://www.youtube.com/embed/41yh3Glstrk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

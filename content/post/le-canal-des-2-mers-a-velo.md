@@ -1,12 +1,11 @@
-+++
-date = 2016-08-24T21:59:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/DSC08879-min.jpg"
-slug = "le-canal-des-2-mers-a-velo"
-title = "Le canal des 2 mers à vélo"
-
-+++
+---
+date: "2016-08-24T21:59:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/DSC08879-min.jpg
+slug: le-canal-des-2-mers-a-velo
+title: Le canal des 2 mers à vélo
+---
 
 
 L'itinéraire

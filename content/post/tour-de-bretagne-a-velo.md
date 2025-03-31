@@ -1,14 +1,15 @@
-+++
-categories = ["Aventure"]
-date = 2020-01-05T11:43:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/03/20190822_155318-min.jpg"
-slug = "tour-de-bretagne-a-velo"
-tags = ["Aventure"]
-title = "Tour de Bretagne à vélo"
-
-+++
+---
+categories:
+- Aventure
+date: "2020-01-05T11:43:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/03/20190822_155318-min.jpg
+slug: tour-de-bretagne-a-velo
+tags:
+- Aventure
+title: Tour de Bretagne à vélo
+---
 
 
 ## Itinéraire

@@ -1,12 +1,11 @@
-+++
-date = 2016-02-25T21:32:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20160122_154313163.jpg"
-slug = "la-rochelle-nantes-a-velo"
-title = "La Rochelle - Nantes à vélo"
-
-+++
+---
+date: "2016-02-25T21:32:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/IMG_20160122_154313163.jpg
+slug: la-rochelle-nantes-a-velo
+title: La Rochelle - Nantes à vélo
+---
 
 
 Théo a roulé de La Rochelle à Nantes avec des amis à la fin du mois de Janvier , il vous raconte son périple et ses impressions.Pour expliquer la cause de ce voyage , je dois vous informer que je fais parti d'un atelier de réparation de vélo participatif sur la Rochelle crée par l'association Vive le vélo : l'Atelier des petits clous. Nous sommes une petite équipe de bénévoles très motivés qui organisent une fois par mois un atelier ou tout le monde peut venir réparer son vélo et bénéficier de conseils sur le thème de la bicyclette ! Pour développer l'atelier nous avons décidé d'aller faire le tour des ateliers de la régions pour piquer leurs bonnes idées ! Le premier atelier à nous accueillir est l'atelier de Place au vélo , grosse association Nantaise qui travaille à la promotion de la bicyclette. J'ai choisi avec deux amis d'y aller en vélo pour le sport ;) et pour sauver l'honneur car si on arrive tous en voiture dans une association provélo , je ne vous raconte pas le massacre ! ;)

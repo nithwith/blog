@@ -1,14 +1,17 @@
-+++
-categories = ["Vélo", "Aventure"]
-date = 2015-08-20T21:29:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/WP_20150819_013-1077x480.jpg"
-slug = "tour-de-lile-de-re-a-velo"
-tags = ["Vélo", "Aventure"]
-title = "Tour de l'île de Ré à vélo"
-
-+++
+---
+categories:
+- Vélo
+- Aventure
+date: "2015-08-20T21:29:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/WP_20150819_013-1077x480.jpg
+slug: tour-de-lile-de-re-a-velo
+tags:
+- Vélo
+- Aventure
+title: Tour de l'île de Ré à vélo
+---
 
 
 Théo a réalisé le tour de l'île de Ré en solo à la fin du mois d'août 2015, il vous raconte son périple et ses impressions.

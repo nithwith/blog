@@ -1,14 +1,15 @@
-+++
-categories = ["DIY"]
-date = 2019-04-09T20:09:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/04/20200403_221553-min-1.jpg"
-slug = "mes-projets-coutures"
-tags = ["DIY"]
-title = "Mes projets coutures"
-
-+++
+---
+categories:
+- DIY
+date: "2019-04-09T20:09:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/04/20200403_221553-min-1.jpg
+slug: mes-projets-coutures
+tags:
+- DIY
+title: Mes projets coutures
+---
 
 
 Petit post pour présenter quelques une de mes production de couture (Sacoches de vélo, trousses, etc...)

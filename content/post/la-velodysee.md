@@ -1,14 +1,17 @@
-+++
-categories = ["Vélo", "Aventure"]
-date = 2015-08-18T21:21:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/DSC07038-768x576.jpg"
-slug = "la-velodysee"
-tags = ["Vélo", "Aventure"]
-title = "La Vélodysée"
-
-+++
+---
+categories:
+- Vélo
+- Aventure
+date: "2015-08-18T21:21:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/DSC07038-768x576.jpg
+slug: la-velodysee
+tags:
+- Vélo
+- Aventure
+title: La Vélodysée
+---
 
 
 ## L'itinéraire

@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2015-10-06T23:03:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/DSC07882-1.jpg"
-slug = "la-loire-a-velo"
-tags = ["Aventure", "Vélo"]
-title = "La loire à vélo"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2015-10-06T23:03:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/DSC07882-1.jpg
+slug: la-loire-a-velo
+tags:
+- Aventure
+- Vélo
+title: La loire à vélo
+---
 
 
 **L'itinéraire**

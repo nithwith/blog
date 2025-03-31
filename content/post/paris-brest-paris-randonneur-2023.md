@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2023-08-31T12:43:58Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2023/08/20230823_073057_o.jpg"
-slug = "paris-brest-paris-randonneur-2023"
-tags = ["Aventure", "Vélo"]
-title = "Paris Brest Paris Randonneur 2023"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2023-08-31T12:43:58Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2023/08/20230823_073057_o.jpg
+slug: paris-brest-paris-randonneur-2023
+tags:
+- Aventure
+- Vélo
+title: Paris Brest Paris Randonneur 2023
+---
 
 
 Mon défi de l'année 2023, c'était le Paris Brest Paris randonneur, le plus long brevet proposé avec 1220km et 12000m de dénivelé positif. Pour y participer, j'ai dû valider des randonnées des distances suivantes :
@@ -17,9 +20,6 @@ Mon défi de l'année 2023, c'était le Paris Brest Paris randonneur, le plus lo
  * 300km (Angers)
  * 400km (Chantepie)
  * 600km (Angers)
-
-![Example image](https://blog.theomarty.fr/content/images/2023/08/20230823_073057_o.jpg)
-
 
 Je vous raconte maintenant mon expérience dans le post ci dessous
 

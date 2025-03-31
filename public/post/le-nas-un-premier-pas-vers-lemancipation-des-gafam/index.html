@@ -22,7 +22,7 @@
         (function() {
             const colorSchemeKey = 'StackColorScheme';
             if(!localStorage.getItem(colorSchemeKey)){
-                localStorage.setItem(colorSchemeKey, "dark");
+                localStorage.setItem(colorSchemeKey, "auto");
             }
         })();
     </script><script>
@@ -41,7 +41,7 @@
     })();
 </script>
 <div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky compact">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Afficher le menu">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
         </span>
@@ -110,7 +110,7 @@
 
 
 
-                        <span></span>
+                        <span>Mode sombre</span>
                     </li>
                 
             </ol>
@@ -118,7 +118,41 @@
     </ol>
 </aside>
 
-    
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table des matières</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#le-constat">Le constat</a></li>
+    <li><a href="#le-choix">Le choix</a></li>
+    <li><a href="#google-drive-vs-nas">Google Drive vs NAS</a></li>
+    <li><a href="#retour-dexpérience-après-6-mois-dutilisation">Retour d&rsquo;expérience après 6 mois d&rsquo;utilisation</a></li>
+  </ul>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
 
             <main class="main full-width">
     <article class="has-image main-article">
@@ -172,6 +206,20 @@
         
 
         
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    6 minutes de lecture
+                </time>
+            </div>
+        
     </footer>
     
 
@@ -195,7 +243,7 @@
     >Voici l&rsquo;historique de vos positions &hellip; Merci Google !    ;)</a></p>
 <p>Face à la montée en puissance exponentielle de ces acteurs, quelques organisations militantes ont décidé de proposer des services alternatifs.</p>
 <p>C&rsquo;est le cas notamment de Framasoft qui propose des services analogues à ceux de Google mais sans intervenir dans votre vie privée. On peut noter aussi le réseau social Mastodon qui veut se substituer à Facebook. Ces services sont proposés dans le cadre de l&rsquo;open-source (c&rsquo;est à dire des logiciels dont le code est disponible gratuitement sur internet).</p>
-<p><a href="https://blog.theomarty.fr/le-nas-un-premier-pas-vers-lemancipation-des-gafam/framasoft.org">framasoft.org</a>&quot; &gt;</p>
+<p><!-- raw HTML omitted -->framasoft.org<!-- raw HTML omitted -->&quot; &gt;</p>
 <h2 id="le-choix"><a href="#le-choix" class="header-anchor"></a>Le choix
 </h2><p>Alarmé par l’étendue  des données que stockent et revendent les GAFAM,  je me suis mis en tête depuis plusieurs années de me détacher de cet écosystème numérique toxique. Ceci dans l&rsquo;objectif de garder une &ldquo;souveraineté&rdquo; sur mes données .</p>
 <p>J&rsquo;ai décidé de commencer par le service que j&rsquo;utilise le plus : Google drive. Ce service propose un stockage de fichier en ligne (15Go en version gratuite) et une suite bureautique pour éditer ses documents. Durant mes études j&rsquo;ai beaucoup utilisé ce service car équipé de Linux (alternative open-source de Windows), je n&rsquo;avais pas de bonne suite bureautique à disposition.</p>
@@ -290,32 +338,6 @@
 
 
     
-        <link 
-                rel="stylesheet" 
-                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
-            ><script 
-                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
-                defer
-                >
-            </script><script 
-                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
-                defer
-                >
-            </script><script>
-    window.addEventListener("DOMContentLoaded", () => {
-	const mainArticleElement = document.querySelector(".main-article");
-        renderMathInElement(mainArticleElement, {
-            delimiters: [
-                { left: "$$", right: "$$", display: true },
-                { left: "$", right: "$", display: false },
-                { left: "\\(", right: "\\)", display: false },
-                { left: "\\[", right: "\\]", display: true }
-            ],
-            ignoredClasses: ["gist"]
-        });})
-</script>
-
-    
 </article>
 
     
@@ -331,12 +353,14 @@
     <section class="copyright">
         &copy; 
         
-        2025 Mon blog
+            2020 - 
+        
+        2025 Théo MARTY
     </section>
     
     <section class="powerby">
-         <br />
-        
+        Généré avec <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Thème <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> conçu par <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
     </section>
 </footer>
 

@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2017-09-13T22:17:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20170627_133023631.jpg"
-slug = "leurope-du-nord-au-sud-a-velo-2"
-tags = ["Aventure", "Vélo"]
-title = "L'europe du nord au sud à vélo"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2017-09-13T22:17:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/IMG_20170627_133023631.jpg
+slug: leurope-du-nord-au-sud-a-velo-2
+tags:
+- Aventure
+- Vélo
+title: L'europe du nord au sud à vélo
+---
 
 
 ### Itinéraire

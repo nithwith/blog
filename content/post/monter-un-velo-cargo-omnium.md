@@ -1,14 +1,17 @@
-+++
-categories = ["Vélo cargo", "carousel"]
-date = 2018-10-19T22:06:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min-1.jpg"
-slug = "monter-un-velo-cargo-omnium"
-tags = ["Vélo cargo", "carousel"]
-title = "Monter un vélo cargo omnium"
-
-+++
+---
+categories:
+- Vélo cargo
+- carousel
+date: "2018-10-19T22:06:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20180921_194754-min-1.jpg
+slug: monter-un-velo-cargo-omnium
+tags:
+- Vélo cargo
+- carousel
+title: Monter un vélo cargo omnium
+---
 
 
 En terminant mon voyage à vélo en europe en 2017, j'étais convaincu que le vélo pouvait être mon moyen de transport principal. Le seul inconvénient au vélo est le faible volume qu'il peut transporter comparé à une voiture. Pour combler ce manque je suis donc revenu en France avec la ferme intention d’acquérir ou de construire un vélo cargo.

@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-12-27T14:53:06+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/post/</loc>
-    <lastmod>2024-12-27T14:53:06+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/categories/aventure/</loc>
     <lastmod>2023-08-31T12:43:58+00:00</lastmod>
   </url><url>
@@ -17,7 +11,13 @@
     <loc>http://localhost:1313/blog/categories/</loc>
     <lastmod>2023-08-31T12:43:58+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-08-31T12:43:58+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/post/paris-brest-paris-randonneur-2023/</loc>
+    <lastmod>2023-08-31T12:43:58+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post/</loc>
     <lastmod>2023-08-31T12:43:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/</loc>

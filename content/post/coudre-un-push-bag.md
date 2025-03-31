@@ -1,11 +1,10 @@
-+++
-date = 2021-01-28T20:42:48Z
-description = ""
-draft = true
-slug = "coudre-un-push-bag"
-title = "Coudre un push bag"
-
-+++
+---
+date: "2021-01-28T20:42:48Z"
+description: ""
+draft: true
+slug: coudre-un-push-bag
+title: Coudre un push bag
+---
 
 
 Matériel

@@ -1,13 +1,14 @@
-+++
-categories = ["Recette"]
-date = 2024-12-27T14:53:06Z
-description = ""
-draft = true
-slug = "cheescake"
-tags = ["Recette"]
-title = "Le cheesecake"
-
-+++
+---
+categories:
+- Recette
+date: "2024-12-27T14:53:06Z"
+description: ""
+draft: true
+slug: cheescake
+tags:
+- Recette
+title: Le cheesecake
+---
 
 
 Ingrédients

@@ -1,14 +1,19 @@
-+++
-categories = ["Vélo", "Aventure", "Mes atuces"]
-date = 2020-10-31T09:38:47Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/10/dsc00232_1.jpg"
-slug = "quel-materiel-pour-un-voyage-a-velo"
-tags = ["Vélo", "Aventure", "Mes atuces"]
-title = "Quel matériel choisir pour partir à vélo ?"
-
-+++
+---
+categories:
+- Vélo
+- Aventure
+- Mes atuces
+date: "2020-10-31T09:38:47Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/10/dsc00232_1.jpg
+slug: quel-materiel-pour-un-voyage-a-velo
+tags:
+- Vélo
+- Aventure
+- Mes atuces
+title: Quel matériel choisir pour partir à vélo ?
+---
 
 
 Le voyage en vélo c'est un saut dans le vide ! Partir plusieurs jours à bicyclette, ça laisse rêveur mais milles questions se posent pour les néophytes. Essayons d’éclaircir tout ça ensemble.

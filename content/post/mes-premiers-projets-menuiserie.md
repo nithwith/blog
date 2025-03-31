@@ -1,14 +1,15 @@
-+++
-categories = ["DIY"]
-date = 2019-03-13T22:23:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20190216_171103-1.jpg"
-slug = "mes-premiers-projets-menuiserie"
-tags = ["DIY"]
-title = "Mes premiers projets menuiserie"
-
-+++
+---
+categories:
+- DIY
+date: "2019-03-13T22:23:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20190216_171103-1.jpg
+slug: mes-premiers-projets-menuiserie
+tags:
+- DIY
+title: Mes premiers projets menuiserie
+---
 
 
 Au mois de janvier, j'ai eu l'occasion de faire un peu de menuiserie pour produire plusieurs objets en bois, je vous présente la réalisation de ces objets ci dessous.

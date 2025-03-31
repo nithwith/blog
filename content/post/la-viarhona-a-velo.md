@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2016-07-28T21:39:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/IMG_20160815_175854974_HDR.jpg"
-slug = "la-viarhona-a-velo"
-tags = ["Aventure", "Vélo"]
-title = "La Viarhona à vélo"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2016-07-28T21:39:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/IMG_20160815_175854974_HDR.jpg
+slug: la-viarhona-a-velo
+tags:
+- Aventure
+- Vélo
+title: La Viarhona à vélo
+---
 
 
 Pour notre troisième voyage, nous avons choisi la dernière EuroVélo route française en date : La Viarhôna! Cette piste fraîchement nommée EuroVélo 17 (certification européenne) n'est pas encore complètement achevée mais 90% de l'itinéraire a déjà été réalisé et nous l'avons adoré ! Nous avons ensuite décidé de remonter jusqu'à la côte atlantique en suivant le Canal des 2 Mers jusqu'à Bordeaux, nous vous raconterons cette seconde parti ICI

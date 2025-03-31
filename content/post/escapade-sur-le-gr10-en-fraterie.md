@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Randonnée"]
-date = 2021-05-20T08:11:39Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2021/05/20210515_123154-min.jpg"
-slug = "escapade-sur-le-gr10-en-fraterie"
-tags = ["Aventure", "Randonnée"]
-title = "Escapade sur le GR10 en fraterie"
-
-+++
+---
+categories:
+- Aventure
+- Randonnée
+date: "2021-05-20T08:11:39Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2021/05/20210515_123154-min.jpg
+slug: escapade-sur-le-gr10-en-fraterie
+tags:
+- Aventure
+- Randonnée
+title: Escapade sur le GR10 en fraterie
+---
 
 
 See full screen

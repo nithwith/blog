@@ -1,14 +1,15 @@
-+++
-categories = ["Recette"]
-date = 2018-12-29T22:07:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20181230_112022.jpg"
-slug = "recette-la-fouasse-aveyronnaise"
-tags = ["Recette"]
-title = "Recette : La Fouasse Aveyronnaise"
-
-+++
+---
+categories:
+- Recette
+date: "2018-12-29T22:07:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20181230_112022.jpg
+slug: recette-la-fouasse-aveyronnaise
+tags:
+- Recette
+title: 'Recette : La Fouasse Aveyronnaise'
+---
 
 
 **Ingrédients :**

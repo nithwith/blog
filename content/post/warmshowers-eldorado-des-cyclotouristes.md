@@ -1,13 +1,18 @@
-+++
-categories = ["Vélo", "Mes atuces", "Aventure"]
-date = 2016-01-20T21:30:00Z
-description = ""
-draft = false
-slug = "warmshowers-eldorado-des-cyclotouristes"
-tags = ["Vélo", "Mes atuces", "Aventure"]
-title = "WarmShowers : Eldorado des cyclotouristes !"
-
-+++
+---
+categories:
+- Vélo
+- Mes atuces
+- Aventure
+date: "2016-01-20T21:30:00Z"
+description: ""
+draft: false
+slug: warmshowers-eldorado-des-cyclotouristes
+tags:
+- Vélo
+- Mes atuces
+- Aventure
+title: 'WarmShowers : Eldorado des cyclotouristes !'
+---
 
 
 Je profite d'un article sur mon site pour vous faire partager un site internet indispensable à tout cyclotouriste : [WarmShowers](https://fr.warmshowers.org/)

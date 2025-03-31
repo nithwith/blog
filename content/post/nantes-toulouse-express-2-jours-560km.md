@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2017-09-12T21:57:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20180316_131107-1.jpg"
-slug = "nantes-toulouse-express-2-jours-560km"
-tags = ["Aventure", "Vélo"]
-title = "Nantes - Toulouse Express (2 jours/560km)"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2017-09-12T21:57:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20180316_131107-1.jpg
+slug: nantes-toulouse-express-2-jours-560km
+tags:
+- Aventure
+- Vélo
+title: Nantes - Toulouse Express (2 jours/560km)
+---
 
 
 Matériel

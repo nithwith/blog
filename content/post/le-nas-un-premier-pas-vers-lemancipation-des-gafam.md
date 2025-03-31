@@ -1,14 +1,15 @@
-+++
-categories = ["Numérique"]
-date = 2019-09-19T22:10:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/DSC_0595-min.jpg"
-slug = "le-nas-un-premier-pas-vers-lemancipation-des-gafam"
-tags = ["Numérique"]
-title = "Le NAS :  un premier pas vers l'émancipation des Gafam"
-
-+++
+---
+categories:
+- Numérique
+date: "2019-09-19T22:10:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/DSC_0595-min.jpg
+slug: le-nas-un-premier-pas-vers-lemancipation-des-gafam
+tags:
+- Numérique
+title: 'Le NAS :  un premier pas vers l''émancipation des Gafam'
+---
 
 
 Salut, aujourd'hui je vous partage une expérience que je mène depuis six mois maintenant avec un petit outil bien pratique : le NAS.

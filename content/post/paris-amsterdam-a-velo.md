@@ -1,14 +1,17 @@
-+++
-categories = ["Aventure", "Vélo"]
-date = 2019-07-30T22:18:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/01/20190707_120545-min-1.jpg"
-slug = "paris-amsterdam-a-velo"
-tags = ["Aventure", "Vélo"]
-title = "Paris - Amsterdam à vélo"
-
-+++
+---
+categories:
+- Aventure
+- Vélo
+date: "2019-07-30T22:18:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/01/20190707_120545-min-1.jpg
+slug: paris-amsterdam-a-velo
+tags:
+- Aventure
+- Vélo
+title: Paris - Amsterdam à vélo
+---
 
 
 Itinéraire

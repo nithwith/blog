@@ -22,7 +22,7 @@
         (function() {
             const colorSchemeKey = 'StackColorScheme';
             if(!localStorage.getItem(colorSchemeKey)){
-                localStorage.setItem(colorSchemeKey, "dark");
+                localStorage.setItem(colorSchemeKey, "auto");
             }
         })();
     </script><script>
@@ -41,7 +41,7 @@
     })();
 </script>
 <div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky compact">
-    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Afficher le menu">
         <span class="hamburger-box">
             <span class="hamburger-inner"></span>
         </span>
@@ -110,7 +110,7 @@
 
 
 
-                        <span></span>
+                        <span>Mode sombre</span>
                     </li>
                 
             </ol>
@@ -176,6 +176,20 @@
         
 
         
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    5 minutes de lecture
+                </time>
+            </div>
+        
     </footer>
     
 
@@ -194,16 +208,6 @@
 <li>400km (Chantepie)</li>
 <li>600km (Angers)</li>
 </ul>
-<p><img src="https://blog.theomarty.fr/content/images/2023/08/20230823_073057_o.jpg"
-	
-	
-	
-	loading="lazy"
-	
-		alt="Example image"
-	
-	
-></p>
 <p>Je vous raconte maintenant mon expérience dans le post ci dessous</p>
 <p>Arrivée samedi sur site avec Sebastian Peña et Mickael B nous sommes projetés dans l&rsquo;ambiance du Paris Brest Paris. Sur la route pour récupérer nos dossard nous sommes dépassés par des japonais, des brésiliens .. La folie, il a déjà beaucoup de monde.</p>
 <p>Après une nuit au calme dans une chambre d&rsquo;hôte prêt de Rambouillet, le grand départ Dimanche arrive rapidement, avec les copains du NP, on échange sur le matériel emporté, la stratégie etc. A 19h15, je décolle avec Denis Martineau, l&rsquo;ambiance au départ est géniale nous partons sous le soleil couchant a 30-32 de moyenne, le pied !</p>
@@ -251,32 +255,6 @@
 
 
     
-        <link 
-                rel="stylesheet" 
-                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
-            ><script 
-                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
-                defer
-                >
-            </script><script 
-                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
-                defer
-                >
-            </script><script>
-    window.addEventListener("DOMContentLoaded", () => {
-	const mainArticleElement = document.querySelector(".main-article");
-        renderMathInElement(mainArticleElement, {
-            delimiters: [
-                { left: "$$", right: "$$", display: true },
-                { left: "$", right: "$", display: false },
-                { left: "\\(", right: "\\)", display: false },
-                { left: "\\[", right: "\\]", display: true }
-            ],
-            ignoredClasses: ["gist"]
-        });})
-</script>
-
-    
 </article>
 
     
@@ -284,7 +262,7 @@
     
 
 <aside class="related-content--wrapper">
-    <h2 class="section-title"></h2>
+    <h2 class="section-title">Contenus liés</h2>
     <div class="related-content">
         <div class="flex article-list--tile">
             
@@ -396,12 +374,14 @@
     <section class="copyright">
         &copy; 
         
-        2025 Mon blog
+            2020 - 
+        
+        2025 Théo MARTY
     </section>
     
     <section class="powerby">
-         <br />
-        
+        Généré avec <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Thème <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> conçu par <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
     </section>
 </footer>
 

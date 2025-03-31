@@ -1,14 +1,19 @@
-+++
-categories = ["Aventure", "Vélo cargo", "Vélo"]
-date = 2020-10-31T13:20:00Z
-description = ""
-draft = false
-image = "https://blog.theomarty.fr/content/images/2020/10/DSC00563.JPG"
-slug = "le-grand-tour-des-alpes-a-velo-cargo"
-tags = ["Aventure", "Vélo cargo", "Vélo"]
-title = "Le grand tour des Alpes à vélo cargo"
-
-+++
+---
+categories:
+- Aventure
+- Vélo cargo
+- Vélo
+date: "2020-10-31T13:20:00Z"
+description: ""
+draft: false
+image: https://blog.theomarty.fr/content/images/2020/10/DSC00563.JPG
+slug: le-grand-tour-des-alpes-a-velo-cargo
+tags:
+- Aventure
+- Vélo cargo
+- Vélo
+title: Le grand tour des Alpes à vélo cargo
+---
 
 
 2 mois et demi de voyage en Europe, j'en ai rêvé, je l'ai fait ! Je vous raconte mon aventure dans ce billet, c'est parti !
