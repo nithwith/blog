@@ -6,7 +6,7 @@ categories:
 date: "2020-10-31T09:38:47Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/10/dsc00232_1.jpg
+image: https://theomarty.fr/content/images/2020/10/dsc00232_1.jpg
 slug: quel-materiel-pour-un-voyage-a-velo
 tags:
 - Vélo
@@ -22,7 +22,7 @@ Je vais essayer dans ce billet de partager ma petite expérience de voyageur à 
 
 ## Le destrier
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/10/destrier--1-.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/10/destrier--1-.jpg" >}}
 
 La première chose à laquelle on pense est le vélo ! Est-il assez léger ? Supportera-t-il des sacoches chargés ? SPOILER : Un vélo bien entretenu est toujours prêt à partir en voyage !
 
@@ -33,7 +33,7 @@ Néanmoins si vous êtes à la recherche du "vélo de voyage" de vos rêves, sac
     * La bonne taille ! partir avec un vélo trop petit / trop grand, c'est une sacré épine dans le pied ... Pour les grand voyage, faire une étude posturale peut être intéressant pour régler plus finement son destrier.
 * La transmission  
     * 2 ou 3 plateaux 
-    * 7/8/9 vitesses, au-delà les chaines sont plus fragiles et s'usent vite en vélo de voyage (3 chaines 11 vitesses sur [4000km en 2020](https://blog.theomarty.fr/le-grand-tour-des-alpes-a-velo-cargo/))
+    * 7/8/9 vitesses, au-delà les chaines sont plus fragiles et s'usent vite en vélo de voyage (3 chaines 11 vitesses sur [4000km en 2020](https://theomarty.fr/le-grand-tour-des-alpes-a-velo-cargo/))
 *  Les roues
     *  28" ou 26" au moins 32 rayons, c'est bien solide. Bien vérifier la tension des roues avant de partir, même pour un vélo neuf.
     *  Une dynamo dans le moyeu de la roue avant permet d'alimenter vos lampes et de recharger vos batteries, [Shutter precision](https://www.sp-dynamo.com/index.html) ou [SON](https://berthoudcycles.fr/fr/692-moyeu-dynamo-son-28-32trs-noir-ref303211303212.html) sont des références 
@@ -49,7 +49,7 @@ Néanmoins si vous êtes à la recherche du "vélo de voyage" de vos rêves, sac
 
 > Qui veut voyager loin, ménage sa monture - Racine
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/10/kit.jpeg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/10/kit.jpeg" >}}
 
 Je pars toujours avec le petit kit d’entretien suivant
 
@@ -73,7 +73,7 @@ Pour mes voyages en Europe, je n'ai jamais eu de problème pour trouver des piè
 
 ## Le bivouac
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/10/bivi.jpeg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/10/bivi.jpeg" >}}
 
 * La tente
     * Pour moi, 4 critéres important (faible poids / faible volume / Absyde / autoportée)
@@ -102,7 +102,7 @@ Pour s'orienter, donner des nouvelles au proches, garder un trace de l'aventure,
 
 ## La cuisine
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/10/bouffe.jpeg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/10/bouffe.jpeg" >}}
 
 Après une bonne journée de vélo, un repas chaud est la meilleure des récompenses. En 2020, je suis parti sans réchaud pour économiser sur le poids de mes bagages et puis j'ai craqué, j'en ai acheté un en Italie !
 

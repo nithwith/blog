@@ -5,7 +5,7 @@ categories:
 date: "2023-08-31T12:43:58Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2023/08/20230823_073057_o.jpg
+image: https://theomarty.fr/content/images/2023/08/20230823_073057_o.jpg
 slug: paris-brest-paris-randonneur-2023
 tags:
 - Aventure

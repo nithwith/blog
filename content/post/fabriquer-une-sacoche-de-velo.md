@@ -5,7 +5,7 @@ categories:
 date: "2020-12-13T23:31:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2021/03/sacoche_banni-re.png
+image: https://theomarty.fr/content/images/2021/03/sacoche_banni-re.png
 slug: fabriquer-une-sacoche-de-velo
 tags:
 - DIY
@@ -32,7 +32,7 @@ Découper votre sangle de 1m80 en deux longueurs de 40cm une longueur de 1m.
 
 Découper votre tissu principal en un rectangle de 52 cm x 110 cm.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2021/01/plan_large-2.png" >}}
+{{< figure src="https://theomarty.fr/content/images/2021/01/plan_large-2.png" >}}
 
 
 
@@ -50,7 +50,7 @@ Aiguiller la sangle de 1 m au tissu principal à 10cm du bord droit et gauche et
 
 Passer la sangle de 1 m dans les boucles de réglages.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2021/03/DSC00022-1.JPG" >}}
+{{< figure src="https://theomarty.fr/content/images/2021/03/DSC00022-1.JPG" >}}
 
 ### Etape 2 : Couture des sangles de fermetures
 
@@ -72,7 +72,7 @@ Coudre un ourlet sur le haut de votre sacoche. Retroussez votre tissu de 1cm, ai
 
 C'est terminé !
 
-{{< figure src="https://blog.theomarty.fr/content/images/2021/03/sacoche.png" caption="" >}}
+{{< figure src="https://theomarty.fr/content/images/2021/03/sacoche.png" caption="" >}}
 
 Tutoriel sous licence ****[CC BY-NC-SA](https://creativecommons.org/licenses/?lang=fr-FR)****
 

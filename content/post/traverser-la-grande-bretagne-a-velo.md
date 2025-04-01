@@ -5,7 +5,7 @@ categories:
 date: "2022-09-28T13:11:01Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2022/09/20220912_074238.jpg
+image: https://theomarty.fr/content/images/2022/09/20220912_074238.jpg
 slug: traverser-la-grande-bretagne-a-velo
 tags:
 - Aventure

@@ -2,7 +2,7 @@
 date: "2016-08-24T21:59:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/01/DSC08879-min.jpg
+image: https://theomarty.fr/content/images/2020/01/DSC08879-min.jpg
 slug: le-canal-des-2-mers-a-velo
 title: Le canal des 2 mers à vélo
 ---
@@ -16,7 +16,7 @@ Notre matériel
 
 Le VoyageAprès nos voyages des deux années précédentes, nous avions tous les deux envie de passer un cap : celui du millier de kilomètres. Après les 862km de la Viarhôna entre Genève et Sète, nous repartons alors sur le canal des 2 mers !
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC08913-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC08913-min.jpg" >}}
 
 Le 17 Août (136.3km) :Nous commençons fort sur cette véloroute avec une étape de 136.3 kilomètres ! Nous avions commencé cette étape plus tôt dans la journée sur la Viarhôna que nous avons suivie jusqu'à Sète, ville où elle termine. Il existe ensuite une longue piste le long de la côte entre Sète et Agde, ville où commence le Canal des 2 mers !Nous arrivons à Sète vers 19h. Après une petite pause dans la ville nous continuons notre route grâce à la piste cyclable qui longe le front de mer. Elle est superbe. Nous ne trouvons pas tout de suite les indications et pressés par le temps (notre hébergement du soir se situant à Portiragnes Plage, non loin de Béziers) nous ne prenons pas le temps de rechercher les balises du canal des 2 mers.
 
@@ -46,7 +46,7 @@ Le 23 Août (117.6km) :Ce matin c'est le grand départ. Nous profitons des point
 
 
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC09011-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC09011-min.jpg" >}}
 
 Je repars donc seul, vers le Nord pendant que Romain déguste les spécialités régionale dans un restaurant du centre ville d'Agen avant le départ de son train. Je retrouve le canal des 2 mers à la sortie de la ville et atteint rapidement un rythme de croisière. Je m'arrête dans une boulangerie de campagne à midi devant laquelle je rencontre un pélerin venu des Pays Bas rejoingnant compostelle à Vélo. Nous partageons notre déjeuner à essayer de converser en anglais,  je repars en début d'après midi en lui souhaitant bonne chance, c'est une belle rencontre.
 

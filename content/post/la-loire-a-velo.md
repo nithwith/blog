@@ -5,7 +5,7 @@ categories:
 date: "2015-10-06T23:03:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/01/DSC07882-1.jpg
+image: https://theomarty.fr/content/images/2020/01/DSC07882-1.jpg
 slug: la-loire-a-velo
 tags:
 - Aventure
@@ -32,7 +32,7 @@ Après les 630 km de la Vélodyssée , nous avons choisi de nous attaquer cette 
 
 Nous avons quand même retenu quelques leçons de la Velodyssée, ce qui nous a conduit à investir dans une nouvelle tente (poids divisé par 4), des sacoches pour Théo, un chargeur solaire pour être autonome niveau électricité (donc principalement téléphone et appareil photo) et le guide de la Loire à Vélo réalisé par le Routard pour nous diriger et avoir un aperçu des hébergements et curiosités autour de notre parcours.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC07882.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC07882.jpg" >}}
 
 Le 2 Août (14.4km) :Après le voyage en train jusqu'à Saint-Nazaire, nous décidons de faire un petit crochet par Pornichet à 14km pour voir une amie . Sur la place de la gare nous faisons la première rencontre du voyage avec un homme sympathique qui doit prendre son train, nous ne restons pas longtemps avec lui mais il nous a dit une jolie phrase qui nous fait réfléchir : "Le sac à dos mettra le Club Med en faillite". Puis, quittant notre penseur des rues, nous repartons et passons un après-midi de détente sur la plage de Pornichet ainsi qu'une très bonne soirée : le voyage commence bien !
 
@@ -52,7 +52,7 @@ La nuit approchant et les kilomètres défilant (près de 80km déjà au compteu
 
 Après l'étape de la veille (80 km) nous décidons de rouler plus doucement : durant la plus grosse étape de notre voyage de l'année dernière sur la Vélodyssée nous avions parcouru 82 km (Biganos-Cap Ferret-Le Porge). Nous arrivons donc tranquillement à Nantes pour déjeuner, nous allons sur l'esplanade des machines pour profiter des allées et venues de l'imposant éléphant de bois tout en se reposant.Après Nantes, nous nous arrêtons dans un camping à La Varenne (11 euros pour 2), ville en pente et peu vivante : nous arrivons à l'épicerie vers 18h45 en nous dépêchant et la gérante est déjà en train de fermer la boutique ! Résultat des courses, seulement une soixantaine de kilomètres pour cette journée de repos.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC07985.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC07985.jpg" >}}
 
 Le 5 Août (63.6km) :
 
@@ -74,7 +74,7 @@ Le 7 Août (56.8km) :
 
 Nous quittons la Loire à Vélo de bon matin pour partir vers Beaufort en vallée et retrouver de la famille. Nous trouvons de belles pistes cyclables, très agréables, et arrivons pour manger à Beaufort. Nous partons ensuite vers la Touraine pour dormir dans la famille le soir. Dès le départ de Beaufort les choses se gâtent : notre GPS nous indique des chemins de plus en plus étroits et perd peu à peu son signal de localisation pour finalement nous lâcher à 15 km de l'arrivée, au milieu des bois.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC08108.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC08108.jpg" >}}
 
 Heureusement : Romain a pris la précaution de prendre des cartes du secteur et sa boussole ! Nous arrivons fatigués dans la famille, vers 18h. Après tant de pistes cyclables nous commencions à nous habituer et ces chemins nous ont donné du fil à retordre.Le 8 Août (repos) :Arrivés dans la famille, nous choisissons de rester une journée pour nous reposer avant de repartir, ce qui nous permet de recharger nos batteries, de prendre une douche bien méritée et de bien manger pour être en pleine forme ! (car même si nos repas sont équilibrés, ils ne sont pas toujours très bon :D)Le 9 Août (85.7km) :
 
@@ -98,7 +98,7 @@ Nous quittons définitivement la Loire à Vélo vers 19h pour partir vers le nor
 
 En conclusion, après 8 jours sur le vélo et 689 km au compteur, cette seconde expérience de voyage a vélo a été comme toujours positive. Cette fois-ci avec beaucoup moins de pause et plus de kilomètre parcourus. En effet, nous avons roulé plus de kilomètres (630 l'année dernière) en divisant le temps de voyage par deux. Nous étions très surpris de nos résultats mais après réflexions nos équipements ont beaucoup évolué ainsi que nos musculatures qui se sont habituées aux longs efforts. C'est donc encore de très bonnes vacances que nous avons passé tous les deux, avec de belles rencontres mais moins que sur la Vélodyssée à cause de notre rythme plus rapide et des bivouacs qui ne sont pas très propices aux rencontres.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/DSC08316.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/DSC08316.jpg" >}}
 
 Néanmoins l’expérience de la Loire à Vélo nous a beaucoup plu ! Notamment grâce au parcours bien balisé et très joli et verdoyant, mais aussi grâce aux nombreux cyclotouristes qui ont croisé notre chemin. Un seul point noir : l'application "Loire à Vélo" qui ne nous a été d'aucun secours pour retrouver l'itinéraire ou pour contacter des hébergements... A travailler ! Et en attendant : merci Le Routard ! ;)
 

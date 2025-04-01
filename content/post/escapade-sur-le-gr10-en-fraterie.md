@@ -5,7 +5,7 @@ categories:
 date: "2021-05-20T08:11:39Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2021/05/20210515_123154-min.jpg
+image: https://theomarty.fr/content/images/2021/05/20210515_123154-min.jpg
 slug: escapade-sur-le-gr10-en-fraterie
 tags:
 - Aventure

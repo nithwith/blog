@@ -6,7 +6,7 @@ categories:
 date: "2016-12-23T21:28:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/06/20190806_125112-min.jpg
+image: https://theomarty.fr/content/images/2020/06/20190806_125112-min.jpg
 slug: conseils-voyage-a-velo
 tags:
 - Vélo

@@ -5,7 +5,7 @@ categories:
 date: "2015-08-20T21:29:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/01/WP_20150819_013-1077x480.jpg
+image: https://theomarty.fr/content/images/2020/01/WP_20150819_013-1077x480.jpg
 slug: tour-de-lile-de-re-a-velo
 tags:
 - Vélo

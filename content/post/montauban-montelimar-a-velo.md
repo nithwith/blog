@@ -5,7 +5,7 @@ categories:
 date: "2019-08-15T22:14:00Z"
 description: ""
 draft: false
-image: https://blog.theomarty.fr/content/images/2020/01/DSC00188_1-min.JPG
+image: https://theomarty.fr/content/images/2020/01/DSC00188_1-min.JPG
 slug: montauban-montelimar-a-velo
 tags:
 - Aventure
@@ -24,28 +24,28 @@ title: Montauban - Montélimar à vélo
 
 Deuxième voyage de l'été 2019, durant lequel j'ai traversé la diagonale du vide avec ma copine Juliette :)
 
-L'itinéraire était bien plus dénivelé que mon précédent voyage [Paris - Amsterdam](https://blog.theomarty.fr/paris-amsterdam-a-velo/) ce qui présageai des paysages encore plus jolis ! Nous avons démarré notre voyage de Montélimar. Juliette est arrivé en train et moi en Bus de Nantes. Puis nous sommes partis plein est.
+L'itinéraire était bien plus dénivelé que mon précédent voyage [Paris - Amsterdam](https://theomarty.fr/paris-amsterdam-a-velo/) ce qui présageai des paysages encore plus jolis ! Nous avons démarré notre voyage de Montélimar. Juliette est arrivé en train et moi en Bus de Nantes. Puis nous sommes partis plein est.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190803_195241-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/20190803_195241-min.jpg" >}}
 
 La première journée a permis de se tester, nous avons fait 90km et 1300m de dénivelé positif sous le soleil du Midi 💕.  Nous sommes passé en Aveyron à midi.
 
 {{< gallery >}}
-{{< galleryImg  src="https://blog.theomarty.fr/content/images/2020/01/20190804_151335-min.jpg" width="4032" height="2268" >}}{{< galleryImg  src="https://blog.theomarty.fr/content/images/2020/01/20190804_175121-min.jpg" width="2592" height="1944" >}}{{< /gallery >}}
+{{< galleryImg  src="https://theomarty.fr/content/images/2020/01/20190804_151335-min.jpg" width="4032" height="2268" >}}{{< galleryImg  src="https://theomarty.fr/content/images/2020/01/20190804_175121-min.jpg" width="2592" height="1944" >}}{{< /gallery >}}
 
 Avec les grosses chaleurs, nous avons pu nous baigner plusieurs fois dans l'Aveyron. De plus la trace que j'avais préparé contenait plusieurs section gravel (chemins de cailloux) que nous avons suivi qui nous ont guidé dans des endroit très sauvage et très beaux !
 
 Nous avons posé notre tente dans le camping de Belcastel et nous en avons profité pour visiter le village médiéval de nuit. Une joile balade.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190804_183541-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/20190804_183541-min.jpg" >}}
 
 Durant la seconde journée, nous avons avalés 80km pour 1500m de dénivelé. Nous prenons doucement nos habitudes avec les reliefs de la région 😁  Nous profitons de se passage en Aveyron pour rendre visite a mon grand père à la Primaube pour manger un bon aligot saucisses qui nous a régalé ! :P
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190806_114439-min-1.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/20190806_114439-min-1.jpg" >}}
 
 Après un bivouac dans une grange à coté de Ségur, nous avons pris la direction des gorges du Tarn pour une troisième journée de voyage. La descente sous de soleil de 500m de dénivelé sur 3km a été un peu stressante mais nous avons profité de la fraîcheur des gorges une fois en bas et en particulier de la rivière qui coule au fond des gorges :)
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190806_124430-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/20190806_124430-min.jpg" >}}
 
 Nous avons été un peu embêté durant les 40km de gorges par l’afflux de touriste  sur la petite route serpentant au fond de la gorge. Mais nous avons pris notre temps et tout c'est bien passé.
 
@@ -55,7 +55,7 @@ La cinquième journée était la plus difficile avec 71km et **1600m**  **de dé
 
 Sur la route nous nous sommes arrêté à la [Cascade de Runes] de qui donne une super point de vue sur la vallée.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/20190807_134240-min.jpg" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/20190807_134240-min.jpg" >}}
 
 Dans l'après midi, nous avons descendu le dénivelé et nous nous sommes baignés dans le lac de Villefort en fin d'après midi, une juste récompense pour les efforts de la matinée. Puis nous nous sommes posé au camping de "Le Mas des Sédariès".
 
@@ -65,7 +65,7 @@ Dans après midi nous avons continué vers Montélimar. En fin d'après midi, no
 
 Nous sommes redescendu tranquillement sur Montélimar le lendemain pour aller chercher nos trains respectifs.
 
-{{< figure src="https://blog.theomarty.fr/content/images/2020/01/S-lection_101.png" >}}
+{{< figure src="https://theomarty.fr/content/images/2020/01/S-lection_101.png" >}}
 
 En conclusion de ce voyage, l'itinéraire est top pour un voyage de 5 jours. Le dénivelé un peu difficile a avaler au début du voyage a été plus doux sur la fin. Les nombreuses rivières sur la route nous ont sauvées de nombreuses fois des chaleurs de ce début de mois d'août, c'était vraiment top !
 

@@ -4,7 +4,7 @@ categories:
 date: "2023-03-17T15:02:52Z"
 description: ""
 draft: true
-image: https://blog.theomarty.fr/content/images/2023/03/IMG-2941.jpg
+image: https://theomarty.fr/content/images/2023/03/IMG-2941.jpg
 slug: riz-au-lait-de-mamie
 tags:
 - Recette
