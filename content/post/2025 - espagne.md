@@ -60,7 +60,7 @@ On nous l'avais dis mais ça nous a quand même étonné, les automobilsites esp
 Nous avons aussi profités des bars qui proposent des tapas pour une bouchée de pain mais aussi des plats appelés raciones qui peuvent être partagées. Nous recommandons les cafés au lait froid (café con leche con heilo) qui nous ont accompagnés tout les jours. Il y a des cafés dans tout les villages et les prx sont vraiment bon marché.
 
 ## Discuter
-Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé au lycée ! Mais dans la campagne espagnol (comme en france) l'anglais est inéficasse donc nous avons eu une formation accélérée ! Au final de beaux échanges avec les locaux
+Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé au lycée ! Mais dans la campagne espagnol (comme en france) l'anglais est inefficace donc nous avons eu une formation accélérée ! Au final de beaux échanges avec les locaux
 
 
 ## Conclusion
@@ -68,7 +68,7 @@ Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé a
 > **L'Espagne est une destination de choix !**
 > Attention au dénivelé et au climat, mais nous y avons trouvé une nature sauvage et des Espagnols très accueillants.
 
-{{</* gallery dir="/content/images/2025/espagne" */>}}
+{{</* gallery dir="/content/images/2025/espagne/" */>}}
 
  
 
