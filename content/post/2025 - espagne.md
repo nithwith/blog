@@ -68,7 +68,5 @@ Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé a
 > **L'Espagne est une destination de choix !**
 > Attention au dénivelé et au climat, mais nous y avons trouvé une nature sauvage et des Espagnols très accueillants.
 
-{{</* gallery dir="/content/images/2025/espagne/" */>}}
-
  
 
