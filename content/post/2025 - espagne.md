@@ -5,7 +5,7 @@ categories:
 date: "2025-08-01T12:43:58Z"
 description: ""
 draft: false
-image: https://theomarty.fr/content/images/2023/08/20230823_073057_o.jpg
+image: https://theomarty.fr/content/images/2025/espagne/DSC02703.JPG_compressed.JPEG
 slug: espagne-2025
 tags:
 - Aventure
@@ -68,7 +68,7 @@ Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé a
 > **L'Espagne est une destination de choix !**
 > Attention au dénivelé et au climat, mais nous y avons trouvé une nature sauvage et des Espagnols très accueillants.
 
-{{</* gallery dir="/images/2025/espagne" */>}}
+{{</* gallery dir="/content/images/2025/espagne" */>}}
 
  
 
