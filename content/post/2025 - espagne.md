@@ -69,13 +69,14 @@ Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé a
 > Attention au dénivelé et au climat, mais nous y avons trouvé une nature sauvage et des Espagnols très accueillants.
 
  
-![Espagne 2025](DSC02460.JPG_compressed.JPEG)
-![Espagne 2025](DSC02508.JPG_compressed.JPEG)
-![Espagne 2025](DSC02642.JPG_compressed.JPEG)
-![Espagne 2025](DSC02703.JPG_compressed.JPEG)
-![Espagne 2025](DSC02711.JPG_compressed.JPEG)
-![Espagne 2025](DSC02876.JPG_compressed.JPEG)
-![Espagne 2025](DSC02968.JPG_compressed.JPEG)
-![Espagne 2025](DSC03090.JPG_compressed.JPEG)
-![Espagne 2025](IMG_20250620_194359.jpg_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02460.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02508.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02642.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02703.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02711.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02876.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC02968.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/DSC03090.JPG_compressed.JPEG)
+![Espagne 2025](/content/images/2025/IMG_20250620_194359.jpg_compressed.JPEG)
+
 
