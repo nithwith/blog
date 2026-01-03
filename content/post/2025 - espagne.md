@@ -5,7 +5,7 @@ categories:
 date: "2025-08-01T12:43:58Z"
 description: ""
 draft: false
-image: https://theomarty.fr/content/images/2025/espagne/DSC02703.JPG_compressed.JPEG
+image: https://theomarty.fr/content/images/2025/IMG_20250620_194359.jpg_compressed.JPEG
 slug: espagne-2025
 tags:
 - Aventure
@@ -20,7 +20,6 @@ Cet été direction l'Espagne pour un mois d'aventure. Nous pensions mourrir de 
 ## L'itinéraire
 
 {{< my-map-espagne >}}
-[Voir l'itinéraire complet sur Komoot](https://www.komoot.com/fr-fr/collection/3683172)
 
 Par le menu :
 - **La Sierra de Gredos** : Conseillé par notre Warmshower madrilène,  c'est un massif montagneux a l'est de Madrid façonné par de belles rivières et une route romaine qui passe un col. Magnifique
@@ -77,6 +76,5 @@ Pour commencer, mon niveau en espagnol est proche du néant, j'ai tout laissé a
 ![Espagne 2025](/content/images/2025/DSC02876.JPG_compressed.JPEG)
 ![Espagne 2025](/content/images/2025/DSC02968.JPG_compressed.JPEG)
 ![Espagne 2025](/content/images/2025/DSC03090.JPG_compressed.JPEG)
-![Espagne 2025](/content/images/2025/IMG_20250620_194359.jpg_compressed.JPEG)
 
 
