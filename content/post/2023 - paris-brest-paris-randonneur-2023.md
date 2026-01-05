@@ -21,7 +21,9 @@ Mon défi de l'année 2023, c'était le Paris Brest Paris randonneur, le plus lo
  * 400km (Chantepie)
  * 600km (Angers)
 
-Je vous raconte maintenant mon expérience dans le post ci dessous
+{{< my-map-parisbrest >}}
+
+Je vous raconte mon expérience dans le post ci dessous
 
 Arrivée samedi sur site avec Sebastian Peña et Mickael B nous sommes projetés dans l'ambiance du Paris Brest Paris. Sur la route pour récupérer nos dossard nous sommes dépassés par des japonais, des brésiliens .. La folie, il a déjà beaucoup de monde.
 
@@ -51,4 +53,4 @@ Ensuite ..sieste tout l'aprem .. Merci pour la photo vincent guerrier ;)
 
 C'était fou cette balade, a posteriori, je me rends compte que je n'étais pas près pour autant de km mais en s'accrochant et grâce aux copains j'ai réussi a aller au bout ! Maintenant j'ai bien plus d'expérience pour retenter l'expérience dans 4 ans.
 
-Lien de ma sortie Strava
+[Lien de ma sortie Strava](https://www.strava.com/activities/9712152203)
